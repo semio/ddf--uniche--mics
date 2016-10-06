@@ -1,0 +1,6 @@
+https://mics-surveys-prod.s3.amazonaws.com/MICS5/Latin%20America%20and%20Caribbean/Belize/2015-2016/Key%20findings/Belize%202015-16%20MICS%20KFR_English.pdf
+https://mics-surveys-prod.s3.amazonaws.com/MICS5/West%20and%20Central%20Africa/Congo/2014-2015/Key%20findings/Congo%202014-15%20MICS%20KFR_French.pdf
+https://mics-surveys-prod.s3.amazonaws.com/MICS2/Eastern%20and%20Southern%20Africa/Zambia/1999/Final/Zambia%201999%20MICS_English.zip
+https://mics-surveys-prod.s3.amazonaws.com/MICS3/Central%20and%20Eastern%20Europe%20and%20the%20Commonwealth%20of%20Independent%20States/Turkmenistan/2006/Final/Turkmenistan%202006%20MICS_English.pdf
+https://mics-surveys-prod.s3.amazonaws.com/MICS2/Middle%20East%20and%20North%20Africa/Sudan%20%28South%29/1999/Final/Sudan%20%28South%29%201999%20MICS_English.pdf
+https://mics-surveys-prod.s3.amazonaws.com/MICS1/Latin%20America%20and%20Caribbean/Panama/1996/Final/Panama%201996%20MICS_Spanish.pdf
