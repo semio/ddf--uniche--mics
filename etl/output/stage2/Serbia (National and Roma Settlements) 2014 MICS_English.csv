@@ -1,0 +1,152 @@
+0,1,2,3,4,5
+Child mortality,,,,,
+Early childhood mortalityA,,,,,
+MICS Indicator,Indicator,Description,Serbia Roma SettlementsB,,
+1.2,MDG 4.2,Infant mortality rate,Probability of dying between birth and the first birthday,12.8,
+1.5,MDG 4.1,Under-five mortality rate,Probability of dying between birth and the fifth birthday,14.4,
+Nutrition,,,,,
+Nutritional status,,,,,
+MICS Indicator,Indicator,Description,Serbia,Serbia Roma Settlements,
+"2.1a
+2.1b",MDG 1.8,"Underweight prevalence
+Moderate and severeSevere","Percentage of children under age 5 who fall below
+minus two standard deviations (moderate and severe)minus three standard deviations (severe) of the median weight for age of the WHO standard","1.8
+0.2","9.5
+1.9"
+"2.2a
+2.2b",,"Stunting prevalence
+Moderate and severeSevere","Percentage of children under age 5 who fall below
+minus two standard deviations (moderate and severe)minus three standard deviations (severe) of the median height for age of the WHO standard","6.0
+2.3","18.5
+5.3"
+"2.3a
+2.3b",,"Wasting prevalence
+Moderate and severeSevere","Percentage of children under age 5 who fall below
+minus two standard deviations (moderate and severe)minus three standard deviations (severe) of the median weight for height of the WHO standard","3.9
+1.1","4.8
+1.9"
+2.4,,Overweight prevalence,Percentage of children under age 5 who are above two standard deviations of the median weight for height of the WHO standard,13.9,5.1
+Breastfeeding and infant feeding,,,,,
+2.5,Children ever breastfed,Percentage of women with a live birth in the last 2 years who breastfed their last live-born child at any time,90.4,94.4,
+2.6,Early initiation of breastfeeding,Percentage of women with a live birth in the last 2 years who put their last newborn to the breast within one hour of birth,50.8,69.1,
+2.7,Exclusive breastfeeding under 6 months,Percentage of infants under 6 months of age who are exclusively breastfed,12.8,13.0,
+2.8,Predominant breastfeeding under 6 months,Percentage of infants under 6 months of age who received breast milk as the predominant source of nourishment during the previous day,47.2,60.6,
+2.9,Continued breastfeeding at 1 year,Percentage of children age 12-15 months who received breast milk during the previous day,24.6,62.0,
+2.10,Continued breastfeeding at 2 years,Percentage of children age 20-23 months who received breast milk during the previous day,8.9,33.3,
+2.11,Median duration of breastfeeding,The age in months when 50 percent of children age 0-35 months did not receive breast milk during the previous day,10.5,15.7,
+2.12,Age-appropriate breastfeeding,Percentage of children age 0-23 months appropriately fed during the previous day,23.4,42.9,
+2.13,"Introduction of solid, semi-solid or soft foods","Percentage of infants age 6-8 months who received solid, semi-solid or soft foods during the previous day",96.6,89.6,
+2.14,Milk feeding frequency for non- breastfed children,Percentage of non-breastfed children age 6-23 months who received at least 2 milk feedings during the previous day,84.3,62.1,
+2.15,Minimum meal frequency,"Percentage of children age 6-23 months who received solid, semi-solid and soft foods (plus milk feeds for non-breastfed children) the minimum number of times or more during the previous day",94.4,71.7,
+2.16,Minimum dietary diversity,Percentage of children age 6-23 months who received foods from 4 or more food groups during the previous day,89.6,51.3,
+"2.17a
+2.17b",Minimum acceptable diet,Percentage of breastfed children age 6-23 months who had at least the minimum dietary diversity and the minimum meal frequency during the previous dayPercentage of non-breastfed children age 6-23 months who received at least 2 milk feedings and had at least the minimum dietary diversity not including milk feeds and the minimum meal frequency during the previous day,"68.9
+73.0","26.8
+36.5",
+2.18,Bottle feeding,Percentage of children age 0-23 months who were fed with a bottle during the previous day,83.1,72.0,
+Low-birthweight,,,,,
+2.20,Low-birthweight infants,Percentage of most recent live births in the last 2 years weighing below 2500 grams at birth,5.1,14.7,
+2.21,Infants weighed at birth,Percentage of most recent live births in the last 2 years who were weighed at birth,98.7,98.6,
+Child health,,,,,
+Vaccinations,,,,,
+MICS Indicator,Indicator,Description,Serbia,Serbia Roma Settlements,
+3.1,,Tuberculosis immunization coverage,Percentage of children age 12-23 months who received BCG vaccine by their first birthday,98.0,94.3
+3.2,,Polio immunization coverage,Percentage of children age 12-23 months who received the third dose of OPV vaccine (OPV3) by their first birthday,86.4,61.0
+3.3,,"Diphtheria, pertussis and tetanus (DPT) immunization coverage",Percentage of children age 12-23 months who received the third dose of DPT vaccine (DPT3) by their first birthday,87.4,64.5
+3.4,MDG 4.3,Measles immunization coverage,Percentage of children age 24-35 months who received measles vaccine by their second birthday,93.4,63.3
+3.5,,Hepatitis B immunization coverage,Percentage of children age 12-23 months who received the third dose of Hepatitis B vaccine (HepB3) by their first birthday,91.3,67.8
+3.6,,Haemophilus influenzae type B (Hib) immunization coverage,Percentage of children age 12-23 months who received the third dose of Hib vaccine (Hib3) by their first birthday,80.4,49.6
+3.8,,Full immunization coverage,Percentage of children age 24-35 months who received all vaccinations recommended in the national immunization schedule by their first birthday (by their second birthday for measles),70.5,12.7
+-,,Full immunization coverage at any time before the survey,Percentage of children age 24-35 months who received all vaccinations recommended in the national immunization schedule at any time before the survey,80.6,44.1
+Solid fuel use,,,,,
+3.15,Use of solid fuels for cooking,Percentage of household members in households that use solid fuels as the primary source of domestic energy to cook,34.2,81.9,
+Water and sanitation,,,,,
+MICS Indicator,Indicator,Description,Serbia,Serbia Roma Settlements,
+4.1,MDG 7.8,Use of improved drinking water sources,Percentage of household members using improved sources of drinking water,99.5,97.7
+4.2,,Water treatment,Percentage of household members in households using unimproved drinking water who use an appropriate treatment method,3.3,4.1
+4.3,MDG 7.9,Use of improved sanitation,Percentage of household members using improved sanitation facilities which are not shared,96.9,72.9
+Reproductive health,,,,,
+Contraception and unmet need,,,,,
+MICS Indicator,Indicator,Description,Serbia,Serbia Roma Settlements,
+-,,Total fertility rate,Total fertility rate for women age 15-49 years,1.6,(3.1)
+5.1,MDG 5.4,Adolescent birth rate,Age-specific fertility rate for women age 15-19 years,22,157
+5.2,,Early childbearing,Percentage of women age 20-24 years who had at least one live birth before age 18,1.4,38.3
+5.3,MDG 5.3,Contraceptive prevalence rate,Percentage of women age 15-49 years currently married or in union who are using (or whose partner is using) a (modern or traditional) contraceptive method,58.4,61.2
+5.4,MDG 5.6,Unmet need,Percentage of women age 15-49 years who are currently married or in union who are fecund and want to space their births or limit the number of children they have and who are not currently using contraception,14.9,13.9
+SS3,,Lifetime experience with abortion,Percentage of women age 15-49 years who had at least one induced abortion,14.6,30.6
+Maternal and newborn health,,,,,
+"5.5a
+5.5b","MDG 5.5
+MDG 5.5",Antenatal care coverage,"Percentage of women age 15-49 years with a live birth in the last 2 years who were attended during their last pregnancy that led to a live birth
+at least once by skilled health personnelat least four times by any provider","98.3
+93.9","95.5
+74.4"
+5.6,,Content of antenatal care,Percentage of women age 15-49 years with a live birth in the last 2 years who had their blood pressure measured and gave urine and blood samples during the last pregnancy that led to a live birth,93.6,86.9
+5.7,MDG 5.2,Skilled attendant at delivery,Percentage of women age 15-49 years with a live birth in the last 2 years who were attended by skilled health personnel during their most recent live birth,98.4,98.6
+5.8,,Institutional deliveries,Percentage of women age 15-49 years with a live birth in the last 2 years whose most recent live birth was delivered in a health facility,98.3,98.5
+5.9,,Caesarean section,Percentage of women age 15-49 years whose most recent live birth in the last 2 years was delivered by caesarean section,28.8,12.6
+Child development,,,,,
+MICS Indicator,Indicator,Description,Serbia,Serbia Roma Settlement,
+6.1,Attendance to early childhood education,Percentage of children age 36-59 months who are attending an early childhood education programme,50.2,5.7,
+6.2,Support for learning,Percentage of children age 36-59 months with whom an adult has engaged in four or more activities to promote learning and school readiness in the last 3 days,95.5,68.0,
+6.3,Father’s support for learning,Percentage of children age 36-59 months whose biological father has engaged in four or more activities to promote learning and school readiness in the last 3 days,36.5,17.3,
+6.4,Mother’s support for learning,Percentage of children age 36-59 months whose biological mother has engaged in four or more activities to promote learning and school readiness in the last 3 days,89.6,48.3,
+6.5,Availability of children’s books,Percentage of children under age 5 who have three or more children’s books,71.9,11.9,
+6.6,Availability of playthings,Percentage of children under age 5 who play with two or more types of playthings,75.0,53.2,
+Child development,,,,,
+MICS Indicator,Indicator,Description,Serbia,Serbia Roma Settlement,
+6.7,Inadequate care,Percentage of children under age 5 left alone or in the care of another child younger than 10 years of age for more than one hour at least once in the last week,1.3,3.6,
+6.8,Early child development index,"Percentage of children age 36-59 months who are developmentally on track in at least three of the following four domains: literacy-numeracy, physical, social-emotional, and learning",95.1,83.3,
+Literacy and education,,,,,
+MICS Indicator,Indicator,Description,Serbia,Serbia Roma Settlements,
+7.1,MDG 2.3,Literacy rate among young women,Percentage of young women age 15-24 years who are able to read a short simple statement about everyday life or who attended secondary or higher education,99.1,80.1
+7.2,,School readiness,Percentage of children in first grade of primary school who attended pre-school during the previous school year,98.1,79.9
+7.3,,Net intake rate in primary education,Percentage of children of school-entry age who enter the first grade of primary school,97.0,69.1
+Indicators according to the ISCED classification4,,,,,
+7.4,MDG 2.1,Primary school net attendance ratio (adjusted),Percentage of children of primary school age currently attending primary or secondary school,98.8,85.8
+7.5,,Secondary school net attendance ratio (adjusted),Percentage of children of secondary school age currently attending secondary school or higher,93.5,51.2
+SS,,Lower secondary school net attendance ratio (adjusted),Percentage of children of lower secondary school age currently attending lower secondary school or higher,96.2,67.1
+SS,,Upper secondary school net attendance ratio (adjusted),Percentage of children of upper secondary school age currently attending upper secondary school or higher,89.1,21.6
+7.6,MDG 2.2,Children reaching last grade of primary,Percentage of children entering the first grade of primary school who eventually reach last grade,99.8,96.5
+7.7,,Primary completion rate,Number of children attending the last grade of primary school (excluding repeaters) divided by number of children of primary school completion age (age appropriate to final grade of primary school),92.4,115.7
+7.8,,Transition rate to secondary school,Number of children attending the last grade of primary school during the previous school year who are in the first grade of secondary school during the current school year divided by number of children attending the last grade of primary school during the previous school year,99.6,92.6
+7.9,MDG 3.1,Gender parity index (primary school),Primary school net attendance ratio (adjusted) for girls divided by primary school net attendance ratio (adjusted) for boys,1.00,1.03
+7.10,MDG 3.1,Gender parity index (secondary school),Secondary school net attendance ratio (adjusted) for girls divided by secondary school net attendance ratio (adjusted) for boys,1.04,0.87
+SS,,Gender parity index (lower secondary school),Lower secondary school net attendance ratio (adjusted) for girls divided by lower secondary school net attendance ratio (adjusted) for boys,0.99,1.00
+SS,,Gender parity index (upper secondary school),Upper secondary school net attendance ratio (adjusted) for girls divided by upper secondary school net attendance ratio (adjusted) for boys,1.08,0.53
+Indicators according to the national education system classification5,,,,,
+7.S4,,Primary school net attendance ratio (adjusted),Percentage of children of primary school age currently attending primary or secondary school,98.5,84.9
+7.S5,,Secondary school net attendance ratio (adjusted),Percentage of children of secondary school age currently attending secondary school or higher,89.1,21.6
+7.S6,,Children reaching last grade of primary,Percentage of children entering the first grade of primary school who eventually reach last grade,97.9,77.0
+7.S7,,Primary completion rate,Number of children attending the last grade of primary school (excluding repeaters) divided by number of children of primary school completion age (age appropriate to final grade of primary school),93.4,64.0
+7.S8,,Transition rate to secondary school,Number of children attending the last grade of primary school during the previous school year who are in the first grade of secondary school during the current school year divided by number of children attending the last grade of primary school during the previous school year,96.3,58.7
+7.S9,,Gender parity index (primary school),Primary school net attendance ratio (adjusted) for girls divided by primary school net attendance ratio (adjusted) for boys,0.99,1.01
+7.S10,,Gender parity index (secondary school),Secondary school net attendance ratio (adjusted) for girls divided by secondary school net attendance ratio (adjusted) for boys,1.08,0.53
+Child protection,,,,,
+Birth registration,,,,,
+MICS Indicator,Indicator,Description,Serbia,Serbia Roma Settlements,
+8.1,Birth registration,Percentage of children under age 5 whose births are reported registered,99.4,95.3,
+Child labour,,,,,
+8.2,Child labour,Percentage of children age 5-17 years who are involved in child labour,9.5,4.7,
+Child discipline,,,,,
+8.3,Violent discipline,Percentage of children age 1-14 years who experienced psychological aggression or physical punishment during the last one month,43.1,65.9,
+Early marriage,,,,,
+8.4,Marriage before age 15,Percentage of women age 15-49 years who were first married or in union before age 15,0.8,16.9,
+8.5,Marriage before age 18,Percentage of women age 20-49 years who were first married or in union before age 18,6.8,57.0,
+8.6,Young women age 15-19 years currently married or in union,Percentage of young women age 15-19 years who are married or in union,3.5,42.7,
+"8.8a
+8.8b",Spousal age difference,"Percentage of young women who are married or in union and whose spouse is 10 or more years older,
+among women age 15-19 years,among women age 20-24 years","(9.1)
+10.3","6.3
+2.6",
+Attitudes towards domestic violence,,,,,
+8.12,Attitudes towards domestic violence,"Percentage of women age 15-49 years who state that a husband is justified in hitting or beating his wife in at least one of the following circumstances: (1) she goes out without telling him, (2) she neglects the children, (3) she argues with him, (4) she refuses sex with him, (5) she burns the food",3.8,37.0,
+Children’s living arrangements,,,,,
+8.13,Children’s living arrangements,Percentage of children age 0-17 years living with neither biological parent,0.7,3.4,
+8.14,Prevalence of children with one or both parents dead,Percentage of children age 0-17 years with one or both biological parents dead,1.7,2.3,
+8.15,Children with at least one parent living abroad,Percentage of children 0-17 years with at least one biological parent living abroad,1.2,1.8,
+Subjective well-being,,,,,
+MICS Indicator,Indicator,Description,Serbia,Serbia Roma Settlements,
+11.1,Life satisfaction,"Percentage of young women age 15-24 years who are very or somewhat satisfied with their life, overall",93.1,82.4,
+11.2,Happiness,Percentage of young women age 15-24 years who are very or somewhat happy,93.6,86.7,
+11.3,Perception of a better life,"Percentage of young women age 15-24 years whose life improved during the last one year, and who expect that their life will be better after one year",29.1,27.4,

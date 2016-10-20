@@ -1,0 +1,210 @@
+0,1,2,3,4,5,6
+CHILD MORTALITY,,,,,,
+Early childhood mortality,,,,,,
+"MICS
+Indicator",Indicator,Description,"Value A
+Palestine",West Bank,Gaza Strip,
+1.1,Neonatal mortality rate,Probability of dying within the first month of life,11,11,12,
+1.2 MDG 4.2,Infant mortality rate,Probability of dying between birth and the first birthday,18,17,20,
+1.3,Post-neonatal mortality rate,Difference between infant and neonatal mortality rates,7,6,8,
+1.4,Child mortality rate,Probability of dying between the first and the fifth birthdays,4,3,4,
+1.5 MDG 4.1,Under-five mortality rate,Probability of dying between birth and the fifth birthday,22,20,24,
+"A Indicator values are per 1,000 live births and refer to the five-year period before the survey",,,,,,
+NUTRITION,,,,,,
+Nutritional status,,,,,,
+"MICS
+Indicator",Indicator,Description,Palestine,West Bank,Gaza Strip,
+"MDG 1.8
+2.1a
+2.1b","Underweight Prevalence
+(a) Moderate and severe
+(b)Severe","Percentage of children under age 5 who fall below
+of the median weight for age of the WHO standard","1.4
+0.2","1.5
+0.3","1.3
+0.2",
+"2.2a
+2.2b",Stunting prevalence,"Percentage of children under age 5 who fall below
+of the median height for age of the WHO standard","7.4
+1.8","7.7
+2.4","7.1
+1.1",
+"2.3a
+2.3b",Wasting prevalence,Percentage of children under age 5 who fall below,"1.2
+0.3","1.7
+0.6","0.7
+0.1",
+2.4,"Overweight
+prevalence",Percentage of children under age 5 who are above two standard deviations of the median weight for height of the WHO standard,8.2,9.8,6.5,
+Breastfeeding and infant feeding,,,,,,
+"MICS
+Indicator",Indicator,Description,Palestine,West Bank,Gaza Strip,
+2.5,Children ever breastfed,Percentage of women with a live birth in the last 2 years who breastfed their last live-born child at any time,96.6,95.8,97.6,
+2.6,Early initiation of breastfeeding,Percentage of women with a live birth in the last 2 years who put their last newborn to the breast within one hour of birth,40.8,40.7,41.0,
+2.7,Exclusive breastfeeding under 6 months,Percentage of infants under 6 months of age who are exclusively breastfed,38.6,40.6,36.4,
+2.8,Predominant breastfeeding under 6 months,Percentage of infants under 6 months of age who received breast milk as the predominant source of nourishment during the previous day,50.0,52.9,46.7,
+2.9,Continued breastfeeding at 1 year,Percentage of children age 12-15 months who received breast milk during the previous day,52.9,48.4,58.7,
+2.10,Continued breastfeeding at 2 years,Percentage of children age 20-23 months who received breast milk during the previous day,11.5,13.8,8.4,
+2.11,Median duration of breastfeeding,The age in months when 50 percent of children age 0-35 months did not receive breast milk during the previous day,13.9,13.3,14.2,
+2.12,Age-appropriate breastfeeding,Percentage of children age 0-23 months appropriately fed during the previous day,43.4,42.0,45.1,
+2.13,"Introduction of solid, semi-solid or soft foods","Percentage of infants age 6-8 months who received solid, semi-solid or soft foods during the previous day",89.6,87.7,91.6,
+2.14,Milk feeding frequency for non-breastfed children,Percentage of non-breastfed children age 6-23 months who received at least 2 milk feedings during the previous day,69.6,79.1,57.6,
+2.15,Minimum meal frequency,"Percentage of children age 6-23 months who received solid, semi-solid and soft foods (plus milk feeds for non-breastfed children) the minimum number of times or more during the previous day",75.4,75.4,75.4,
+2.16,Minimum dietary diversity,Percentage of children age 6–23 months who received foods from 4 or more food groups during the previous day,62.6,68.9,55.1,
+"2.17a
+2.17b
+2.18","Minimum acceptable diet
+Bottle feeding",Percentage of children age 0-23 months who were fed with a bottle during the previous day,"40.2
+43.8
+42.4","44.5
+51.6
+47.5","35.7
+33.9
+36.3",
+Salt iodization,,,,,,
+2.19,Iodized salt consumption,Percentage of households with salt testing 15 parts per million or more of potassium iodide or potassium iodate,73.2,69.3,79.7,
+Low-birthweight,,,,,,
+2.20,Low-birthweight infants,"Percentage of most recent live births in the last 2 years weighing below 2,500 grams at birth",8.3,8.4,8.3,
+2.21,Infants weighed at birth,Percentage of most recent live births in the last 2 years who were weighed at birth,99.7,99.6,99.8,
+"CHILD HEALTH
+Vaccinations",,,,,,
+"MICS
+Indicator",Indicator,Description,Palestine,West Bank,Gaza Strip,
+3.1,Tuberculosis immunization coverage,Percentage of children age 12-23 months who received BCG vaccine by their first birthday,98.8,98.2,99.3,
+3.2,Polio immunization coverage,Percentage of children age 12-23 months who received the third dose of OPV vaccine (OPV3) by their first birthday,97.9,97.6,98.2,
+3.3,"Diphtheria, pertussis",Percentage of children age 12-23 months who,96.9,96.6,97.2,
+3.5,"and tetanus (DPT),",received the third dose of Penta vaccine,,,,
+3.6,hepatitis B (HepB) and,"(diphtheria, pertussis, tetanus, hepatitis B and",,,,
+haemophilus influenza,haemophilus influenza B) by their first birthday,,,,,
+type B (Hib),,,,,,
+immunization coverage,,,,,,
+(Pentavalent),,,,,,
+3.4 MDG 4.3,Measles immunization coverage,Percentage of children age 24-35 months who received measles vaccine by their second birthday,97.0,96.9,97.1,
+3.8,Full immunization coverage,Percentage of children age 24-35 months who received all vaccinations recommended in the national immunization schedule by their first birthday (measles by second birthday),89.9,89.8,90.0,
+Diarrhoea,,,,,,
+- Children with diarrhoea,Percentage of children under age 5 with diarrhoea in the last 2 weeks,11.3,11.4,11.1,,
+3.10,Care-seeking for diarrhoea,Percentage of children under age 5 with diarrhoea in the last 2 weeks for whom advice or treatment was sought from a health facility or provider,52.9,52.4,53.4,
+3.S1,Diarrhoea treatment with oral rehydration salts (ORS),Percentage of children under age 5 with diarrhoea in the last 2 weeks who received ORS,31.5,35.8,26.5,
+3.12,Diarrhoea treatment with oral rehydration therapy (ORT) and continued feeding,"Percentage of children under age 5 with diarrhoea in the last 2 weeks who received ORT (ORS packet, pre-packaged ORS fluid, or increased fluids) and continued feeding during the episode of diarrhoea",38.2,41.4,34.4,
+Acute Respiratory Infection (ARI) symptoms,,,,,,
+-       Children with ARI symptoms,Percentage of children under age 5 with ARI symptoms in the last 2 weeks,10.7,11.0,10.4,,
+3.13,Care-seeking for children with ARI symptoms,Percentage of children under age 5 with ARI symptoms in the last 2 weeks for whom advice or treatment was sought from a health facility or provider,76.5,78.6,74.0,
+3.14,Antibiotic treatment for children with ARI symptoms,Percentage of children under age 5 with ARI symptoms in the last 2 weeks who received antibiotics,70.3,72.7,67.4,
+Solid fuel use,,,,,,
+3.15,Use of solid fuels for cooking,Percentage of household members in households that use solid fuels as the primary source of domestic energy to cook,1.8,0.5,3.7,
+WATER AND SANITATION,,,,,,
+MICS Indicator,Indicator,Description,Palestine,West Bank,Gaza Strip,
+4.1,MDG 7.8,Use of improved drinking water sources,Percentage of household members using improved sources of drinking water,61.5,96.8,10.4
+4.2,Water treatment,Percentage of household members in households using unimproved drinking water who use an appropriate treatment method,1.3,11.0,0.8,
+4.3,MDG 7.9,Use of improved sanitation,Percentage of household members using improved sanitation facilities which are not shared,98.6,98.8,98.4
+"REPRODUCTIVE HEALTH
+Contraception and unmet need",,,,,,
+MICS Indicator,Indicator,Description,Palestine,West Bank,Gaza Strip,
+- Total fertility rate,Total fertility rateA for women age 15-49 years,4.1,3.7,4.5,,
+5.1,MDG 5.4,Adolescent birth rate,Age-specific fertility rateA for women age 15-19 years,48,35,66
+5.2,Early childbearing,Percentage of women age 20-24 years who 22.0 had at least one live birth before age 18,19.6,25.1,,
+5.3,MDG 5.3,Contraceptive prevalence rate,Percentage of women age 15-49 years currently married who are using (or whose partner is using) a (modern or traditional) contraceptive method,57.2,59.8,53.4
+5.4,MDG 5.6,Unmet need,"Percentage of women age 15-49 years who 10.9 are currently married who are fecund and
+want to space their births or limit the number of children they have and who are not currently using contraception",11.0,10.7,
+"A The age-specific fertility rate is defined as the number of live births to women in a specific age group during a specified period, divided by the average number of women in that age group during the same period, expressed per 1,000 women. The age-specific fertility rate for women age 15-19 years is also termed as the adolescent birth rate.
+The total fertility rate (TFR) is calculated by summing the age-specific fertility rates calculated for each of the 5-year age groups of women, from age 15 through to age 49. The TFR denotes the average number of children to which a woman will have given birth by the end of her reproductive years (by age 50) if current fertility rates prevailed.",,,,,,
+MICS Indicator,Indicator,Description,Palestine,West Bank,Gaza Strip,
+,,Antenatal,Percentage of women age 15-49 years with a live,,,
+,,care coverage,birth in the last 2 years who were attended during,,,
+,,,their last pregnancy that led to a live birth,,,
+5.5a,MDG 5.5,,(a) at least once by skilled health personnel,99.4,99.3,99.5
+5.5b,MDG 5.5,,(b) at least four times by any provider,95.5,95.7,95.3
+5.6,Content of antenatal care,Percentage of women age 15-49 years with a live birth in the last 2 years who had their blood pressure measured and gave urine and blood samples during the last pregnancy that led to a live birth,95.8,93.9,98.1,
+5.7,MDG 5.2,Skilled attendant at delivery,Percentage of women age 15-49 years with a live birth in the last 2 years who were attended by skilled health personnel during their most recent live birth,99.6,99.6,99.5
+5.8,Institutional deliveries,Percentage of women age 15-49 years with a live birth in the last 2 years whose most recent live birth was delivered in a health facility,99.3,99.3,99.4,
+5.9,Caesarean section,Percentage of women age 15-49 years whose most recent live birth in the last 2 years was delivered by caesarean section,20.3,22.7,17.4,
+Post-natal health checks,,,,,,
+MICS Indicator,Indicator,Description,Palestine,West Bank,Gaza Strip,
+5.10,Post-partum stay in health facility,Percentage of women age 15-49 years who stayed in the health facility for 12 hours or more after the delivery of their most recent live birth in the last 2 years,58.5,81.3,31.0,
+5.11,Post-natal health check for the newborn,"Percentage of last live births in the last 2 years who received a health check while in facility or at home following delivery, or a post-natal care visit within 2 days after delivery",93.9,96.9,90.2,
+5.12,Post-natal health check for the mother,"Percentage of women age 15-49 years who received a health check while in facility or  at home following delivery, or a post-natal care visit within 2 days after delivery of their most recent live birth in the last 2 years",90.7,89.7,91.8,
+CHILD DEVELOPMENT,,,,,,
+MICS Indicator,Indicator,Description,Palestine,West Bank,Gaza Strip,
+6.1,Attendance to early childhood education,Percentage of children age 36-59 months who are attending an early childhood education programme,26.4,27.2,25.5,
+6.2,Support for learning,Percentage of children age 36-59 months with whom an adult has engaged in four or more activities to promote learning and school readiness in the last 3 days,77.5,82.7,71.5,
+6.3,Father’s support for learning,Percentage of children age 36-59 months whose biological father has engaged in four or more activities to promote learning and school readiness in the last 3 days,12.0,14.1,9.7,
+6.4,Mother’s support for learning,Percentage of children age 36-59 months whose biological mother has engaged in four or more activities to promote learning and school readiness in the last 3 days,54.4,59.2,48.9,
+6.5,Availability of children’s books,Percentage of children under age 5 who have three or more children’s books,19.9,20.2,19.5,
+6.6,Availability of playthings,Percentage of children under age 5 who play with two or more types of playthings,69.1,71.9,65.9,
+6.7,Inadequate care,Percentage of children under age 5 left alone or in the care of another child younger than 10 years of age for more than one hour at least once in the last week,14.3,13.1,15.6,
+6.8,Early child development index,"Percentage of children age 36-59 months who are developmentally on track in at least three of the following four domains: literacy- numeracy, physical, social-emotional, and learning",72.0,76.0,67.5,
+LITERACY AND EDUCATION,,,,,,
+Survey Indicator,Indicator,Description,Palestine,West Bank,Gaza Strip,
+MICS 7.1,MDG 2.3,Literacy rate among young woman,Percentage of young woman age 15-24 years who are able to read a short simple statement about everyday life or who attended secondary or higher education,97.2,97.6,96.5
+7.2,School readiness,Percentage of children in first grade of basic school who attended pre-school during the previous school year,94.1,91.9,97.2,
+7.3,Net intake rate in basic education,Percentage of children of school-entry age who enter the first grade of basic school,96.9,97.3,96.5,
+7.4,MDG 2.1,Primary school net attendance ratio (adjusted),Percentage of children of primary school age currently attending primary or secondary school,98.8,98.9,98.7
+7.5,Secondary,Percentage of children of secondary school age,89.8,89.5,90.2,
+,school net,currently attending secondary school or higher,,,,
+,attendance ratio,,,,,
+,(adjusted),,,,,
+7.6,MDG 2.2,Children reaching last grade of primary,Percentage of children entering the first grade of primary school who eventually reach last grade,99.8,99.7,99.9
+7.7,Primary completion rate,Number of children attending the last grade of primary school (excluding repeaters) divided by number of children of primary school completion age (age appropriate to final grade of primary school),99.6,98.6,101.0,
+7.8,Transition rate to secondary school,Number of children attending the last grade of primary school during the previous school year who are in the first grade of secondary school during the current school year divided by number of children attending the last grade of primary school during the previous school year,98.3,99.9,96.3,
+7.9,MDG 3.1,Gender parity index (primary school),Primary school net attendance ratio (adjusted) for girls divided by primary school net attendance ratio (adjusted) for boys,1.00,1.00,1.00
+7.10,MDG 3.1,Gender parity index (secondary school),Secondary school net attendance ratio (adjusted)  for girls divided by secondary school net attendance ratio (adjusted) for boys,1.06,1.12,1.08
+7.S1,Basic school net attendance ratio (adjusted),Percentage of children of basic school age currently attending basic or secondary school,96.8,96.7,97.0,
+7.S2,Secondary,Percentage of children of secondary school age,71.7,70.7,73.2,
+,school net,currently attending secondary school or higher,,,,
+,attendance ratio,,,,,
+,(adjusted),,,,,
+7.S3,Children reaching last grade of basic,Percentage of children entering the first grade of basic school who eventually reach last grade,92.1,92.1,92.0,
+7.S4,Basic completion rate,Number of children attending the last grade of basic school (excluding repeaters) divided by number of children of basic school completion age (age appropriate to final grade of basic school),88.7,90.7,85.4,
+7.S5,Transition rate to secondary school,Number of children attending the last grade of basic school during the previous school year who are in the first grade of secondary school during the current school year divided by number of children attending the last grade of basic school during the previous school year,93.5,92.7,94.7,
+7.S6,Gender parity index (basic school),Basic school net attendance ratio (adjusted) for girls divided by basic school net attendance ratio (adjusted) for boys,1.03,1.04,1.02,
+7.S7,"Gender parity
+index (secondary school)","Secondary school net attendance ratio (adjusted)
+for girls divided by secondary school net attendance ratio (adjusted) for boys",1.27,1.32,1.20,
+"CHILD PROTECTION
+Birth registration",,,,,,
+MICS Indicator,Indicator,Description,"Palestine West
+Bank",Gaza Strip,,
+8.1,Birth registration,Percentage of children under age 5 whose births are reported registered,99.3 99.1,99.6,,
+Child discipline,,,,,,
+8.3,Violent discipline,Percentage of children age 1-14 years who experienced psychological aggression or physical punishment during the last one month,92.2 90.4,94.5,,
+Early marriage and polygyny,,,,,,
+MICS Indicator,Indicator,Description,Palestine,West Bank,Gaza Strip,
+8.4,Marriage before age 15,Percentage of women age 15-49 years who were first married before age 15,2.1,1.8,2.6,
+8.5,Marriage before age 18,Percentage of women age 20-49 years who were first married before age 18,24.2,21.4,28.6,
+8.6,Young Woman age 15-19 years currently married,Percentage of young women age 15-19 years who are married,9.3,6.8,12.8,
+8.7,Polygyny,Percentage of women age 15-49 years who are in a polygynous marriage,4.3,3.2,5.8,
+,,Percentage of women who are married and,,,,
+8.8a,Spousal age,"whose spouse is 10 or more years older,",,,,
+8.8b,difference,(a) among women age 15-19 years,13.2,15.1,11.8,
+,,(b) among women age 20-24 years,11.9,14.5,8.9,
+Children’s living arrangements,,,,,,
+8.13,Children’s living arrangements,Percentage of children age 0-17 years living with neither biological parent,0.6,0.3,0.9,
+8.14,Prevalence of,Percentage of children age 0-17 years with,2.3,2.0,2.6,
+,children with one,one or both biological parents dead,,,,
+,or both parents,,,,,
+,dead,,,,,
+8.15,Children with at least one parent living abroad,Percentage of children 0-17 years with at least one biological parent living abroad,0.3,0.3,0.3,
+"HIV/AIDS
+HIV/AIDS knowledge and attitudes",,,,,,
+MICS Indicator,Indicator,Description,Palestine,West Bank,Gaza Strip,
+"- Have heard of
+AIDS",Percentage of woman age 15-49 years who have heard of AIDS,95.0,96.4,92.9,,
+Knowledge,Percentage of woman age 15-49 years who,7.7,9.9,4.5,,
+about HIV,correctly identify ways of preventing the,,,,,
+prevention,"sexual transmission of HIV, and who reject",,,,,
+among woman,major misconceptions about HIV transmission,,,,,
+(15-49),,,,,,
+"9.1 MDG
+6.3",Knowledge about HIV prevention among young woman,"Percentage of woman age 15-24 years who correctly identify ways of preventing the sexual transmission of HIV, and who reject major misconceptions about HIV transmission",6.2,8.2,4.6,
+9.2,Knowledge of,Percentage of woman age 15-49 years who,43.5,42.6,44.9,
+mother-to-child,correctly identify all three means of mother-to-,,,,,
+transmission of,child transmission of HIV,,,,,
+HIV,,,,,,
+9.3,Accepting attitudes towards people living with HIV,Percentage of woman age 15-49 years expressing accepting attitudes on all four questions toward people living with HIV,5.0,5.1,4.8,
+HIV testing,,,,,,
+MICS Indicator,Indicator,Description,"Palestine West
+Bank",Gaza Strip,,
+9.4,People who,Percentage of Women age 15-49 years,19.7 19.1,20.6,,
+,know where to,who state knowledge of a place to be,,,,
+,be tested for,tested for HIV,,,,
+,HIV,,,,,

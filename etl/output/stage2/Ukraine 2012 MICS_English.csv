@@ -1,0 +1,153 @@
+0,1,2,3,4,5
+Topic,MICS Indicator,MDG Indicator,Indicator,Value,
+,Number,Number,,,
+Child Mortality2,,,,,
+Child Mortality,1.1,4.1,Under-five mortality rate,7,"per 1,000"
+,1.2,4.2,Infant mortality rate,7,"per 1,000"
+,1.3,,Neonatal mortality rate,4,"per 1,000"
+,1.4,,Post-neonatal mortality rate,3,"per 1,000"
+,1.5,,Child mortality rate,0,"per 1,000"
+Nutrition,,,,,
+Breastfeeding and,2.4,,Children ever breastfed,95.4,per cent
+Infant Feeding,2.5,,Early initiation of breastfeeding,65.7,per cent
+,2.6,,Exclusive breastfeeding under 6 months,19.7,per cent
+,2.7,,Continued breastfeeding at 1 year,37.9,per cent
+,2.8,,Continued breastfeeding at 2 years,22.0,per cent
+,2.9,,Predominant breastfeeding under 6 months,51.6,per cent
+,2.10,,Duration of breastfeeding,9.8,months
+,2.11,,Bottle feeding,66.6,per cent
+,2.12,,"Introduction of solid, semi-solid or soft foods",43.2,per cent
+,2.13,,Minimum meal frequency,63.7,per cent
+,2.14,,Age-appropriate breastfeeding,24.3,per cent
+,2.15,,Milk feeding frequency for non- breastfed children,95.2,per cent
+Salt Iodisation,2.16,,Iodized salt consumption,20.7,per cent
+Low Birth Weight,2.18,,Low-birth weight infants,3.1,per cent
+,2.19,,Infants weighed at birth,97.2,per cent
+Child Health,,,,,
+Vaccinations,3.1,,Tuberculosis immunization coverage,94.5,per cent
+,3.2,,Polio immunization coverage,47.8,per cent
+,3.3,,"Immunization coverage for diphtheria, pertussis and tetanus (DPT)",41.8,per cent
+,3.4,4.3,Measles immunization coverage,62.7,per cent
+,3.5,,Hepatitis B immunization coverage,26.1,per cent
+Care of Illness,3.8,,Oral rehydration therapy with continued feeding,69.3,per cent
+,3.9,,Care-seeking for suspected pneumonia,92.3,per cent
+,3.10,,Antibiotic treatment of suspected pneumonia,88.2,per cent
+Solid Fuel use,3.11,,Solid fuels,5.1,per cent
+Water and Sanitation,,,,,
+Water and,4.1,7.8,Use of improved drinking water sources,98.2,per cent
+Sanitation,4.2,,Water treatment,21.9,per cent
+,4.3,7.9,Use of improved sanitation,97.7,per cent
+Reproductive Health,,,,,
+Contraception and,5.1,5.4,Adolescent birth rate,34,"per 1,000"
+Unmet Need,5.2,,Early childbearing,4.4,per cent
+,5.3,5.3,Contraceptive prevalence rate,65.5,per cent
+,5.4,5.6,Unmet need,4.9,per cent
+Topic,MICS Indicator Number,MDG Indicator Number,Indicator,Value,
+Maternal and NewbornHealth,5.5a,5.5,Antenatal care coverage,98.6,per cent per cent
+,5.5b,,At least once by skilled personnel At least four times by any provider,87.2,
+5.6,,Content of antenatal care,98.6,per cent,
+5.7,5.2,Skilled attendant at delivery,99.0,per cent,
+5.8,,Institutional deliveries,98.9,per cent,
+5.9,,Caesarean section,12.1,per cent,
+Post-Natal Health Checks,5.10,,Post-partum stay in health facility,99.9,per cent
+5.11,,Post-natal health check for the new born,98.9,per cent,
+5.12,,Post-natal health check for the mother,95.6,per cent,
+Child Development,,,,,
+Child Development,6.1,,Support for learning,97.5,per cent
+6.2,,Father’s support for learning,71.1,per cent,
+6.3,,Learning materials: children’s books,91.2,per cent,
+6.4,,Learning materials: playthings,51.6,per cent,
+6.5,,Inadequate care,6.5,per cent,
+6.6,,Early Child Development Index,89.0,per cent,
+6.7,,Attendance to early childhood education,51.9,per cent,
+Literacy and Education,,,,,
+Literacy and Education,7.1,2.3,Literacy rate among young people aged 15– 24 years,100.0,per cent per cent
+,,,women aged 15–24 years men aged 15–24 years,100.0,
+7.2,,School readiness,78.5,per cent,
+7.3,,Net intake rate in primary education,94.0,per cent,
+7.4,2.1,Primary school net attendance ratio (adjusted),99.8,per cent,
+7.5,,Secondary school net attendance ratio (adjusted),93.1,per cent,
+7.6,2.2,Children reaching last grade of primary school,100.0,per cent,
+7.7,,Primary completion rate,95.1,per cent,
+7.8,,Transition rate to secondary school,91.1,per cent,
+7.9,3.1,Gender Parity Index (primary school),1.00,ratio,
+7.10,3.1,Gender Parity Index (secondary school),1.00,ratio,
+Child Protection,,,,,
+Birth Registration,8.1,,Birth registration,99.8,per cent
+Child Labour,8.2,,Child labour,2.4,per cent
+8.3,,School attendance among child labourers,95.2,per cent,
+8.4,,Child labour among students,5.2,per cent,
+Child Discipline,8.5,,Violent discipline,61.2,per cent
+Early Marriage,8.6,,Marriage before age 15 Women age 15–49 years Men age 15–49 years,0.4,per cent per cent
+,,,,0.0,
+8.7,,Marriage before age 18,11.0,per cent,
+,,Women age 20–49 years who were first married or in union by the exact age,2.9,per cent,
+,,of 18,,,
+,,Men age 20–49 years who were first married or in union by the exact age of 18,,,
+8.8,,Young women age 15–19 years currently married or in union,6.5,per cent,
+Young men age 15–19 currently married or in union,0.3,per cent,,,
+Topic,MICS Indicator Number,MDG Indicator Number,Indicator,Value,
+,,,Spousal age difference,,
+,8.10a,,Women age 15-19 years,8.8,per cent
+8.10b,,Women age 20-24 years,5.1,per cent,
+Domestic Violence,8.14,,Attitudes towards domestic violence,,
+women aged 15–49 years,2.9,per cent,,,
+men aged 15–49 years,9.4,per cent,,,
+HIV/AIDS and Sexual Behaviour,,,,,
+HIV/,9.1,,Comprehensive knowledge about HIV prevention,,
+AIDS Knowledge and Attitudes,,,,,
+women aged 15–49 years,53.8,per cent,,,
+men aged 15–49 years,46.7,per cent,,,
+9.2,6.3,Comprehensive knowledge about HIV prevention among young people,,,
+women aged 15–24 years,49.9,per cent,,,
+men aged 15–24 years,45.8,per cent,,,
+9.3,,Knowledge of mother-to-child transmission of HIV,,,
+women aged 15–49 years,50.6,per cent,,,
+men aged 15–49 years,35.9,per cent,,,
+9.4,,Accepting attitudes towards people living with HIV,,,
+women aged 15–49 years,0.7,per cent,,,
+men aged 15–49 years,0.8,per cent,,,
+9.5,,Women who know where to be tested for HIV,90.6,per cent per cent,
+,,Men who know where to be tested for HIV,87.3,,
+9.6,,Women who have been tested for HIV and know the results,8.7,per cent per cent,
+,,Men who have been tested for HIV and know the results,8.1,,
+9.7,,Sexually active young women who have been tested for HIV and know the results Sexually active young men who have been tested for HIV and know the results,17.5,per cent per cent,
+,,,13.0,,
+9.8,,HIV counselling during antenatal care,74.9,per cent,
+9.9,,HIV testing during antenatal care,84.5,per cent,
+Sexual Behaviour,9.10,,Young men who have never had sex Young women who have never had sex,35.6,per cent per cent
+,,,,61.5,
+9.11,,Sex before age 15 among young people women aged 15–24 years,0.4,per cent per cent,
+,,men aged 15–24 years,1.8,,
+9.12,,Age-mixing among sexual partners women aged 15–24 years,4.8,per cent per cent,
+,,men aged 15–24 years,0.3,,
+9.13,,Sex with multiple partners women aged 15–49 years men aged 15–49 years,3.1,per cent per cent,
+,,,12.6,,
+9.14,,Condom use during sex with multiple partners,53.3,per cent per cent,
+,,women aged 15–49 years men aged 15–49 years,69.0,,
+9.15,,Sex with non-regular partners women aged 15–24 years men aged 15–24 years,45.9,per cent per cent,
+,,,84.0,,
+,9.16,6.2,Condom use with non-regular partners women aged 15–24 years,74.3,per cent per cent
+,,,men aged 15–24 years,82.5,
+Topic,MICS Indicator Number,MDG Indicator Number,Indicator,Value,
+Orphaned children,9.17,,Children’s living arrangements,2.7,per cent
+,9.18,,Prevalence of children with one or both parents dead,4.7,per cent
+Access to Mass Media and Use of Information/Communication Technology,,,,,
+Access to Mass Media,MT.1,,Exposure to mass media women aged 15–49 years men aged 15–49 years,35.8,per cent per cent
+,,,,34.6,
+Use of Information/ Communication Technology,MT.2,,Use of computers,91.1,per cent per cent
+,,,women aged 15–24 years men aged 15–24 years,94.9,
+,MT.3,,Use of internet,88.8,per cent per cent
+,,,women aged 15–24 years men aged 15–24 years,92.1,
+Subjective Well-Being,,,,,
+Subjective Well- being,SW.1,,Life satisfaction,56.0,per cent per cent
+,,,women aged 15–24 years men aged 15–24 years,56.0,
+,SW.2,,Happiness,90.2,per cent per cent
+,,,women aged 15–24 years men aged 15–24 years,88.1,
+,SW.3,,Perception of a better life women aged 15–24 years men aged 15–24 years,22.6,per cent per cent
+,,,,17.1,
+Tobacco and Alcohol Use Among Women,,,,,
+Tobacco Use,TA.1,,Tobacco use,17.1,per cent
+,TA.2,,Smoking before age 15,2.9,per cent
+Alcohol Use,TA.3,,Alcohol use,48.4,per cent
+,TA.4,,Use of alcohol before age 15,5.2,per cent

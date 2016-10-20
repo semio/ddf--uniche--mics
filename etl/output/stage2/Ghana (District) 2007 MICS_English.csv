@@ -1,0 +1,376 @@
+0,1,2,3,4,5
+Topic,MICS,MDG,Indicator,Value,
+,Indicator Number,Indicator Number,,,
+CHILD MORTALITY,,,,,
+Child mortality,1,13,Under -five mortality rate,120,per thousand
+2,14,Infant mortality rate,64,per thousand,
+NUTRITION,,,,,
+Nutritional status,6,4,Underweight prevalence,29.3,Percent
+7,,Stunting prevalence,31.1,Percent,
+8,,Wasting prevalence,8.8,Percent,
+Breastfeeding,45,,Timely initiation of breastfeeding,43.0,Percent
+15,,Exclusive breastfeeding rate,67.2,Percent,
+16,,Continued breastfeeding rate,,,
+at 12-15 months,98.5,Percent,,,
+at 20-23 months,80.3,Percent,,,
+17,,Timely complementary feeding rate,53.2,Percent,
+18,,Frequency of complementary feeding,48.3,Percent,
+19,,Adequately fed infants,58.2,Percent,
+Salt iodization,41,,Iodized salt consumption,11.4,Percent Percent
+,,,MICS DHS,11.9,
+Vitamin A,42,,Vitamin A supplementation (under-fives),50.7,Percent
+43,,Vitamin A supplementation (post-partum mothers),38.8,Percent,
+Low birth weight,9,,Low birth weig ht infants,7.8,Percent
+10,,Infants weighed at birth,10.3,Percent,
+CHILD HEALTH,,,,,
+Immunization,25,,Tuberculosis immunization coverage,95.4,Percent
+26,,Polio immunization co verage,84.6,Percent,
+27,,DPTHepbHib immunization coverage,85.9,Percent,
+28,15,Measles immunization coverage,81.8,Percent,
+31,,Fully immunized children,69.3,Percent,
+30,,Yellow fever immunization coverage,80.9,Percent,
+Tetanus toxoid,32,,Neonatal tetanus protection,71.8,Percent
+Care of illness,33,,Use of oral dehydration therapy (ORT),29.0,Percent
+34,,Home management of diarrhoea,25.6,Percent,
+,23,,Care seeking for suspected pneumonia,35.6,Percent
+22,,Antibiotic treatment of suspected pneumonia,25.5,Percent,
+Solid fuel use,24,29,Solid fuels,97.3,Percent
+Malaria,36,,Household availability of insecticide-treated nets (ITNs),54.7,Percent
+Source and cost of supplies,96,,Source of supplies (from public sources),49.6,Percent
+,,Insecticide treated nets,78.0,Percent,
+,,Antimalarials,55.6,Percent,
+97,,Cost of supplies (median costs),,,
+,,Insecticide treated nets public sources,1.00,GHC,
+,,private sources,1.50,GHC,
+,,Antimalarials public sources,2.00,GHC,
+,,private sources,0.80,GHC,
+ENVIRONMENT,,,,,
+Water and Sanitation,11,30,Use of improved drinking water sources,61.8,Percent
+13,,Water treatment,3.9,Percent,
+12,31,Use of improved sanitation facilities,21.4,Percent,
+14,,Disposal of child's faeces,5.9,Percent,
+REPRODUCTIVE HEALTH,,,,,
+Contraception and unmet need,21,19c,Contraceptive prevalence,7.8,Percent
+Maternal and newborn health,20,,Antenatal care,88.9,Percent
+44,,Content of antenatal care,92.0,Percent,
+,,,Blood test taken,54.2,Percent
+,,,Blood pressure measured,89.0,Percent
+,,,Urine specimen taken,50.1,Percent
+,,,Weight measured,89.4,Percent
+,4,17,Skilled attendant at deli very,19.3,Percent
+5,,Institutional deliveries,17.5,Percent,
+CHILD DEVELOPMENT,,,,,
+Child development,46,,Support for learning,19.1,Percent
+47,,Father's support for learning,52.2,Percent,
+48,,Support for learning: children’s books,4.7,Percent,
+49,,Support for learning: non-children’s books,24.3,Percent,
+50,,Support for learning: materials for play,16.6,Percent,
+51,,Non -adult care,35.4,Percent,
+EDUCATION,,,,,
+Education,52,,Pre-school attendance,40.2,Percent
+53,,School readiness,80.4,Percent,
+54,,Net intake rate in primary education,47.5,Percent,
+55,6,Net primary school attendance rate,60.2,Percent,
+56,,Net secondary school attendance rate,25.1,Percent,
+58,,Transition rate to secondary school,89.1,Percent,
+59,7b,Primary completion rate,14.0,Percent,
+61,9,Gender parity index,1.00,Ratio Ratio,
+,,primary school secondary school,0.76,,
+Literacy,60,8,Adult literacy rate (youth) women,31.5,Percent
+CHILD PROTECTION,,,,,
+Birth registratio n,62,,Birth registration,51.6,Percent
+Child labour,71,,Child labour,45.1,Percent
+72,,Labourer students,62.3,Percent,
+73,,Student labourers,41.4,Percent,
+Child discipline,74,,Child discipline,84.3,Percent
+,,,Any psychological/physical punishment,,
+Early marriage and polygyny,67,,Marriage before age 15 Marriage before age 18,5.6,Percent Percent
+,,,,34.3,
+68,,Young women aged 15-19 currently married/in union,14.0,Percent,
+70,,Polygamy,42.8,Percent,
+69,,Spousal age difference,13.6,Percent Percent,
+,,women aged 15-19,17.9,,
+,,women aged 20-24,,,
+Female genital mutilation/,66,,Approval for FGM/C,4.7,Percent
+cutting,,,,,
+63,,Prevalence of female genital mutilation/cutting (FGM/C),4.5,Percent,
+Domestic violence,100,,Attitudes towards domestic violence women,83.0,Percent
+Disability,101,,Child disability,16.7,Percent
+"HIV/AIDS, SEXUAL BEHAVIOUR, AND ORPHANED AND VULNERABLE CHILDREN",,,,,
+HIV/AIDS,82,19b,Comprehensive knowledge about HIV prevention among young women 15-24 years,17.6,Percent
+knowledge and attitudes,,,,,
+,89,,Knowledge of mother-to-child transmission of HIVwomen,64.9,Percent
+,86,,Attitude towards women with HIV/AIDS,3.1,Percent
+,87,,Women who know where to be tested for HIV,30.5,Percent
+,88,,Women who have been tested for HIV,5.4,Percent
+,90,,Counselling coverage for the prevention of mother -to-child transmission of HIV,34.4,Percent
+91,,Testing coverage for the prevention of mother -to-child transmission of HIV,4.1,Percent,
+Sexual behaviour,84,,Sex before age 15 women,6.6,Percent
+92,,Age-mixing among sexual partners,13.5,Percent,
+83,19a,Condom use with non-regular partners Women,34.3,Percent,
+85,,Higher risk sex in the last year Women,31.5,Percent,
+Support to,75,,Prevalence of orphans,7.3,Percent
+orphaned and,,,,,
+78,,Children’s living arrangements,4.9,Percent,
+vulnerable,,,,,
+children,,,,,
+NATIONAL HEALTH INSURANCE SCHEME,,,,,
+National Health,,,"Women, 15 - 49 years registered with NHIS",28.9,Percent
+Insurance,,,,,
+Scheme,,,,,
+,,Valid Card holders,60.2,Percent,
+Topic,MICS,MDG,Indicator,Value,
+,Indicator Number,Indicator Number,,,
+CHILD MORTALITY,,,,,
+Child mortality,1,13,Under-five mortality rate,93,per thousand
+2,14,Infant mortality rate,57,per thousand,
+NUTRITION,,,,,
+Nutritional status,6,4,Underweight prevalence,24.6,percent
+7,,Stunting prevalence,23.4,percent,
+8,,Wasting prevalence,8.1,percent,
+Breastfeeding,45,,Timely initiation of breastfeeding,51.2,percent
+15,,Exclusive breastfeeding rate,54.9,percent,
+16,,Continued breastfeeding rate,,,
+at 12-15 months,97.5,percent,,,
+at 20-23 months,84.3,percent,,,
+17,,Timely complementary feeding rate,52.7,percent,
+18,,Frequency of complementary feeding,44.7,percent,
+19,,Adequately fed infants,50.1,percent,
+Salt iodization,41,,Iodized salt consumption,11.8,percent
+Vitamin A,42,,Vitamin A supplementation (under -fives),48.3,percent
+43,,Vitamin A supplementation (post -partum mothers),61.7,percent,
+Low birth weight,9,,Low birth weight infants,8.5,percent
+10,,Infants weighed at birth,25.4,percent,
+CHILD HEALTH,,,,,
+Immunization,25,,Tuberculosis immunization coverage,96.9,percent
+26,,Polio immunization coverage,92.1,percent,
+27,,DPT immunization coverage,87.9,Percent,
+28,15,Measles immunization coverage,90.7,Percent,
+31,,Fully immunized children,79.3,Percent,
+29,,Hepatitis B immunization coverage,87.9,Percent,
+30,,Yellow fever immunization coverage,89.2,Percent,
+Tetanus toxoid,32,,Neonatal tetanus protection,80.7,Percent
+Care of illness,33,,Use of oral dehydration therapy (ORT),46.3,Percent
+34,,Home management of diarrhoea,17.8,Percent,
+23,,Care seeking for suspected pneumonia,47.7,Percent,
+22,,Antibiotic treatment of suspected pneumonia,60.4,Percent,
+Solid fuel use,24,29,Solid fuels,94.9,Percent
+Malaria,36,,Household availability of insecticidetr-eated nets (ITNs),52.5,Percent
+37,22,Under-fives sleeping under insecticide-treated nets,56.3,Percent,
+38,,Under-fives sleeping under mosquito nets,61.1,Percent,
+39,22,Antimalarial treatment (under-fives),36.5,Percent,
+40,,Intermittent preventive malaria treatment (pregnant women),63.8,Percent,
+Source and cost of supplies,96,,Source of supplies (from public sources),,
+,,Insecticide treated nets,86.3,Percent,
+,,Antimalarials,61.2,Percent,
+97,,Cost of supplies (median costs),,,
+,,Insecticide treated nets,1.00,GHC,
+,,public sources,,,
+,,private sources,3.00,GHC,
+,,Antimalarials,2.50,GHC,
+,,public sources,,,
+,,private sources,1.00,GHC,
+ENVIRONMENT,,,,,
+Water and Sanitation,11,30,Use of improved drinking water sources,81.7,Percent
+13,,Water treatment,2.5,Percent,
+12,31,Use of improved sanitation facilities,11.0,Percent,
+14,,Disposal of child's faeces,3.2,Percent,
+REPRODUCTIVE HEALTH,,,,,
+Contraception and unmet need,21,19c,Contraceptive prevalence,12.6,Percent
+Maternal and newborn health,20,,Antenatal care,94.8,Percent
+44,,Content of antenatal care,,,
+,,,Blood test taken,77.7,Percent
+,,,Blood pressure measured,96.2,Percent
+,,,Urine specimen taken,71.0,Percent
+,,,Weight measured,96.9,Percent
+,4,17,Skilled attendant at delivery,39.9,Percent
+5,,Institutional deliveries,37.9,Percent,
+CHILD DEVELOPMENT,,,,,
+Child development,46,,Support for learning,11.4,Percent
+47,,Father's support for learning,43.8,Percent,
+48,,Support for learning: children’s books,4.6,Percent,
+49,,Support for learning: non-children’s books,32.4,Percent,
+50,,Support for learning: materials for play,19.5,Percent,
+51,,Non-adult care,29.3,Percent,
+EDUCATION,,,,,
+Education,52,,Pre-school attendance,42.8,Percent
+53,,School readiness,84.2,Percent,
+54,,Net intake rate in primary education,57.0,Percent,
+55,6,Net primary school attendance rate,75.4,Percent,
+56,,Net secondary school attendance rate,29.8,Percent,
+57,7,Children reaching grade five,,Percent,
+58,,Transition rate to secondary school,91.5,Percent,
+59,7b,Primary completion rate,14.4,Percent,
+61,9,Gender parity index,1.02,ratio ratio,
+,,primary school secondary school,1.00,,
+Literacy,60,8,Adult literacy rate (youth) women,43.9,Percent
+CHILD PROTECTION,,,,,
+Birth registration,62,,Birth registration,59.1,Percent
+Child labour,71,,Child labour,30.4,Percent
+72,,Labourer students,73.5,Percent,
+73,,Student labourers,28.8,Percent,
+Child discipline,74,,Child discipline,86.1,Percent
+,,,Any psychological/physical punishment,,
+Early marriage and polygyny,67,,Marriage before age 15,5.3,Percent
+,,Marriage before age 18,40.1,Percent,
+68,,Young women aged 15 -19 currently married/in union,11.3,Percent,
+70,,Polygamy,39.6,Percent,
+69,,Spousal age difference,25.3,Percent Percent,
+,,women aged 15-19,25.7,,
+,,women aged 20-24,,,
+Female genital mutilation/,66,,Approval for FGM/C,1.3,Percent Percent
+cutting,63,,Prevalence of female genital mutilation/cutting (FGM/C),19.8,
+Domestic violence,100,,Attitudes towards domestic violence women,74.7,Percent
+Disability,101,,Child disability,14.5,Percent
+"HIV/AIDS, SEXUAL BEHAVIOUR, AND ORPHANED AND VULNERABLE CHILDREN",,,,,
+HIV/AIDS knowledge and attitudes,82,19b,Comprehensive knowledge about HIV prevention among young women 15 - 24 years,30.8,Percent
+89,,Knowledge of mother- to-child transmission of HIV women,67.7,Percent,
+86,,Attitude towards women with HIV/AIDS,4.9,Percent,
+87,,Women who know where to be tested for HIV,45.7,Percent,
+88,,Women who have been tested for HIV,9.9,Percent,
+90,,Counselling coverage for the prevention of mother-to-child transmission of HIV,61.3,Percent,
+91,,Testing coverage for the prevention of mother -to-child transmission of HIV,13.2,Percent,
+Sexual behaviour,84,,Women who have sex before age 15,4.5,Percent
+92,,Age-mixing among sexual partners,18.1,Percent,
+83,19a,Women condom use with non-regular partners,63.5,Percent,
+85,,Higher risk sex in the last year women,10.3,Percent,
+Support to orphaned and vulnerable children,75,,Prevalence of orphans,8.9,Percent
+78,,Children’s living arrangements,9.1,Percent,
+NATIONAL HEALTH INSURANCE SCHEME,,,,,
+National Health Insurance Scheme,,,Registered with NHIS,30.9,Percent
+,,Valid Card holders,59,Percent,
+Topic,MICS,MDG,Indicator,Value,
+,Indi cator Number,Indicator Number,,,
+CHILD MORTALITY,,,,,
+Child mortality,1,13,Under -five mortality rate,113,Per thousand
+2,14,Infant mortality rate,62,Per thousand,
+NUTRITION,,,,,
+Nutritional status,6,4,Underweight prevalence,18.6,Percent
+7,,Stunting prevalence,18.9,Percent,
+8,,Wasting prevalence,6.0,Percent,
+Breastfeeding,45,,Timely initiation of breastfeeding,40.3,Percent
+15,,Exclusive breastfeeding rate,92.1,Percent,
+16,,Continued breastfeeding rate,,,
+at 12-15 months,100,Percent,,,
+at 20-23 months,84.7,Percent,,,
+17,,Timely complementary fee ding rate,58.7,Percent,
+18,,Frequency of complementary feeding,47.5,Percent,
+19,,Adequately fed infants,66.4,Percent,
+Salt iodization,41,,Iodized salt consumption,15.0,Percent
+Vitamin A,42,,Vitamin A supplementation (under-fives),51.7,Percent
+43,,Vitamin A supplementation (post-partum mothers),66.7,Percent,
+Low birth weight,9,,Low birth weight infants,6.3,Percent
+10,,Infants weighed at birth,22.9,Percent,
+CHILD HEALTH,,,,,
+Immunization,25,,Tuberculosis immunization coverage,97.8,Percent
+26,,Polio immunization coverage,94.2,Percent,
+27,,DPT immunization coverage,96.2,Percent,
+28,15,Measles immunization coverage,97.9,Percent,
+31,,Fully immunized children,90.1,Percent,
+29,,Hepatitis B immunization coverage,94.6,PErcent,
+30,,Yellow fever immunization coverage,97.5,Percent,
+Tetanus toxoid,32,,Neonatal tetanus protection,73.4,Percent
+Care of illness,33,,Use of oral dehydration therapy (ORT),41.8,Percent
+34,,Home management of diarrhoea,7.4,Percent,
+23,,Care seeking for suspected pneumonia,46.7,Percent,
+22,,Antibiotic treatment of suspected pneumonia,49.6,Percent,
+Malaria,36,,Household availability of insecticide-treated nets (ITNs),66.8,Percent
+37,22,Under -fives sleeping under insecticide-treated nets,77.6,Percent,
+38,,Under -fives sleeping under mosquito nets,79.2,Percent,
+,39,22,Anti -malarial treatment (under-fives),45.1,percent
+40,,Intermittent preventive,68.8,percent,
+,,malaria treatment (pregnant women),,,
+Source and cost of supplies,96,,Source of supplies (from public sources),,
+,,Insecticide treated nets,86.7,percent,
+,,Antimalarials,65.2,percent,
+97,,Cost of supplies (median costs),,,
+,,Insecticide treated nets,2.00,GHC,
+,,public sources,,,
+,,Private sources,2.00,GHC,
+,,Antimalarials,1.50,GHC,
+,,public sources,,,
+,,Private sources,0.95,GHC,
+ENVIRONMENT,,,,,
+Water and Sanitation,11,30,Use of improved drinking water sources,87.1,percent
+13,,Water treatment,2.2,percent,
+12,31,Use of improved sanitation facilities,20.9,percent,
+14,,Disposal of child's faeces,10.7,percent,
+REPRODUCTIVE HEALTH,,,,,
+Contraception and unmet need,21,19c,Contraceptive prevalence,17.1,percent
+Maternal and newborn health,20,,Antenatal care,91.8,percent
+44,,Content of antenatal care,,,
+,,,Blood test taken,75.0,percent
+,,,Blood pressure measured,89.2,percent
+,,,Urine specimen taken,60.6,percent
+,,,Weight measured,90.4,percent
+,4,17,Skilled attendant at delivery,41.5,percent
+5,,Institutional deliveries,39.9,percent,
+CHILD DEVELOPMENT,,,,,
+Child development,46,,Support for learning,19.5,Percent
+47,,Father's support for learning,27.1,Percent,
+48,,Support for learning: children’s books,1.7,Percent,
+49,,Support for learning: non-children’s books,32.3,Percent,
+50,,Support for learning: mat erials for play,11.4,Percent,
+51,,Non-adult care,22.8,percent,
+EDUCATION,,,,,
+Education,52,,Pre-school attendance,47.7,percent
+53,,School readiness,90.0,percent,
+54,,Net intake rate in primary education,51.8,percent,
+55,6,Net primary school attendance rate,68.9,percent,
+56,,Net secondary school attendance rate,29.9,percent,
+57,7,Children reaching grade five,86.9,percent,
+58,,Transition rate to secondary school,90.8,percent,
+59,7b,Primary completion rate,12.4,Percent,
+61,9,Gender parity index,1.16,ratio ratio,
+,,primary school secondary school,1.19,,
+Literacy,60,8,Adult literacy rate (youth) women,49.5,percent
+CHILD PROTECTION,,,,,
+Birth registration,62,,Birth registration,53.0,Percent
+Child labour,71,,Child labour,48.5,Percent
+,72,Labourer students,68.9,Percent,
+,73,Student labourers,45.8,Percent,
+Child discipline,74,,Child discipline,91.1,Percent
+,,,Any psychological/physical punishment,,
+Early,67,,Marriage before age 15 Marriage before age 18,10.0,Percent
+,,,Young women aged 15-19 currently married/in union,,
+,,,Polygamy,,
+,,,Spousal age difference,,
+,,,women aged 15-19,,
+,,,women aged 20-24,,
+marriage,,42.8,Percent,,
+and,68,8.3,Percent,,
+polygyny,,,,,
+,70,34.4,Percent,,
+,69,,,,
+,,28.1,Percent,,
+,,26.3,Percent,,
+Female,66,,Approval for FGM/C,5.1,Percent
+genital mutilation/,63,Prevalence of female genital mutilation/cutting (FGM/C),49.4,Percent,
+cutting,,,,,
+Domestic violence,100,,Attitudes towards domestic violence Women,84.1,Percent
+Disability,101,,Child disability,17.4,Percent
+"HIV/AIDS, SEXUAL BEHAVIOUR, AND ORPHANED AND VULNERABLE CHILDREN",,,,,
+HIV/AIDS,82,19b,Comprehensive knowledge about HIV prevention among young women 15-24 years,,
+,,,Knowledge of mother- to-child transmission of HIV Women,,
+knowledge,,,16.2,PErcent,
+and,89,,72.3,Percent,
+attitudes,,,,,
+,86,,Attitude towards women with HIV/AIDS,4.1,Percent
+,87,,Women who know where to be tested for HIV,43.4,Percent
+,88,,Women who have been tested for HIV,11.7,Percent
+,90,,Counselling coverage for the prevention of mother-to-child transmission of HIV,45.9,Percent
+,91,,Testing coverage for the prevention of mother-to-child transmission of HIV,12.1,Percent
+Sexual behaviour,84,,Sex before age 15 women,7.3,Percent
+92,,Age-mixing among sexual partners,18.4,Percent,
+83,19a,Condom use with non-regular partners Women,64.0,Percent,
+85,,Higher risk sex in the last year women,31.2,Percent,
+Support to,75,,Prevalence of orphans,7.9,Percent
+orphaned,78,,Children’s living arrangements,10.9,PeRcent
+and vulnerable,,,,,
+children,,,,,
+NATIONAL HEALTH INSURANCE SCHEME,,,,,
+National,,,Women 15-49 years Registered with NHIS,40.2,Percent
+Health,,,,,
+,,Valid card holders,74.8,Percent,
+Insurance,,,,,
+Scheme,,,,,

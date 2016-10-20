@@ -1,0 +1,117 @@
+0,1,2,3,4,5
+RUBRIQUE,NUMÉRO DE L’INDICATEUR MICS 3,NUMÉRO DE L’INDICATEUR OMD,INDICATEUR,VALEUR,UNITÉ
+Mortalité infantile,,,,,
+Mortalité infantile,1,13,Taux de mortalité chez les enfants de moins de 5 ans (OMD),1442,Pour 1000 naissances vivantes
+2,14,Taux de mortalité infantile,743,Pour 1000 naissances vivantes,
+Nutrition,,,,,
+Etat nutritionnel,6,4,Prévalence de l’insuffisance pondérale (modérée ; sévère),"19,3 ; 5,2",Pour 100
+7,,Prévalence du retard de croissance (modéré ; sévère),"30,4 ; 12,6",Pour 100,
+8,,Prévalence de la déperdition ou émaciation (modérée ; sévère),"6,1 ; 1,2",Pour 100,
+Allaitement,45,,Enfants allaités moins d’une heure après la naissance,"19,6",Pour 100
+15,,Enfants de 0-5 mois allaités exclusivement au sein,"21,2",Pour 100,
+16,,Enfants de 12-15 mois ; 20-23 mois allaités,"78,7 ; 21,2",Pour 100,
+17,,Enfants de 6-9 mois recevant le lait maternel et des aliments de complément,"63,74",Pour 100,
+18,,Enfants de 6-11 mois allaités au sein et ayant reçu des compléments alimentaires un nombre minimum de fois recommandé par jour,"46,7",Pour 100,
+19,,Enfants de 0-11 mois nourris de façon appropriée,"34,6",Pour 100,
+Iodation,41,,Ménages consommant du sel iodé à 25+PPM,"49,1",Pour 100
+Vitamine A,42,,Supplémentation des enfants de 6-59 mois en vitamine A au cours des 6 mois derniers mois,"57,7",Pour 100
+43,,Supplémentation post partum de mères en vitamine A,"38,1",Pour 100,
+Faible poids à la naissance,9,,Poids à la naissance inférieur à 2 500 grammes,"10,8",Pour 100
+10,,Enfants pesés à la naissance,"59,1",Pour 100,
+Santé de l’enfant,,,,,
+Vaccination,25,,Couverture vaccinale contre la tuberculose (BCG),"90,0",Pour 100
+26,,Couverture vaccinale contre la poliomyélite (Polio),"69,5",Pour 100,
+27,,Couverture vaccinale contre la DTCoq,"75,2",Pour 100,
+28,15,Couverture vaccinale contre la rougeole,"78,8",Pour 100,
+31,,Enfants entièrement vaccinés,"56,8",Pour 100,
+29,,Couverture vaccinale contre l’hépatite B,"35,5",Pour 100,
+30,,Couverture vaccinale contre la fièvre jaune,"57,4",Pour 100,
+Tétanos néonatal,32,,Femmes ayant donné une naissance vivante au cours des 2 années ayant précédé l’enquête et protégées contre le tétanos,"73,1",Pour 100
+Prise en charge de la maladie,33,,Utilisation de la Solution de Réhydratation par voie Orale (SRO),"19,2",Pour 100
+34,,Prise en charge à domicile de la diarrhée,"8,95",Pour 100,
+35,,"Enfants de moins de 5 ans ayant eu la diarrhée et qui ont reçu une quelconque SRO, ont augmenté la prise de liquides et poursuivi l’alimentation","21,8",Pour 100,
+23,,Recherche des soins de santé auprès d’un personnel approprié pour les cas de pneumonie suspectée (IRA),"34,8",Pour 100,
+22,,Enfants de moins de 5 ans suspectés de pneumonie ayant reçu un traitement antibiotique,"38,0",Pour 100,
+Utilisation de combustible solide,24,29,Utilisation des combustibles solides pour la cuisine,"73,4",Pour 100
+Paludisme,36,,Ménages disposant d’au moins une MII,"3,7",Pour 100
+37,22,Enfants de moins de 5 ans dormant sous une MII,"13,1",Pour 100,
+RUBRIQUE,NUMÉRO DE L’INDICATEUR MICS 3,NUMÉRO DE L’INDICATEUR OMD,INDICATEUR,VALEUR,UNITÉ
+,38,,Enfants de moins de 5 ans dormant sous une moustiquaire,"26,5",Pour 100
+39,22,Enfants de moins de 5 ans ayant eu la fièvre et qui ont reçu un traitement antipaludique,"38,2",Pour 100,
+40,,Traitement préventif chez la femme enceinte par intermittence,"5,8",Pour 100,
+Source et coût des MII et des anti- paludiques,96,,Source des MII publique/privée,"56,8/4,9",Pour 100
+96,,Source des antipaludiques publique/privée,"32,0/31,6",Pour 100,
+97,,Coût médian des MII achetés au public/privé,3500/3684,FCFA,
+97,,Coût médian des antipaludiques achetés au public/privé,1215/2500,FCFA,
+Source et coût des antibiotiques,96,,Source des antibiotiques publique/privée,"30,5/37,9",Pour 100
+97,,Coût médian des antibiotiques au public/privé,1600/2586,FCFA,
+Source et coût des SRO,96,,Source des antibiotiques publique/privée,"56,5/31,6",Pour 100
+97,,Coût médian des antibiotiques au public/privé,175/200,FCFA,
+Environnement,,,,,
+Eau et assainissement,11,30,Population ayant accès à une source améliorée d’eau de boisson,"69,3",Pour 100
+13,,Traitement approprié de l’eau à boire,"7,1",Pour 100,
+12,31,Population ayant accès à des installations sanitaires améliorées,"33,1",Pour 100,
+14,,Enfants dont les excréments sont évacués sainement,"64,6",Pour 100,
+Sécurité de la propriété.,93,,Membres du ménage ne disposant pas d’une sécurité de logement,"51,6",Pour 100
+94,,Ménages vivant dans des logements considérés comme non durables,"6,9",Pour 100,
+95,32,Ménages considérés comme vivant en habitat précaire,"76,4",Pour 100,
+Santé de la reproduction,,,,,
+Contraception et besoin non satisfait,21,19c,Utilisation actuelle de la contraception chez les femmes de 15-49 ans,"29,2",Pour 100
+98,,Besoin de contraception non satisfait,"2,8",Pour 100,
+99,,Demande de contraception satisfaite,"91,2",Pour 100,
+Santé de la mère et du nouveau- né,20,,Femmes ayant reçu les soins prénatals d’un prestataire qualifié,"73,7",Pour 100
+44,,Femmes enceintes ayant reçu les soins prénatals au moins une fois pendant la grossesse,"84,2",Pour 100,
+4,17,Femmes enceintes ayant été assistées à l’accouchement par un personnel qualifié,"58,9",Pour 100,
+5,,Accouchement dans un centre de santé,"43,0",Pour 100,
+Développement de l’enfant,,,,,
+Développement de l’enfant,46,,Enfants de 0-59 mois dont les membres du ménage sont engagés dans au moins 4 activités de promotion de l’apprentissage et de préparation aux études,"43,1",Pour 100
+47,,Enfants de 0-59 mois dont le père est engagé dans au moins 1 activité de promotion de l’apprentissage et de préparation aux études,"37,8",Pour 100,
+48,,Enfants de 0-59 mois vivant dans un ménage possédant au moins 3 livres d’enfants,"8,4",Pour 100,
+49,,Enfants de 0-59 mois vivant dans un ménage possédant au moins 3 livres d’adultes,"48,9",Pour 100,
+50,,Enfants de 0-59 mois jouant avec au moins 3 types de jouets,"21,4",Pour 100,
+51,,Enfants laissés sous garde inadéquate6,"35,8",Pour 100,
+Éducation,,,,,
+Education,52,,Enfants de 36-59 mois fréquentant un établissement préscolaire,"22,2",Pour 100
+53,,Enfants du préscolaire admis en 1ère année du primaire,"18,5",Pour 100,
+54,,Enfants ayant l’âge d’entrée à l’école primaire présentement inscrits en première année (SIL),"44,3",Pour 100,
+55,6,Taux net de fréquentation au primaire,"79,6",Pour 100,
+56,,Taux net de fréquentation au secondaire,"38,0",Pour 100,
+57,7,Taux de survie (enfants atteignant la 5ème année du primaire),"90,9",Pour 100,
+RUBRIQUE,NUMÉRO DE L’INDICATEUR MICS 3,NUMÉRO DE L’INDICATEUR OMD,INDICATEUR,VALEUR,UNITÉ
+,58,,Taux de transition au secondaire,"60,7",Pour 100
+59,7b,Taux d’achèvement de l’école primaire,"22,5",Pour 100,
+61,9,"Indice de parité des sexes pour le taux net de fréquentation (primaire, secondaire)","0,94 ; 0,97",Ratio,
+Alphabétisation,60,8,Taux d’alphabétisation des femmes de 15-24/15-49 ans,"65,8/58,9",Pour 100
+Protection de l’enfant,,,,,
+Enregistrement des naissances,62,,Enfants de 0-59 mois dont la naissance est enregistrée,"70,1",Pour 100
+Travail des enfants,71,,Travail des enfants de 5-14 ans,"30,8",Pour 100
+72,,Enfants de 5-14 ans travaillant tout en allant à l’école,"80,2",Pour 100,
+73,,Enfants de 5-14 ans élèves tout en travaillant,"31,6",Pour 100,
+Discipline de l’enfant,74,,Enfants de 2-14 ans ayant subi une méthode psychologique ou physique de punition,"92,0",Pour 100
+,67,,Femmes de 15-49 ans en mariage ou en union avant 15 ans,"12,2",Pour 100
+,,Femmes de 20-49 ans en mariage ou en union avant 18 ans,"41,1",,
+Mariage précoce et,68,,Femmes de 15-19 ans mariées ou en union,"21,7",Pour 100
+70,,Femmes de 15-49 ans en mariage ou en union Polygamique,"28,4",Pour 100,
+polygamie,,,,,
+69,,Femmes de 15-19/20-24 ans actuellement mariées ou en union ayant un écart d’âge de 10 ans et plus avec leur conjoint,"37,5/38,5",Pour 100,
+Handicap de l’enfant,101,,Enfants de 2-9 ans ayant au moins un handicap,"22,5",Pour 100
+"VIH/Sida, comportement sexuel, orphelins et enfants vulnérables",,,,,
+Connaissances et attitudes,82,19b,Connaissance générale ou parfaite sur la prévention du VIH7,"28,9",Pour 100
+89,,Connaissance des trois modes de transmission du VIH de la mère à l’enfant,"49,9",Pour 100,
+86,,Femmes pas d’accord avec l’attitude discriminatoire,"17,8",Pour 100,
+87,,Femmes connaissant un endroit du test du VIH,"70,9",Pour 100,
+88,,Femmes ayant effectué le test du VIH,"35,6",Pour 100,
+90,,Femmes ayant reçu des informations sur la prévention du VIH durant les visites prénatales,"57,8",Pour 100,
+91,,Femmes testées durant les visites prénatales ayant reçu les résultats,"36,4",Pour 100,
+Comportement sexuel,84,,Femmes de 15-19 ans ayant eu des rapports sexuels avant 15 ans,"13,4",Pour 100
+92,,Femmes ayant eu des rapports sexuels au cours des 12 mois précédant l’enquête avec un homme de 10 ans ou + plus âgé,"27,2",Pour 100,
+83,19a,Femmes de 15-24 ans ayant utilisé un condom au cours du dernier rapport avec un partenaire occasionnel,"61,8",Pour 100,
+85,,Femmes de 15-24 ans ayant eu des rapports sexuels avec un partenaire occasionnel (autre que le mari ou le concubin) au cours de l’année écoulée,"44,9",Pour 100,
+Support pour OEV,75,,Enfants de 0-17 ans dont un ou les deux parents sont décédés,"10,5",Pour 100
+78,,Enfants de 0-17 ans ne vivant pas avec un parent biologique,"16,5",Pour 100,
+76,,Enfants de 0-17 ans vulnérables,"11,5",Pour 100,
+77,20,Fréquentation scolaire des enfants orphelins de père et de mère/enfants dont les parents sont vivants (non orphelins),"0,91",Ratio,
+81,,Enfants de 0-17 ans OEV dont le ménage a reçu un support externe,"9,3",Pour 100,
+79,,"Insuffisance pondérale, retard de croissance, émaciation","0,75 ; 0,96 ;",Ratio,
+,OEV/non OEV,"0,54",,,
+80,,Femmes de 15-17 ans ayant eu des rapports sexuels avant 15 ans OEV/non OEV,"0,94",Ratio,

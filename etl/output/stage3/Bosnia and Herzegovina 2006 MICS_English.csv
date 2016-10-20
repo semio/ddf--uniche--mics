@@ -1,0 +1,136 @@
+0,1,2,3,4
+Topic,MICS Indicator Number,MDG Indicator Number,Indicator,Value
+NUTRITION,,,,
+Nutritional status,6,4,Underweight prevalence,0.4
+,7,,Stunting prevalence,2.5
+,8,,Wasting prevalence,0.8
+Breastfeeding,45,,Timely initiation of breastfeeding,56.7
+,15,,Exclusive breastfeeding rate,17.6
+,16,,Continued breastfeeding rate 12-15 months,25.6
+,,,20-23 months,9.6
+,17,,Continued breastfeeding rate,29
+,18,,Frequency of complementary feeding,22.7
+,19,,Adequately fed infants,20.4
+Low Birth Weight,9,,Low birth weight infants,4.5
+,10,,Infants weighed at birth,99
+CHILD HEALTH,,,,
+Immunization,25,,Tuberculosis immunization coverage,95.8
+,26,,Polio immunization coverage,79
+,27,,DPT immunization coverage,78
+,28,15,Measles immunization coverage,75.0 BiH
+,,,,79.4 RS
+,,,,72.4 FBiH
+,31,,Fully immunized children,61.2BiH
+,,,,58.5FBiH
+,,,,64.9RS
+Care of Illness,33,,Use of oral rehydration therapy (ORT),64.8
+,34,,Home management of diarrhoea,17.3
+,35,,"Received ORT or increased fluids, and continued feeding",52.5
+,23,,Care seeking for suspected pneumonia,91.3
+,22,,Antibiotic treatment of suspected pneumonia,73.1
+Solid Fuel Use,24,29,Solid fuels,48.7
+Water and Sanitation,11,30,Use of improved drinking water sources,98.7
+,13,,Water treatment,6.4
+,12,31,Use of improved sanitation facilities,93
+,14,,Disposal of child’s faeces,35.9
+Security of Tenure and Durability,93,,Security of tenure,14.1
+of Housing,94,,Durability of housing,0.2
+,95,32,Slum household,15.8
+REPRODUCTIVE HEALTH,,,,
+Contraception and Unmet Need,21,19c,Contraceptive prevalence,35.7
+,98,,Unmet need for family planning,23.3
+,99,,Demand satisfied for family planning,60.5
+Maternal and Newborn Health,20,,Antenatal care,98.9
+,44,,Content of antenatal care,98.9
+,4,17,Skilled attendant at delivery,99.6
+,5,,Institutional deliveries,99.7
+CHILD DEVELOPMENT,,,,
+Child Development,46,,Support for learning,75.6
+,47,,Father’s support for learning,73.8
+,48,,Support for learning: children’s books,70.4
+,49,,Support for learning: non-children’s books,75.4
+,50,,Support for learning: materials for play,18.9
+,51,,Non-adult care,6.6
+EDUCATION (BiH Standards),,,,
+,52,,Pre-school attendance,6.4
+,53,,School readiness,10.7
+,54,,Net intake rate in primary education,90.7
+,55,6,Net primary school attendance rate,98.4
+,56,,Net secondary school attendance rate,79.3
+,57,7,Children reaching grade five,99.8
+,58,,Transition rate to secondary school,92.7
+,59,7b,Primary completion rate,86.6
+,61,9,Gender parity index primary school,1
+,,,secondary school,1.04
+Literacy,60,8,Adult literacy rate,99.6
+CHILD PROTECTION,,,,
+Birth Registration,62,,Birth Registration,99.5
+Child Labour,71,,Child Labour,5.3
+,72,,Labourer students,95.3
+,73,,Student labourers,6
+Child Discipline,74,,Child discipline / Any psychological / physical punishment,35.6
+Early Marriage,67,,Marriage before age 15,1
+,,,Marriage before age 18,10.1
+,68,,Young women aged 15–19 currently married/in union,7
+,69,,Spousal age difference Women aged 15–19,19.4
+,,,Women aged 20–24,10.8
+Domestic Violence,100,,Attitudes towards family violence,4.8
+Disability,101,,Child disability,6.5
+Security of Tenure and Durability,93,,Security of tenure,14.1
+of Housing,94,,Durability of housing,0.2
+,95,32,Slum household,15.8
+REPRODUCTIVE HEALTH,,,,
+Contraception and Unmet Need,21,19c,Contraceptive prevalence,35.7
+,98,,Unmet need for family planning,23.3
+,99,,Demand satisfied for family planning,60.5
+Maternal and Newborn Health,20,,Antenatal care,98.9
+,44,,Content of antenatal care,98.9
+,4,17,Skilled attendant at delivery,99.6
+,5,,Institutional deliveries,99.7
+CHILD DEVELOPMENT,,,,
+Child Development,46,,Support for learning,75.6
+,47,,Father’s support for learning,73.8
+,48,,Support for learning: children’s books,70.4
+,49,,Support for learning: non-children’s books,75.4
+,50,,Support for learning: materials for play,18.9
+,51,,Non-adult care,6.6
+EDUCATION (BiH Standards),,,,
+,52,,Pre-school attendance,6.4
+,53,,School readiness,10.7
+,54,,Net intake rate in primary education,90.7
+,55,6,Net primary school attendance rate,98.4
+,56,,Net secondary school attendance rate,79.3
+,57,7,Children reaching grade five,99.8
+,58,,Transition rate to secondary school,92.7
+,59,7b,Primary completion rate,86.6
+,61,9,Gender parity index primary school,1
+,,,secondary school,1.04
+Literacy,60,8,Adult literacy rate,99.6
+CHILD PROTECTION,,,,
+Birth Registration,62,,Birth Registration,99.5
+Child Labour,71,,Child Labour,5.3
+,72,,Labourer students,95.3
+,73,,Student labourers,6
+Child Discipline,74,,Child discipline / Any psychological / physical punishment,35.6
+Early Marriage,67,,Marriage before age 15,1
+,,,Marriage before age 18,10.1
+,68,,Young women aged 15–19 currently married/in union,7
+,69,,Spousal age difference Women aged 15–19,19.4
+,,,Women aged 20–24,10.8
+Domestic Violence,100,,Attitudes towards family violence,4.8
+Disability,101,,Child disability,6.5
+Topic,MICS Indicator Number,MDG Indicator Number,Indicator,Value
+"HIV/AIDS, SEXUAL BEHAVIOUR, AND ORPHANED AND VUL",NERABLE CHILDREN,,,
+HIV/AIDS Knowledge and Attitudes,82,19b,Comprehensive knowledge about HIV prevention among young people,34.2
+,89,,Knowledge of mother-to-child transmission of HIV,69.1
+,86,,Attitude towards people with AIDS,35.8
+,87,,Women who know where to be tested for HIV,59.1
+,88,,Women who know where to be tested for HIV,2.6
+,90,,Counselling coverage for the prevention of mother-to-child transmission of HIV,18.1
+,91,,Testing coverage for the prevention of mother-to-child transmission of HIV,9.6
+Sexual Behaviour,84,,Sexual Behaviour,0.6
+,92,,Age-mixing among sexual partners,9
+,83,19a,Condom use with non-regular partners,71
+,85,,Higher risk sex in the last year,25.7
+Support to Orphaned and,75,,Prevalence of orphaned children,4.5
+Vulnerable Children,78,,Child’s family circumstances,0.4

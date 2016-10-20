@@ -1,0 +1,102 @@
+0,1,2,3,4,5
+RUBRIQUE,NUMÉRO D’INDICATEUR,INDICATEUR,VALEUR,UNITÉ,
+MICS3,OMD,,,,
+HABITAT ET ENVIRONNEMENT,,,,,
+Eau et Assainissement,11,30,Utilisation de sources d’eau potables améliorées,"93,5",%
+12,31,Utilisation d’installations sanitaires améliorées,"67,0",%,
+13,31,Méthode appropriée de traitement de l’eau,"1,8",%,
+Habitat,93,,Pourcentage de ménage n’ayant pas une sécurité de logement,"44,0",%
+94,,Pourcentage de ménages vivant dans des logements considérés comme non durables,"10,6",%,
+95,32,Pourcentage de ménages vivant en Habitat précaire,"75,9",%,
+Energie,,,Pourcentage de ménages ayant l’électricité,"55,5",%
+,,Combustibles solides pour la cuisson,"12,7",%,
+,,Utilisation du kérosène pour la cuisson,"80,6",%,
+EDUCATION,,,,,
+Éducation,52,,Taux net de scolarisation préscolaire,"13,5",%
+53,,Préparation à l’école primaire,"11,2",%,
+54,,Taux net d’admission à l'école primaire,"63,7",%,
+55,6,Taux net de scolarisation primaire,"66,2",%,
+56,,Taux net de scolarisation secondaire,"40,9",%,
+57,7,Enfants atteignant la 5ème année,"95,7",%,
+58,,Taux net de transition à l'école secondaire,"77,7",%,
+59,7b,Taux net d’achèvement de l'école primaire,"20,7",%,
+61,9,Indice de parité des sexes dans l’école primaire,"0,98",%,
+Indice de parité des sexes dans l’école secondaire,"0,82",%,,,
+Alphabétisation,60,8,Pourcentage de femmes de 15-24 ans alphabétisées,"47,5",%
+NUTRITION,,,,,
+Etat Nutritionnel,6,4,Prévalence de l’insuffisance de poids,"10,3",%
+7,,Prévalence des retards de croissance,"19,7",%,
+8,,Prévalence de la déperdition,"7,5",%,
+Allaitement,45,,Allaitement maternel initial,"54,9",%
+15,,Taux d’allaitement exclusif,"1,3",%,
+16,,Taux d’allaitement continue à 12-15 mois,"53,5",%,
+Taux d’allaitement continue à 20-23 mois,"18,3",%,,,
+17,,Taux d’alimentation complémentaire commencé à temps,"23,1",%,
+Sel iodé,41,,15+ PPM,"0,4",%
+Vitamine A,42,,Enfants ayant reçu de la Vitamine A,"17,9",%
+43,,Supplément post-partum en vitamine A (mères),"37,5",%,
+Faible poids à la naissance,9,,Naissances vivantes pesant moins de 2500 grammes,"10,2",%
+10,,naissances vivantes pesées à la naissance,"87,4",%,
+RUBRIQUE,NUMÉRO,INDICATEUR,VALEUR,UNITÉ,
+,D’INDICATEUR,,,,
+MICS3,OMD,,,,
+MORTALITE INFANTILE,,,,,
+Mortalité infantile,1,13,Taux de mortalité chez les moins de 5 ans (OMD),94,Pour 1000
+2,14,Taux de mortalité infantile,67,Pour 1000,
+SANTE DE L’ENFANT,,,,,
+Immunisation,25,,Couverture vaccinale contre la tuberculose,"87,5",%
+26,,Couverture vaccinale contre la DPT,"56,8",%,
+27,,Couverture vaccinale contre la Polio,"46,2",%,
+28,15,Couverture vaccinale contre la rougeole,"65,0",%,
+31,,Enfants entièrement vaccinés,"31,7",%,
+Tétanos,32,,Protection des femmes contre le tétanos néonatal.,"70,4",%
+Traitement et soin des maladies,33,,Taux d’administration TRO,"71,0",%
+34,,Taux d’administration de la diarrhée à domicile,"18,8",%,
+35,,Taux d’administration TRO + alimentation continue,"32,6",%,
+22,,Traitement antibiotique des enfants suspectés de pneumonie,"42,5",%,
+Utilisation Combustibles,24,29,Combustibles solides,"12,7",%
+,,Kérosène,"80,6",%,
+Paludisme,37,22,Enfants de moins de 5 ans dormant sous une MI,"1,3",%
+38,,Enfants de moins de 5 ans dormant sous une moustiquaire,"9,0",%,
+39,,Traitement antipaludéen (moins de 5 ans),"9,5",%,
+DEVELOPPEMENT DES ENFANTS,,,,,
+Développement des enfants,46,,Engagement des membres du ménage dans 4 activités,"26,5",%
+47,,Engagement du père dans 1 activité ou plus pour l’apprentissage,"15,7",%,
+48,,Matériels d'apprentissage : 3 livres pour enfant ou plus,"14,7",%,
+49,,Matériels d'apprentissage : 3 livres pour adulte ou plus,"26,3",%,
+50,,Matériels d'apprentissage : 3 types de jouets ou plus,"3,5",%,
+51,,Laissés sous une garde inadéquate,"11,8",%,
+PROTECTION DES ENFANTS,,,,,
+Enregistrement,62,,Enregistrement des naissances,"89,2",%
+Travail des enfants,71,,Travail des enfants,"7,7",%
+72,,Étudiants travailleurs,"63,8",%,
+73,,Travailleurs étudiants,"7,3",%,
+Discipline des enfants,74,,Toute punition psychologique ou physique,"69,7",%
+Mariage précoce,67,,Mariage avant 15 ans,"2,8",%
+Mariage avant 18 ans,"9,5",%,,,
+68,,Jeunes femmes de 15-19 ans mariées,"4,2",%,
+RUBRIQUE,NUMÉRO,INDICATEUR,VALEUR,UNITÉ,
+,D’INDICATEUR,,,,
+MICS3,OMD,,,,
+PLANNING FAMILIAL ET SANTE REPRODUCTIVE,,,,,
+Planning Familial,21,19c,Prévalence des contraceptifs,"17,8",%
+98,,Besoin de contraception non satisfait,"22,0",%,
+99,,Demande de contraception satisfait,"44,8",%,
+Soins prénatals,20,,soins prénatals,"92,3",%
+44,,Fait un test sanguin,"78,5",%,
+,,Fait prendre sa tension (pression du sang) Fait un prélèvement d'urine,"88,0",%,
+,,Fait prendre son poids,"77,6",%,
+,,,"87,5",%,
+Accouchements,4,17,Assistance par un personnel qualifié,"92,9",%
+5,,Accouchements dans un centre de santé,"87,4",%,
+MUTILATION GENITALE FEMININE,,,,,
+Pratique des MGF,63,,Toute forme d'excision,"93,1",%
+64,,A subi une forme extrême d'excision,"62,3",%,
+65,,La fille a subi une forme de mutilation génitale,"48,5",%,
+Attitude,66,,pourcentage des femmes qui croient que l'excision doit: Continue,"36,6",%
+VIH / SIDA,,,,,
+Connaissances sur le VIH/SIDA,82,19b,prévention du VIH chez les femes âgées de 15-49 ans,"17,9",%
+89,,Tous les trois voies de transmission du VIH,"50,6",%,
+Attitude,86,,Ne sont pas d'accord sur aucune des déclarations discriminatoires,"11,6",%
+Test VIH,87,,Connaît un endroit où on peut faire un test,"42,6",%
+88,,A été testée,"16,9",%,

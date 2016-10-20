@@ -1,0 +1,182 @@
+0,idt,mdg,name,1,2
+NUTRICIÓN,,,,,
+Lactancia y alimentación de infantes,,,,,
+,2.5,None,Niños/as amamantados alguna vez,Porcentaje de mujeres con un nacido vivo en los últimos 2 años que amamantaron a su último hijo/a nacido vivo en cualquier momento,"96,2"
+,2.6,None,Iniciación temprana de la lactancia materna,Porcentaje de mujeres con un nacido vivo en los últimos 2 años que dio de lactar a su último nacido vivo dentro de la primera hora de haber nacido,"47,9"
+,2.7,None,Lactancia exclusiva en menores de 6 meses,Porcentaje de infantes menores de 6 meses que son amamantados exclusivamente,"33,2"
+,2.8,None,Lactancia predominante en menores de 6 meses,Porcentaje de infantes menores de 6 meses que recibió leche materna como fuente predominante de alimentación durante el día anterior,"39,3"
+,2.9,None,Lactancia continuada en niños/as de 1 año,Porcentaje de niños/as de 12 a 15 meses que recibió leche materna durante el día anterior,"39,1"
+,2.10,None,Lactancia continua en niños/as hasta los 2 años,Porcentaje de niños/as de 20 a 23 meses que recibió leche materna durante el día anterior,"24,0"
+,2.11,None,Duración mediana de la lactancia,La edad en meses en que el 50 por ciento de los niños/as de 0 a 35 meses no recibió leche materna el día anterior,"10,5"
+,2.12,None,Lactancia materna adecuada para la edad,Porcentaje de niños/as de 0 a 23 meses alimentados adecuadamente el día anterior,"37,4"
+,2.13,None,"Introducción de alimentos sólidos, semisólidos o blandos","Porcentaje de infantes de 6 a 8 meses que recibió alimentos sólidos, semisólidos o blandos el día anterior","91,1"
+,2.14,None,Frecuencia de alimentos lácteos para niños/as no amamantados,Porcentaje de niños/as no amamantados de 6 a 23 meses que recibió al menos 2 alimentos lácteos el día anterior,"90,9"
+,2.15,None,Frecuencia mínima de comidas,"Porcentaje de niños/as de 6 a 23 meses que recibió alimentos sólidos, semisólidos y blandos (además de alimentos lácteos para niños/as no amamantados) el número mínimo de veces o más el día anterior","77,0"
+,2.16,None,Diversidad alimentaria mínima,Porcentaje de niños/as de 6 a 23 meses que recibió alimentos de 4 o más grupos de alimentos el día anterior,"80,3"
+,2.17a,None,Dieta mínima aceptable,(a) Porcentaje de niños/as de 6 a 23 meses amamantados,"49,7"
+,2.17b,None,,que recibió al menos la diversidad alimentaria mínima y la,
+,,,,frecuencia mínima de comidas el día anterior,
+,,,,(b) Porcentaje de niños/as de 6 a 23 meses no amamantados,"60,3"
+,,,,que recibió al menos 2 alimentos lácteos y tuvo al menos la,
+,,,,diversidad alimentaria mínima sin incluir alimentos lácteos y,
+,,,,la frecuencia mínima de comidas el día anterior,
+,2.18,None,Alimentación con biberón,Porcentaje de niños/as de 0 a 23 meses que fue alimentado con un biberón el día anterior,"76,3"
+Bajo peso al nacer,,,,,
+,2.20,None,Infantes con bajo peso al nacer,"Porcentaje de nacidos vivos más recientes en los últimos 2 años que pesa menos de2,500 gramos al nacer","5,3"
+,2.21,None,Infantes pesados al nacer,Porcentaje de nacidos vivos más recientes en los últimos 2 años que fue pesado al nacer,"98,6"
+SALUD DEL NIÑO/A,,,,,
+Vacunas,,,,,
+Indicador,,,,Descripción,Valor
+MICS Indicador,,,,,
+,3.1,None,Cobertura de inmunización contra la tuberculosis,Porcentaje de niños/as de 12 a 23 meses que recibió la vacuna BCG al cumplir un año,"99,6"
+,3.2,None,Cobertura de inmunización contra la poliomielitis2,Porcentaje de niños/asde 12 a 23 meses que recibió la tercera dosis de vacuna antipoliomielítica oral (OPV3) al cumplir un año,"60,8"
+,3.3,None,"Cobertura de inmunización contra la difteria, la tos ferina y el tétanos","Porcentaje de niños/as de 12 a 23 meses que recibió la tercera dosis de vacuna contra la difteria, la tos ferina y el tétanos (DPT3) antes de cumplir el primer año (incluye pentavalente).","96,8"
+,3.4,None,ODM 4.3 Cobertura de inmunización,Porcentaje de niños/as de 24 a 35 meses que recibió la vacuna contra la rubéola al cumplir un año,"87,4"
+contra la rubéola,,,,,
+,3.5,None,Cobertura de inmunización contra la Hepatitis B,Porcentaje de niños/as de 12 a 23 meses que recibió la tercera dosis de vacuna contra la Hepatitis B (HepB3) antes de cumplir el primer año (incluye pentavalente).,"96,6"
+,3.6,None,Cobertura de inmunización contra la Haemophilus influenzae tipo B (Hib),Porcentaje de niños/as de 12 a 23 meses que recibió la tercera dosis de vacuna Hib (Hib3) antes de cumplir el primer año (incluye pentavalente).,"96,6"
+,3.8,None,Cobertura de inmunización completa,Porcentaje de niños/as de 24 - 35 meses que recibió todas las vacunas recomendadas en el esquema nacional de inmunización antes de cumplir el primer año (dos años para el sarampión),"49,9"
+Toxoide tetánico,,,,,
+,3.9,None,Protección contra el tétanos neonatal,Porcentaje de mujeres de 15 a 49 años con un nacido vivo en los últimos 2 años que recibió al menos dos dosis de vacuna con toxoide tetánico dentro del intervalo apropiado antes del parto más reciente .,"88,7"
+Diarrea,,,,,
+- Niños/as con diarrea,,,,Porcentaje de niños/as menores de 5 años con diarrea en las últimas 2 semanas,"4,7"
+,3.10,None,Búsqueda de atención para la diarrea,Porcentaje de niños/as menores de 5 años con diarrea en las últimas 2 semanas para el que se buscó consulta o tratamiento en un centro de salud o con un profesional de la salud,"75,4"
+,3.11,None,Tratamiento de la diarrea con sales de rehidratación oral (SRO) y zinc,Porcentaje de niños/as menores de 5 años con diarrea en las últimas 2 semanas que recibió SRO y zinc,"15,5"
+,3.12,None,Tratamiento de la diarrea con terapia de rehidratación oral (TRO) y alimentación continuada,"Porcentaje de niños/as menores de 5 años con diarrea en las últimas 2 semanas que recibió TRO (sobres de SRO, líquidos pre-envasados de SRO, bebidas caseras recomendadas o más líquidos) y alimentación continuada durante el episodio de diarrea","52,9"
+Síntomas de Infección,,,,,
+-                               Niños/as con síntomas de IRA,,,,Porcentaje de niños/as menores de 5 años con síntomas de IRA en las últimas 2 semanas,"3,2"
+,3.13,None,Búsqueda de atención para niños/as con síntomas de IRA,Porcentaje de niños/as menores de 5 años con síntomas de IRA en las últimas 2 semanas para el que se buscó consulta o tratamiento en un centro de salud o con un profesional de la salud,"92,6"
+,3.14,None,Tratamiento con antibióticos para niños/as con síntomas de IRA,Porcentaje de niños/as menores de 5 años con síntomas de IRA en las últimas 2 semanas que recibió antibióticos,"62,9"
+AGUA Y SANEAMIENTO,,,,,
+Indicador MICS,,,,Indicador,Descripción
+,4.1,ODM 7.8,Uso de fuentes mejoradas de agua para beber,Porcentaje de miembros del hogar que usa fuentes mejoradas de agua para beber,"94,2"
+,4.2,None,Tratamiento de agua,Porcentaje de miembros del hogar que usa fuentes no mejoradas de agua para beber y que usa un método de tratamiento adecuado,"57,3"
+,4.3,ODM 7.9,Uso de saneamiento mejorado,Porcentaje de miembros del hogar que usa instalaciones sanitarias mejoradas que no son compartidas,"90,7"
+,4.4,None,Eliminación segura de las heces de los niños/as,Porcentaje de niños/as de 0 a 2 años cuyas heces fueron eliminadas de manera segura,"87,7"
+,4.5,None,Lugar para lavarse las manos,Porcentaje de hogares con un lugar específico para lavarse las manos donde hay agua y jabón u otro producto para la higiene,"85,2"
+,4.6,None,Disponibilidad de jabón u otro producto para la higiene,Porcentaje de hogares con jabón u otro producto para la higiene,"95,5"
+SALUD REPRODUCTIVA,,,,,
+Anticoncepción y necesidad no satisfecha,,,,,
+Indicador MICS,,,,Indicador,Descripción
+,5.2,None,Embarazo precoz,Porcentaje de mujeres de 20 a 24 años que tuvo al menos un nacido vivo antes de los 18 años,"5,6"
+,5.3,ODM 5.3,Tasa de prevalencia de anticonceptivos,Porcentaje de mujeres de 15 a 49 años actualmente casadas o en unión que está usando (o cuya pareja está usando) un método anticonceptivo (moderno o tradicional),"73,7"
+,5.4,ODM 5.6,Necesidad no satisfecha,"Porcentaje de mujeres de 15 a 49 años actualmente casadas o en unión, en edad fértil, que desean espaciar sus partos o limitar el número de hijos/as y que actualmente no están usando métodos anticonceptivos","8,0"
+Salud materna y del recién nacido,,,,,
+,,ODM 5.5,Cobertura de la atención,Porcentaje de mujeres de 15 a 49 años con un nacido vivo en,
+,,ODM 5.5,prenatal,los últimos 2 años que recibió atención durante su último,
+,,,,embarazo con el que tuvo un nacido vivo,
+,5.5a,,,(a) al menos una vez por un profesional de la salud calificado,"98,5"
+,5.5b,,,(b) al menos cuatro veces por cualquier profesional de la,"97,8"
+,,,,salud,
+,5.6,None,Contenido de la atención prenatal,Porcentaje de mujeres de 15 a 49 años con un nacido vivo en los últimos 2 años al que se le midió la presión y tomó muestras de orina y de sangre durante su último embarazo con el que tuvieron un nacido vivo,"98,1"
+,5.7,ODM 5.2,Atención calificada al momento del parto,Porcentaje de mujeres de 15 a 49 años con un nacido vivo en los últimos 2 años que recibió la atención de un profesional de la salud calificado durante su nacido vivo más reciente,"99,4"
+,5.8,None,Partos institucionales,Porcentaje de mujeres de 15 a 49 años con un nacido vivo en los últimos 2 años que dio a luz a su nacido vivo más reciente en un centro de salud,"99,0"
+,5.9,None,Parto por cesárea,Porcentaje de mujeres de 15 a 49 años que tuvo a su nacido vivo más reciente por cesárea en los últimos 2 años,"40,4"
+Controles de salud posnatales,,,,,
+,5.10,None,Estancia en el centro de salud después del parto,Porcentaje de mujeres de 15 a 49 años que se quedó en el centro de salud por 12 horas o más después del parto de su nacido vivo más reciente en los últimos 2 años,"97,0"
+,5.11,None,Control de salud posnatal para el recién nacido,"Porcentaje de últimos nacidos vivos en los 2 años anteriores a la encuesta que tuvo un control de salud en el centro de salud o en el hogar después del parto, o una consulta de atención posnatal dentro de los 2 días después del nacimiento","98,4"
+,5.12,None,Control de salud posnatal para la madre,"Porcentaje de mujeres de 15 a 49 años que tuvo un control de salud en el centro de salud o en el hogar después del parto, o una consulta de atención posnatal dentro de los 2 días posteriores al parto de su último nacido vivo más reciente en los últimos 2 años","99,2"
+DESARROLLO DEL NIÑO/A,,,,,
+Indicador,,,,Descripción,Valor
+MICS Indicador,,,,,
+,6.1,None,Asistencia a educación para la infancia temprana,Porcentaje de niños/as de 36 a 59 meses que asiste a un programa educativo para la infancia temprana,"75,9"
+,6.2,None,Apoyo para el aprendizaje Porcentaje de niños/asde 36 a 59 meses con el que un adulto,"89,2",
+ha participado en cuatro o más actividades para promover el aprendizaje y la preparación para la escuela en los últimos 3 días,,,,,
+,6.3,None,Apoyo del padre en el aprendizaje,Porcentaje de niños/as de 36 a 59 meses cuyo padre biológico ha participado en cuatro o más actividades para promover el aprendizaje y la preparación para la escuela en los últimos 3 días,"17,9"
+,6.4,None,Apoyo de la madre en el aprendizaje,Porcentaje de niños/as de 36 a 59 meses cuya madre biológica ha participado en cuatro o más actividades para promover el aprendizaje y la preparación para la escuela en los últimos 3 días,"75,9"
+,6.5,None,Disponibilidad de libros infantiles,Porcentaje de niños/as menores de 5 años que tiene tres o más libros infantiles,"48,2"
+,6.6,None,Disponibilidad de juguetes,Porcentaje de niños/as menores de 5 años que juega con dos o más tipos de juguetes,"78,3"
+,6.7,None,Cuidado inadecuado,Porcentaje de niños/as menores de 5 años dejados solos o al cuidado de otro niño/a menor de 10 años por más de una hora al menos una vez durante la última semana,"4,1"
+,6.8,None,Índice de desarrollo infantil temprano,"Porcentaje de niños/as de 36 a 59 meses que se está desarrollando de acuerdo con su edad en al menos tres de los siguientes cuatro dominios: reconocimiento de las letras y de los números, físico, socio-emocional y aprendizaje","88,8"
+PROTECCIÓN INFANTIL,,,,,
+Registro de nacimiento,,,,,
+Indicador,,,,Descripción,Valor
+MICS Indicador,,,,,
+,8.1,None,Registro de nacimiento,Porcentaje de niños/as menores de 5 años cuyo nacimiento se reportó como registrado,"100,0"
+Disciplina infantil,,,,,
+,8.3,None,Disciplina violenta,Porcentaje de niños/as de 1 a 14 años que ha sido sometido a agresión psicológica o a castigo físico durante el último mes,"36,0"
+Matrimonio precoz,,,,,
+,8.4,None,Matrimonio antes de los 15 años,Porcentaje de personas de 15 a 49 años que se casó o estuvo en unión por primera vez antes de los 15 años,"5,7"
+,,,,,"1,7"
+,8.5,None,Matrimonio antes de los 18 años,Porcentaje de personas de 20 a 49 años que se casó o estuvo en unión por primera vez antes de los 18 años,"31,2"
+,,,,,"13,1"
+,8.6,None,Jóvenes de 15 a 19 años actualmente casados o en unión,Porcentaje de jóvenes de 15 a 19 años que está casado o en unión,"15,8"
+,,,,,"6,7"
+,8.8a,None,Diferencia de edad del,Porcentaje de mujeres jóvenes casadas o en unión y cuyo,
+,8.8b,None,cónyuge,"cónyuge es mayor que ellas por 10 años o más,",
+,,,,"(a) entre mujeres de 15 a 19 años,","24,1"
+,,,,(b) entre mujeres de 20 a 24 años,"19,2"
+Actitudes hacia la violencia doméstica,,,,,
+,-,,"Actitudes hacia la violencia doméstica, Cuba3",Porcentaje de personas entre 15 y 49 años que declaran que está justificado que el esposo/pareja golpee o pegue a la mujer en al menos una de las siguientes circunstancias:,"3,9"
+,,,,,"6,9"
+,8.12,None,Actitudes hacia la violencia doméstica,"Porcentaje de personas de 15 a 49 años que justifica que un esposo golpee a su esposa en al menos una de las siguientes circunstancias: (1) llega tarde sin avisarle, (2) descuida a los niños/as, (3) discute con él, (4) rehúsa mantener relaciones sexuales con él, (5) si él no se siente atendido.","3,2"
+,,,,,"3,5"
+Entorno familiar de niños/as,,,,,
+,8.13,None,Entorno familiar de los niños/as,Porcentaje de niños/as de 0 a 17 años que no vive con sus padres biológicos,"5,5"
+,8.14,None,Prevalencia de niños/as con,Porcentaje de niños/as de 0 a 17 años con uno o ambos uno o ambos padres fallecidos padres biológicos fallecidos,"2,6"
+,8.15,None,Niños/as con al menos uno de sus progenitores en el extranjero,Porcentaje de niños/as de 0 a 17 años con al menos uno de sus padres biológicos en el extranjero,"2,9"
+VIH/SIDA Y COMPORTAMIENTO SEXUAL,,,,,
+Conocimiento sobre el VIH/sida y actitudes,,,,,
+Indicador,,,,Descripción,Valor
+MICS Indicador,,,,,
+,-,,Han oído hablar sobre el,Porcentaje de personas de 15 a 49 años que ha oído hablar,
+sida,,,,sobre el sida,
+,,,,(a) Mujeres,"99,4"
+,,,,(b) Hombres,"99,5"
+,9.1,None,ODM 6.3 Conocimiento sobre la,"Porcentaje de jóvenes de 15 a 24 años que identifica correctamente las maneras de prevenir la transmisión sexual del VIH, y que rechaza los principales preconceptos sobre la transmisión del VIH",
+prevención del VIH entre jóvenes,,,,Mujeres,"60,9"
+,,,,Hombres,"58,6"
+,9.2,None,Conocimiento sobre la transmisión del VIH de madre a hijo/a,Porcentaje de personas de 15 a 49 años que identifica correctamente las tres maneras de transmisión del VIH de madre a hijo/a,
+,,,,Mujeres,"60,7"
+,,,,Hombres,"48,3"
+,9.3,None,Actitudes de aceptación hacia las personas que viven con el VIH,Porcentaje de personas de 15 a 49 años que expresa actitudes de aceptación hacia las personas que viven con el VIH en sus respuestas a las cuatro preguntas,
+,,,,Mujeres,"42,9"
+,,,,Hombres,"42,6"
+Prueba del VIH,,,,,
+,9.4,None,Personas que saben dónde hacerse la prueba del VIH,Porcentaje de personas de 15 a 49 años que conoce un lugar para hacerse la prueba del VIH,
+,,,,Mujeres,"97,3"
+,,,,Hombres,"96,1"
+,9.5,None,Personas que se han hecho la prueba del VIH y que saben los resultados,Porcentaje de personas de 15 a 49 años que se ha hecho la prueba del VIH en los últimos 12 meses y que sabe los resultados,
+,,,,Mujeres,"26,0"
+,,,,Hombres,"25,4"
+,9.6,None,Jóvenes sexualmente,Porcentaje de mujeres de 15 a 24 años que ha tenido,
+activos que se han hecho,,,,"relaciones sexuales en los últimos 12 meses, que se ha hecho",
+la prueba del VIH y que,,,,la prueba del VIH en los últimos 12 meses y que sabe los,
+saben los resultados,,,,resultados,"32,2"
+,9.7,None,Asesoramiento sobre el VIH durante la atención prenatal,"Porcentaje de mujeres de 15 a 49 años que tuvo un nacido vivo en los últimos 2 años y recibió atención prenatal durante el embarazo de su parto más reciente, así como asesoramiento sobre el VIH durante la atención prenatal","77,9"
+,9.8,None,Prueba del VIH durante la atención prenatal,"Porcentaje de mujeres de 15 a 49 años que tuvo un nacido vivo en los últimos 2 años y recibió atención prenatal durante el embarazo de su parto más reciente, y que declara que se le ofreció y aceptó someterse a la prueba del VIH durante la atención prenatal y recibió los resultados","89,4"
+Comportamiento sexual,,,,,
+,9.9,None,Jóvenes que nunca han tenido relaciones sexuales,Porcentaje de mujeres de 15 a 24 años que nunca se ha casado ni ha tenido relaciones sexuales,"32,6"
+,9.10,None,Relaciones sexuales antes de los 15 años entre jóvenes,Porcentaje de mujeres de 15 a 24 años que tuvo relaciones sexuales antes de los 15 años,"10,8"
+,9.11,None,Mezcla de edades entre parejas sexuales,Porcentaje de mujeres de 15 a 24 años que tuvo relaciones sexuales en los últimos 12 meses con una pareja que era mayor que ellas por 10 años o más,"15,5"
+,9.12,None,Múltiples parejas sexuales,Porcentaje de mujeres de 15 a 49 años que ha tenido relaciones sexuales con más de un compañero en los últimos 12 meses,"4,6"
+,9.13,None,Uso del condón en la,Porcentaje de mujeres de 15 a 49 años que reporta haber,
+última relación sexual,,,,tenido más de una pareja sexual en los últimos 12 meses y,
+entre personas con,,,,haber usado un condón la última vez que tuvo relaciones,
+múltiples parejas sexuales,,,,sexuales,"52,0"
+,9.14,None,Relaciones sexuales con parejas ocasionales,Porcentaje de mujeres sexualmente activas entre 15 y 24 años que ha mantenido relaciones sexuales con un compañero que no es su esposo/a o pareja habitual en los 12 últimos meses.,"48,6"
+,9.15,None,ODM 6.2 Uso de condón con,Porcentaje de mujeres de 15 a 24 años que reporta haber usado un condón durante la última relación sexual con una pareja con la que no están casadas ni conviven en los últimos 12 meses,"79,6"
+parejas ocasionales,,,,,
+CONSUMO DE TABACO Y ALCOHOL,,,,,
+Consumo de tabaco,,,,,
+Indicador,,,,Descripción,Valor
+MICS Indicador,,,,,
+,12.1,None,Consumo de tabaco,"Porcentaje de personas de 15 a 49 años que fumó cigarros, o",
+,,,,que usó productos de tabaco con o sin humo en cualquier,
+,,,,momento durante el último mes,
+,,,,(a) Mujeres,"11,1"
+,,,,(b) Hombres,"27,2"
+,12.2,None,Consumo de tabaco antes,Porcentaje de personas de 15 a 49 años que fumó un cigarro,
+de los 15 años,,,,completo antes de los 15 años,
+,,,,(a) Mujeres,"2,9"
+,,,,(b) Hombres,"7,5"
+Consumo de alcohol,,,,,
+,12.3,None,Consumo de alcohol,Porcentaje de personas de 15 a 49 años que bebió al menos,
+,,,,una bebida alcohólica en cualquier momento durante el,
+,,,,último mes,
+,,,,(a) Mujeres,"19,2"
+,,,,(b) Hombres,"46,5"
+,12.4,None,Consumo de alcohol antes,Porcentaje de personas de 15 a 49 años que bebió al menos,
+de los 15 años,,,,una bebida alcohólica antes de los 15 años,
+,,,,(a) Mujeres,"3,4"
+,,,,(b) Hombres,"11,4"

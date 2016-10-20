@@ -1,0 +1,84 @@
+0,1,2,3,4,5
+Topic,MICS,MDG,Indicator,,Value
+,Indicator Number,Indicator Number,,,
+,,,CHILD MORTALITY,,
+Child mortality,1,13,Under-five mortality rate,36.3,per thousand
+,2,14,Infant mortality rate,31.8,per thousand
+,,,NUTRITION,,
+Nutritional status,6,4,Underweight prevalence,4.0,percent
+,7,,Stunting prevalence,12.8,percent
+,8,,Wasting prevalence,3.8,percent
+Breastfeeding,45,,Timely initiation of breastfeeding,64.2,percent
+,15,,Exclusive breastfeeding rate,16.8,Percent
+,16,,Continued breastfeeding rate,57.1,percent
+,,,at 12-15 months,,
+,,,at 20-23 months,16.2,percent
+,17,,Timely complementary feeding rate,39.1,percent
+,18,,Frequency of complementary feeding,24.0,percent
+,19,,Adequately fed infants,20.7,percent
+Salt iodization,41,,Iodized salt consumption,92.0,percent
+Low birth weight,9,,Low birth weight infants,5.8,percent
+,10,,Infants weighed at birth,99.4,percent
+Immunization,25,,CHILD HEALTH,97.9,percent
+,,,Tuberculosis immunization coverage,,
+,26,,Polio immunization coverage,93.9,percent
+,27,,DPT immunization coverage,91.7,percent
+,28,15,Measles immunization coverage,94.7,percent
+,31,,Fully immunized children,81.0,percent
+Maternal mortality,3 16 Maternal mortality ratio 70 per 100 000,,,,
+CHILD DEVELOPMENT,,,,,
+Maternal mortality,3 16 Maternal mortality ratio 70 per 100 000,,,,
+CHILD DEVELOPMENT,,,,,
+Care of illness,33,,Use of oral rehydration therapy (ORT),74.0,percent
+,34,,Home management of diarrhoea,21.8,percent
+,35,,"Received ORT or increased fluids, and continued feeding",48.0,percent
+,23,,Care seeking for suspected pneumonia,70.5,percent
+,22,,Antibiotic treatment of suspected pneumonia,31.7,percent
+Solid fuel use,24,29,Solid fuels,19.0,percent
+Water and,11,30,Use of improved drinking water sources,93.7,percent
+Sanitation,13,,Water treatment,70.8,percent
+,12,31,Use of improved sanitation facilities,99.2,percent
+,14,,Disposal of child’s faeces,31.4,percent
+Contraception,21,19c,Contraceptive prevalence,50.7,percent
+Maternal and,20,,Antenatal care,99.9,percent
+newborn health,44,,Content of antenatal care,,
+,,,Weight measured,99.5,percent
+,,,Blood pressure measured,99.5,percent
+,,,Urine specimen taken,99.5,percent
+,,,Blood test taken,99.5,percent
+,4,17,Skilled attendant at delivery,99.8,percent
+,5,,Institutional deliveries,99.8,percent
+Child development,46,Support for learning,81.0,percent,
+,47,Father’s support for learning,46.9,percent,
+,48,Support for learning: children’s books,66.4,percent,
+,49,Support for learning: non-children’s books,89.1,percent,
+,50,Support for learning: materials for play,19.8,percent,
+,51,Non-adult care,9.8,percent,
+,EDUCATION,,,,
+Education,52,,Pre-school attendance,16.0,percent
+,53,,School readiness,39.5,percent
+,54,,Net intake rate in primary education,92.9,percent
+,55,6,Net primary school attendance rate,98.0,percent
+,56,,Net secondary school attendance rate,95.3,percent
+,57,7,Children reaching grade five,99.7,percent
+,58,,Transition rate to secondary school,99.7,percent
+,59,7b,Primary completion rate,88.4,percent
+,60,8,Adult literacy rate,99.8,percent
+,61,9,Gender parity index,0.99,ratio
+,,,primary school,,
+,,,secondary school,1.00,ratio
+CHILD PROTECTION,,,,,
+Birth registration,62,Birth registration,99.2,percent,
+Child labor,71,Child labor,2.2,percent,
+,72,Laborer students,94.3,percent,
+,73,Student laborers,2.3,percent,
+Child discipline,74,Child discipline,52.2,percent,
+,,Any psychological/physical punishment,,,
+Domestic violence,100,Attitudes towards domestic violence,10.4,percent,
+HIV/AIDS knowl- edge and attitudes,83,19b,Comprehensive knowledge about HIV prevention among young people,22.4,percent
+,89,,Knowledge of mother- to-child trans- mission of HIV,54.5,percent
+,86,,Attitude towards people with HIV/AIDS,3.8,percent
+,87,,Women who know where to be tested for HIV,83.5,percent
+,88,,Women who have been tested for HIV,61.7,percent
+,90,,Counselling coverage for the preven- tion of mother-to-child transmission of HIV,82.4,percent
+,91,,Testing coverage for the prevention of mother-to-child transmission of HIV,78.8,percent

@@ -1,0 +1,187 @@
+0,1,2,3,4,5
+Sujet,Numéro Indicateur MICS4,Numéro Indicateur OMD,Indicateur,Valeur,
+MORTALITÉ DES ENFANTS,,,,,
+Mortalité des enfants,1.1,4.1,Taux de mortalité enfants moins de cinq ans,124,pour mille
+1.2,4.2,Taux mortalité infantile,78,pour mille,
+NUTRITION,,,,,
+Etat nutritionnel,2.1a,1.8,Prévalence insuffisance pondérale Modérée et grave (- 2 SD),"16,6",pour cent
+2.1b,Grave (- 3 SD),"4,2",pour cent,,
+2.2a,,Prévalence retard croissance Modéré et grave (- 2 SD),"29,7",pour cent,
+2.2b,,Grave (- 3 SD),"8,7",pour cent,
+2.3a,,Prévalence émaciation Modérée et grave (- 2 SD),"4,8",pour cent,
+2.3b,,Grave (- 3 SD),"1,0",pour cent,
+Allaitement et alimentation infantile,2.4,,Enfants jamais allaités,"4,0",pour cent
+2.5,,Mis au sein moins d’une heure après la naissance,"46,0",pour cent,
+2.6,,Allaitement exclusif des moins de 6 mois,"62,4",pour cent,
+2.7,,Poursuite allaitement à 1 an,"92,5",pour cent,
+2.8,,Poursuite allaitement à 2 ans,"63,8",pour cent,
+2.9,,Allaitement prédominant moins de 6 mois,"75,6",pour cent,
+2.10,,Durée moyenne de l’allaitement,"22,7",pour cent,
+2.11,,Allaitement au biberon,"3,7",pour cent,
+2.12,,"Introduction d’aliments solides, semi-solides ou mous","44,2",pour cent,
+2.13,,Fréquence repas minimum,"34,3",pour cent,
+2.14,,Allaitement approprié à l’âge,"64,6",pour cent,
+2.15,,Fréquence alimentation lactée pour enfants non allaités au sein,"21,9",pour cent,
+Iodation du sel,2.16,,Consommation de sel iodé,"31,5",pour cent
+Vitamine A,2.17,,Supplément en vitamine A (enfants moins de 5 ans),"88,1",pour cent
+Insuffisance pondérale,2.18,,Nourrissons de poids insuffisant à la naissance,"11,1",pour cent
+à la naissance,,,,,
+2.19,,Nourrissons pesés à la naissance,"51,8",pour cent,
+SANTÉ DE L’ENFANT,,,,,
+Vaccinations,3.1,,Couverture vaccinale contre la tuberculose,"90,7",pour cent
+3.2,,Couverture vaccinale contre la poliomyélite,"65,4",pour cent,
+3.3,,"Couverture vaccinale contre la diphtérie, la coqueluche et le tétanos (DCTCoq)","59,1",pour cent,
+3.4,4.3,Couverture vaccinale contre la rougeole,"63,8",pour cent,
+3.5,,Couverture vaccinale contre l’hépatite B,"14,2",pour cent,
+3.6,,Couverture vaccinale contre la fièvre jaune,"60,3",pour cent,
+Vaccin antitétanique,3.7,,Protection néonatale contre le tétanos,"66,9",pour cent
+Traitement de la maladie,3.8,,Thérapie par réhydratation orale avec alimentation continue,"23,6",pour cent
+3.9,,Recours aux soins pour pneumonie suspectée,"32,1",pour cent,
+3.10,,Antibiothérapie de pneumonie suspectée,"40,8",pour cent,
+Utilisation des combustibles solides,3.11,,Combustibles solides,"97,5",pour cent
+Paludisme,3.12,,Disponibilité de moustiquaires imprégnées (MI) dans le ménage,"56,7",pour cent
+3.13,,Ménage protégé par une méthode de lutte contre le vecteur,"57,1",pour cent,
+3.14,,Enfants de moins de 5 ans dormant sous n’importe quelle moustiquaire,"58,8",pour cent,
+3.15,6.7,Enfants de moins de 5 ans dormant sous moustiquaires imprégnées (MI),"57,1",pour cent,
+3.16,,Usage de diagnostics du paludisme,"18,4",pour cent,
+3.17,,Traitement antipaludique enfants moins de 5 ans le même jour ou le jour suivant,"23,6",pour cent,
+3.18,6.8,Traitement antipaludique enfants de moins de 5 ans,"33,8",pour cent,
+3.19,,Femmes enceintes dormant sous moustiquaires imprégnées (MI),"46,3",pour cent,
+3.20,,Traitement préventif intermittent du paludisme,"50,2",pour cent,
+Iodation du sel,2.16,,Consommation de sel iodé,"31,5",pour cent
+Vitamine A,2.17,,Supplément en vitamine A (enfants moins de 5 ans),"88,1",pour cent
+Insuffisance pondérale,2.18,,Nourrissons de poids insuffisant à la naissance,"11,1",pour cent
+à la naissance,,,,,
+2.19,,Nourrissons pesés à la naissance,"51,8",pour cent,
+SANTÉ DE L’ENFANT,,,,,
+Vaccinations,3.1,,Couverture vaccinale contre la tuberculose,"90,7",pour cent
+3.2,,Couverture vaccinale contre la poliomyélite,"65,4",pour cent,
+3.3,,"Couverture vaccinale contre la diphtérie, la coqueluche et le tétanos (DCTCoq)","59,1",pour cent,
+3.4,4.3,Couverture vaccinale contre la rougeole,"63,8",pour cent,
+3.5,,Couverture vaccinale contre l’hépatite B,"14,2",pour cent,
+3.6,,Couverture vaccinale contre la fièvre jaune,"60,3",pour cent,
+Vaccin antitétanique,3.7,,Protection néonatale contre le tétanos,"66,9",pour cent
+Traitement de la maladie,3.8,,Thérapie par réhydratation orale avec alimentation continue,"23,6",pour cent
+3.9,,Recours aux soins pour pneumonie suspectée,"32,1",pour cent,
+3.10,,Antibiothérapie de pneumonie suspectée,"40,8",pour cent,
+Utilisation des combustibles solides,3.11,,Combustibles solides,"97,5",pour cent
+Paludisme,3.12,,Disponibilité de moustiquaires imprégnées (MI) dans le ménage,"56,7",pour cent
+3.13,,Ménage protégé par une méthode de lutte contre le vecteur,"57,1",pour cent,
+3.14,,Enfants de moins de 5 ans dormant sous n’importe quelle moustiquaire,"58,8",pour cent,
+3.15,6.7,Enfants de moins de 5 ans dormant sous moustiquaires imprégnées (MI),"57,1",pour cent,
+3.16,,Usage de diagnostics du paludisme,"18,4",pour cent,
+3.17,,Traitement antipaludique enfants moins de 5 ans le même jour ou le jour suivant,"23,6",pour cent,
+3.18,6.8,Traitement antipaludique enfants de moins de 5 ans,"33,8",pour cent,
+3.19,,Femmes enceintes dormant sous moustiquaires imprégnées (MI),"46,3",pour cent,
+3.20,,Traitement préventif intermittent du paludisme,"50,2",pour cent,
+EAU ET ASSAINISSEMENT,,,,,
+Eau et assainissement,4.1,7.8,Utilisation de source améliorée d’eau potable,"57,3",pour cent
+4.2,,Traitement de l’eau,"9,3",pour cent,
+4.3,7.9,Utilisation d’installations sanitaires améliorées,"34,9",pour cent,
+4.4,,Elimination sans danger des matières fécales de l’enfant,"26,7",pour cent,
+4.5,,Disponibilité de l’eau et du savon à l’endroit pour le lavage des mains,"40,2",pour cent,
+4.6,,Disponibilité de savon et du savon dans la maison,"65,4",pour cent,
+SANTÉ DE LA REPRODUCTION,,,,,
+Contraception et Besoins non satisfaits,5.1,5.4,Taux de fécondité des adolescentes,88,pour mille
+5.2,,Grossesses précoces,"17,3",pour cent,
+5.3,5.3,Taux de prévalence contraceptive,"15,2",pour cent,
+5.4,5.6,Besoins non satisfaits,"37,2",pour cent,
+Santé maternelle et du nouveau-né,5.5a,5.5a,Couverture des soins prénatals,"71,6",pour cent
+,,,Au moins une fois par le personnel qualifié,,
+5.5b,,Au moins quatre fois par n’importe quel prestataire,"54,9",pour cent,
+5.6,,Contenu des soins prénatals,"60,6",pour cent,
+5.7,5.2,Personnel qualifié à l’accouchement,"59,4",pour cent,
+5.8,,Accouchements institutionnels (Structure de santé),"66,5",pour cent,
+5.9,,Césarienne,"8,8",pour cent,
+DÉVELOPPEMENT DU JEUNE ENFANT,,,,,
+Développement du jeune enfant,6.1,,Soutien à l’apprentissage,"61,9",pour cent
+6.2,,Appui du père à l’apprentissage,"37,6",pour cent,
+6.3,,Matériels d’apprentissage: livres pour enfants,"1,5",pour cent,
+6.4,,Matériels d’apprentissage: jouets,"31,2",pour cent,
+6.5,,Soins inadéquats,"41,3",pour cent,
+6.6,,Indice de développement du jeune enfant,"55,2",pour cent,
+6.7,,Participation à l’éducation de la petite enfance,"28,8",pour cent,
+ÉDUCATION,,,,,
+Alphabétisation et éducation,7.1,2.3,Taux d’alphabétisation chez les jeunes femmes de 15-24 ans,"59,3",pour cent
+Taux d’alphabétisation chez les jeunes hommes de 15-24 ans,"80,0",pour cent,,,
+7.2,,Préparation à l’école,"16,6",pour cent,
+7.3,,Taux d’admission à l’éducation primaire,"69,0",pour cent,
+7.4,2.1,Taux net de scolarisation primaire (ajusté),"88,7",pour cent,
+7.5,,Taux net de scolarisation secondaire (ajusté),"46,1",pour cent,
+7.6,2.2,Enfants atteignant la dernière classe du primaire,"89,5",pour cent,
+7.7,,Taux d’achèvement du primaire,"83,8",pour cent,
+7.8,,Taux de transition à l’école secondaire,"75,8",pour cent,
+7.9,,Indice de parité entre les sexes (école primaire),"1,0",ratio,
+7.10,,Indice de parité entre les sexes (école secondaire),"0,8",ratio,
+PROTECTION DE L’ENFANCE,,,,,
+Enregistrement des naissances,8.1,,Enregistrement des naissances,"77,9",pour cent
+Travail,8.2,,Travail des enfants,"46,6",pour cent
+des enfants,,,,,
+8.3,,Fréquentation scolaire chez les enfants qui travaillent,"86,2",pour cent,
+8.4,,Travail des enfants parmi les étudiants,"47,2",pour cent,
+Discipline des enfants,8.5,,Discipline violente,"93,2",pour cent
+Mariage précoce et polygynie,8.6,,Mariage avant l’âge de 15 ans chez les femmes de 15-49 ans,"7,0",pour cent
+8.7,,Mariage avant l’âge de 18 ans chez les femmes de 20-49 ans,"29,1",pour cent,
+8.8,,Jeunes femmes âgées de 15-19 ans actuellement mariées ou en union,"11,5",pour cent,
+,,Jeunes gens âgés de 15-19 ans actuellement mariés ou en union,"0,4",pour cent,
+8.9,,Polygamie : femmes de 15-49 ans en union polygamique,"33,8",pour cent,
+8.10a,,Différence d’âge entre conjoints Femmes âgées de 15-19 ans,"23,2",pour cent,
+8.10b,Femmes âgées de 20-24 ans,"26,7",pour cent,,
+Mutilation génitale féminine/ excision,8.11,,Approbation de la mutilation génitale féminine/excision (MGF/E),"2,0",pour cent
+8.12,,Prévalence de la mutilation génitale féminine/excision (MGF/E) chez les femmes,"3,9",pour cent,
+8.13,,Prévalence de la mutilation génitale féminine/excision (MGF/E) chez les filles,"0,4",pour cent,
+ÉDUCATION,,,,,
+Alphabétisation et éducation,7.1,2.3,Taux d’alphabétisation chez les jeunes femmes de 15-24 ans,"59,3",pour cent
+Taux d’alphabétisation chez les jeunes hommes de 15-24 ans,"80,0",pour cent,,,
+7.2,,Préparation à l’école,"16,6",pour cent,
+7.3,,Taux d’admission à l’éducation primaire,"69,0",pour cent,
+7.4,2.1,Taux net de scolarisation primaire (ajusté),"88,7",pour cent,
+7.5,,Taux net de scolarisation secondaire (ajusté),"46,1",pour cent,
+7.6,2.2,Enfants atteignant la dernière classe du primaire,"89,5",pour cent,
+7.7,,Taux d’achèvement du primaire,"83,8",pour cent,
+7.8,,Taux de transition à l’école secondaire,"75,8",pour cent,
+7.9,,Indice de parité entre les sexes (école primaire),"1,0",ratio,
+7.10,,Indice de parité entre les sexes (école secondaire),"0,8",ratio,
+PROTECTION DE L’ENFANCE,,,,,
+Enregistrement des naissances,8.1,,Enregistrement des naissances,"77,9",pour cent
+Travail,8.2,,Travail des enfants,"46,6",pour cent
+des enfants,,,,,
+8.3,,Fréquentation scolaire chez les enfants qui travaillent,"86,2",pour cent,
+8.4,,Travail des enfants parmi les étudiants,"47,2",pour cent,
+Discipline des enfants,8.5,,Discipline violente,"93,2",pour cent
+Mariage précoce et polygynie,8.6,,Mariage avant l’âge de 15 ans chez les femmes de 15-49 ans,"7,0",pour cent
+8.7,,Mariage avant l’âge de 18 ans chez les femmes de 20-49 ans,"29,1",pour cent,
+8.8,,Jeunes femmes âgées de 15-19 ans actuellement mariées ou en union,"11,5",pour cent,
+,,Jeunes gens âgés de 15-19 ans actuellement mariés ou en union,"0,4",pour cent,
+8.9,,Polygamie : femmes de 15-49 ans en union polygamique,"33,8",pour cent,
+8.10a,,Différence d’âge entre conjoints Femmes âgées de 15-19 ans,"23,2",pour cent,
+8.10b,Femmes âgées de 20-24 ans,"26,7",pour cent,,
+Mutilation génitale féminine/ excision,8.11,,Approbation de la mutilation génitale féminine/excision (MGF/E),"2,0",pour cent
+8.12,,Prévalence de la mutilation génitale féminine/excision (MGF/E) chez les femmes,"3,9",pour cent,
+8.13,,Prévalence de la mutilation génitale féminine/excision (MGF/E) chez les filles,"0,4",pour cent,
+Violence familiale,8.14,,Attitudes envers la violence familiale,"43,4",pour cent
+"VIH/SIDA, COMPORTEMENT SEXUEL ET ENFANTS ORPHELINS ET VULNÉRABLES",,,,,
+VIH/SIDA,9.1,,Connaissance approfondie sur la prévention du VIH chez les femmes de 15-49 ans,"29,5",pour cent
+connaissance et attitudes,,,,,
+9.2,6.3,Connaissance approfondie sur la prévention du VIH chez les jeunes femmes de 15-24 ans,"33,0",pour cent,
+,Connaissance approfondie sur la prévention du VIH chez les jeunes hommes de 15-24 ans,"42,2",pour cent,,
+9.3,,Connaissance de la transmission mère-enfant du VIH chez les femmes de 15-49 ans,"53,4",pour cent,
+9.4,,Attitude bienveillante envers les gens vivant avec le VIH chez les femmes de 15-49 ans,"9,8",pour cent,
+9.5,,Femmes qui savent où faire le test VIH,"58,4",pour cent,
+9.6,,Femmes ayant subi le test VIH et connaissant les résultats,"10,1",pour cent,
+9.7,,Jeunes femmes sexuellement actives ayant subi le test du VIH et connaissant les résultats,"14,9",pour cent,
+9.8,,Conseils sur le VIH lors des soins prénatals,"66,2",pour cent,
+9.9,,Dépistage du VIH lors des soins prénatals,"38,8",pour cent,
+Comportement sexuel,9.10,,Jeunes femmes n’ayant jamais eu de rapports sexuels,"43,5",pour cent
+9.11,,Rapports sexuels à l’âge de 15 ans chez les jeunes femmes,"10,1",pour cent,
+9.12,,Femmes de 15-24 ans qui ont eu des rapports sexuels au cours des 12 derniers mois avec,"19,2",pour cent,
+,,un homme âgé de 10 ans ou plus,,,
+9.13,,Rapports sexuels avec des partenaires multiples,"1,9",pour cent,
+9.14,,Utilisation de préservatif lors des rapports sexuels avec des partenaires multiples,"34,3",pour cent,
+9.15,,Rapports sexuels des femmes de 15-24 ans avec des partenaires non réguliers,"52,0",pour cent,
+9.16,6.2,Utilisation de préservatif chez des femmes de 15-24 avec des partenaires non réguliers,"58,8",pour cent,
+,Utilisation de préservatif chez des hommes de 15-24 avec des partenaires non régulières,"67,5",pour cent,,
+Enfants orphelins,9.17,,Conditions de vie des enfants (Ne vit pas avec 1 parent biologique),"14,7",pour cent
+9.18,,Prévalence des enfants ayant au moins un parent décédé,"9,6",pour cent,
+9.19,6.4,Fréquentation scolaire des orphelins,"76,2",pour cent,
+9.20,6.4,Fréquentation scolaire des non orphelins,"89,1",pour cent,

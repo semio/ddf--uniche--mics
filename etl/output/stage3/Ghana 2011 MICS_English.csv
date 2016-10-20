@@ -1,0 +1,197 @@
+0,1,2,3,4
+Topic,"MICS4
+Indicator Number","MDG
+Indicator Number",Indicator,Value
+CHILD MORTALITY,,,,
+Child Mortality,1.1,4.1,Under-five mortality rate,82.0 percent
+,1.2,4.2,Infant mortality rate,53.0 percent
+,1.3,,Neonatal mortality rate,32.0 percent
+,1.4,,Post-neonatal mortality rate,21.0 percent
+,1.5,,Child mortality rate,31.0 percent
+NUTRITION,,,,
+Nutritional status,,1.8,Underweight prevalence,
+,2.1a,,Moderate and Severe (- 2 SD),13.4 percent
+,2.1b,,Severe (- 3 SD),2.6 percent
+,,,Stunting prevalence,
+,2.2a,,Moderate and Severe (- 2 SD),22.7 percent
+,2.2b,,Severe (- 3 SD),6.8 percent
+,,,Wasting prevalence,
+,2.3a,,Moderate and Severe (- 2 SD),6.2 percent
+,2.3b,,Severe (- 3 SD),1.4 percent
+Breastfeeding and infant feeding,2.4,,Children ever breastfed,98.9 percent
+,2.5,,Early initiation of breastfeeding,45.9 percent
+,2.6,,Exclusive breastfeeding under 6 months,45.7 percent
+,2.7,,Continued breastfeeding at 1 year,90.7 percent
+,2.8,,Continued breastfeeding at 2 years,37.4 percent
+,2.9,,Predominant breastfeeding under 6 months,71.0 percent
+,2.10,,Duration of breastfeeding,20.5 months
+,2.11,,Bottle feeding,13.7 percent
+,2.12,,"Introduction of solid, semi-solid or soft foods",74.8 percent
+,2.13,,Minimum meal frequency,57.3 percent
+,2.14,,Age-appropriate breastfeeding,63.9 percent
+,2.15,,Milk feeding frequency for non-breastfed children,13.2 percent
+Salt iodization,2.16,,Iodized salt consumption,34.5 percent
+Vitamin A,2.17,,Vitamin A supplementation (children under age 5),73.7 percent
+Low birth weight,2.18,,Low-birth weight infants,10.7 percent
+,2.19,,Infants weighed at birth,54.0 percent
+CHILD HEALTH,,,,
+Vaccinations,3.1,,Tuberculosis immunization coverage,97.8 percent
+,3.2,,Polio immunization coverage,90.7 percent
+,3.3,,"Immunization coverage for diphtheria, pertussis and tetanus (DPT)",92.1 percent
+,3.4,4.3,Measles immunization coverage,88.5 percent
+,3.5,,Hepatitis B immunization coverage,92.1 percent
+,3.6,,Yellow fever immunization coverage,88.3 percent
+Tetanus toxoid,3.7,,Neonatal tetanus protection,70.3 percent
+Care of illness,3.8,,Oral rehydration therapy with continued feeding,43.9 percent
+,3.9,,Care seeking for suspected pneumonia,41.3 percent
+Topic,"MICS4
+Indicator Number","MDG
+Indicator Number",Indicator,Value
+,3.10,,Antibiotic treatment of suspected pneumonia,55.7 percent
+Solid fuel use,3.11,,Solid fuels,81.2 percent
+WATER AND SANITATION,,,,
+Water and sanitation,4.1,7.8,Use of improved drinking water sources,79.3 percent
+,4.2,,Water treatment,17.2 percent
+,4.3,7.9,Use of improved sanitation facilities,15.0 percent
+,4.4,,Safe disposal of child's faeces,36.0 percent
+,4.5,,Place for hand washing,50.0 Percent
+,4.6,,Availability of soap,63.6 Percent
+REPRODUCTIVE HEALTH,,,,
+Contraception and unmet need,5.1,5.4,Adolescent birth rate,"60 per 1,000"
+,5.2,,Early childbearing,16.2 percent
+,5.3,5.3,Contraceptive prevalence rate,34.7 percent
+,5.4,5.6,Unmet needs,26.4 percent
+Maternal and newborns health,,5.5,Antenatal care coverage,
+,5.5a,,At least once by skilled personnel,96.4 percent
+,5.5b,5.2,At least four times by any provider,86.6 percent
+,5.6,,Content of antenatal care,88.8 percent
+,5.7,,Skilled attendant at delivery,68.4 percent
+,5.8,,Institutional deliveries,67.4 percent
+,5.9,,Caesarean section,11.4 Percent
+Post-Natal checks,,,Post-natal health checks for newborns,83.3 percent
+,,,Post-natal health checks for mothers,82.5 percent
+,,,Post-partum stay in health facility,73.8 percent
+CHILD DEVELOPMENT,,,,
+Child development,6.1,,Support for learning,39.8 percent
+,6.2,,Father's support for learning,29.6 percent
+,6.3,,Learning materials: children’s books,6.2 percent
+,6.4,,Learning materials: playthings,41.1 percent
+,6.5,,Inadequate care,20.7 percent
+,6.6,,Early child development index,73.7 percent
+,6.7,,Attendance to early childhood education,68.2 percent
+EDUCATION,,,,
+Literacy and education,7.1,2.3,Literacy rate among young women,61.4 percent
+,,,Literacy among young men,71.3 percent
+,7.2,,School readiness,80.3 percent
+,7.3,,Net intake rate in primary education,31.8 percent
+,7.4,2.1,Primary school net attendance rate (adjusted),73.0 percent
+Literacy and education,7.5,,Secondary school net attendance rate (adjusted),41.6 percent
+,7.6,2.2,Children reaching last grade of primary,95.4 percent
+,7.7,,Primary completion rate,89.9 percent
+,7.8,,Transition rate to secondary school,75.0 percent
+,7.9,,Gender parity index (primary school),1.02 ratio
+,7.10,,Gender parity index (secondary school),1.10 ratio
+Topic,"MICS4
+Indicator Number","MDG
+Indicator Number",Indicator,Value
+CHILD PROTECTION,,,,
+Birth registration,8.1,,Birth registration,62.5 percent
+Child Discipline,8.5,,Violent discipline,93.6 percent
+Early marriage and polygyny,8.6,,Marriage before age 15,5.8 percent
+,8.7,,Marriage before age 18,27.0 percent
+,8.8,,Young women age 15-19 currently married or in union,7.0 percent
+,8.9,,Polygyny,18.3 percent
+,,,Spousal age difference,
+,8.10a,,Women age 15-19,16.4 percent
+,8.10b,,Women age 20-24,19.1 percent
+Female genital mutilation/ cutting,8.11,,Approval for female genital mutilation/cutting (FGM/C),1.5 percent
+,8.12,,Prevalence of female genital mutilation/cutting (FGM/C) among women,3.8 percent
+,8.13,,Prevalence of female genital mutilation/cutting (FGM/C) among girls,0.4 percent
+Domestic violence,8.14,,Attitudes towards domestic violence for women,59.8 percent
+,,,Attitude towards domestic violence for men,35.9 percent
+Orphan,,,Prevalence of children with at least one parent dead,7.7 percent
+,,,Children’s living arrangements,17.1 percent
+"HIV/AIDS, SEXUAL BEHAVIOUR",,,,
+"HIV/AIDS
+knowledge and attitudes",9.1,,Comprehensive knowledge about HIV prevention for women,33.8 percent
+,,,Comprehensive knowledge about HIV prevention for men,39.1 percent
+,9.2,6.3,Comprehensive knowledge about HIV prevention among young women,36.8 percent
+,,,Comprehensive knowledge about HIV prevention among young men,38.6 percent
+,9.3,,Knowledge of mother-to-child transmission of HIV for women,57.2 percent
+,,,Knowledge of mother-to-child transmission of HIV for men,57.3 percent
+,9.4,,Accepting attitude towards people living with HIV for women,6.3 percent
+,,,Accepting attitude towards people living with HIV for men,15.2 percent
+,9.5,,Women who know where to be tested for HIV,74.0 percent
+,,,Men who know where to be tested for HIV,73.1 percent
+,9.6,,Women who have been tested for HIV and know the results,16.8 percent
+,,,Men who have been tested for HIV and know the results,10.0 percent
+,9.7,,Sexually active young women who have been tested for,
+,,,HIV and know the results,17.3 percent
+,,,Sexually active young men who have been tested for,
+,,,HIV and know the results,8.4 percent
+,,,,
+,,,,
+Topic,"MICS4
+Indicator Number","MDG
+Indicator Number",Indicator,Value
+"HIV/AIDS
+knowledge and attitudes",9.8,,HIV counselling during antenatal care,58.9 percent
+,9.9,,HIV testing during antenatal care,54.6 percent
+Sexual behaviour,9.10,,Young women who have never had sex,52.3 percent
+,,,Young men who have never had sex,61.3 percent
+,9.11,,Sex before age 15 among young women,9.7 percent
+,,,Sex before age 15 among young men,4.9 percent
+,9.12,,Age-mixing among sexual partners for women,12.1 percent
+,,,Age-mixing among sexual partners for men,0.0 percent
+,9.13,,Sex with multiple partners for women,1.9 percent
+,,,Sex with multiple partners for men,13.8 percent
+,9.14,,Condom use during sex with multiple partners,
+,,,Women,23.1 percent
+,,,Men,12.7 percent
+,,,,
+,9.15,,Sex with multiple partners for young people,
+,,,Women,3.3 percent
+,,,Men,6.3 percent
+,,,Condom use during sex with multiple partners for young people,
+,,,Women,27.2 percent
+,,,Men,39.3 percent
+,,,Sex with non-regular partners,
+,,,Women,56.4 percent
+,,,Men,88.0 percent
+,9.16,6.2,Condom use with non-regular partners,
+,,,Women,40.9 percent
+,,,Men,52.8 percent
+MALARIA AND BIOMARKER,,,,
+,3.12,,Household availability of insecticide-treated nets (ITNs),48.9 percent
+,3.14,,Children under age 5 sleeping under any mosquito net,41.6 percent
+,3.13,,Indoor residual spraying against mosquitoes and availability of ITNs,51.3 percent
+,3.15,6.7,Children under age 5 sleeping under insecticide- treated nets (ITNs),39.0 percent
+,3.16,,Malaria diagnostics usage,15.9 percent
+,3.17,,Antimalarial treatment of children under 5 the same or next day,34.9 percent
+,3.18,6.8,Antimalarial treatment of children under age 5,52.6 percent
+,3.19,,Pregnant women sleeping under insecticide- treated nets (ITNs),32.6 percent
+,3.20,,Intermittent preventive treatment for malaria,64.6 percent
+,,,Prevalence of malaria in children under- five,
+,,,Rapid diagnostic test (RDT),48.0 Percent
+,,,Microscopy,28.0 Percent
+,,,Anaemia,7.4 percent
+Topic,"MICS4
+Indicator Number","MDG
+Indicator Number",Indicator,Value
+NATIONAL HEALTH INSURANCE SCHEME (NHIS),,,,
+Membership,,,Registration with NHIS,
+,,,Women,68.8 percent
+,,,Men,55.9 percent
+,,,Children,53.8 percent
+Card validity,,,NHIS valid cards seen,
+,,,Women,40.3 percent
+,,,Men,34.4 percent
+,,,Children,51.0 percent
+ACCESS TO MASS MEDIA AND ICT,,,,
+"Access to mass media
+Use of computers",MT.1,,"Young women with exposure to newspaper, radio and TV at least once a week",8.3 percent
+,,,"Young men with exposure to newspaper, radio and TV at least once a week",16.8 percent
+,,,Young women who used a computer during the last 12 months,25.1 percent
+Use of internet,MT.2,,Young men who used a computer during the last 12 months,39.2 percent
+,MT.3,,Young women who used the internet during the last 12 months,14.7 percent
+,,,Young women who used the internet during the last 12 months,28.8 percent

@@ -1,0 +1,201 @@
+0,1,2,3,4,5
+Topic,"MICS4
+Indicator Number","MDG
+Indicator Number",Indicator,Value,
+CHILD MORTALITY,,,,,
+Child mortality,1.1,4.1,Under-five mortality rate2,27,"per 1,000"
+,1.2,4.2,Infant mortality rate3,24,"per 1,000"
+NUTRITION,,,,,
+Nutritional status,,,Underweight prevalence,,
+,2.1a,1.8,Moderate and Severe (- 2 SD),8.8,per cent
+,2.1b,1.8,Severe (- 3 SD),2.4,per cent
+,,,Stunting prevalence,,
+,2.2a,,Moderate and Severe (- 2 SD),21.1,per cent
+,2.2b,,Severe (- 3 SD),8,per cent
+,,,wasting prevalence,,
+,2.3a,,Moderate and Severe (- 2 SD),8.3,per cent
+,2.3b,,Severe (- 3 SD),3.5,per cent
+Breastfeeding and infant feeding,2.4,,Children ever breastfed,95,per cent
+,2.5,,Early initiation of breastfeeding,50.3,per cent
+,2.6,,Exclusive breastfeeding under 6 months,22.3,per cent
+,2.7,,Continued breastfeeding at 1 year,50.1,per cent
+,2.8,,Continued breastfeeding at 2 years,68.8,per cent
+,2.9,,Predominant breastfeeding under 6 months,64,per cent
+,2.10,,Duration of breastfeeding,24.5,months
+,2.11,,Bottle feeding,56.3,per cent
+,2.12,,"Introduction of solid, semi-solid or soft foods",(67.2),per cent
+,2.13,,Minimum meal frequency,60.1,per cent
+,2.14,,Age-appropriate breastfeeding,39.8,per cent
+,2.15,,Milk feeding frequency for non-breastfed children,78.4,per cent
+low birth weight,2.18,,low birth weight infants,13.7,per cent
+,2.19,,Infants weighed at birth,96.2,per cent
+CHILD HEALTH,,,,,
+Vaccinations,3.1,,Tuberculosis immunisation coverage,85.6,per cent
+,3.2,,Polio immunisation coverage,14.2,per cent
+,3.3,4.3,"Immunisation coverage for diphtheria, pertussis
+and tetanus (DPT)",12.5,per cent
+,3.4,,"Measles, mumps and rubella immunisation coverage",21.8,per cent
+,3.5,,Hepatitis B immunisation coverage,14.5,per cent
+Care of illness,3.8,,Oral rehydration therapy with continued feeding,52.1,per cent
+,3.9,,Care-seeking for suspected pneumonia,79.8,per cent
+,3.10,,Antibiotic treatment of suspected pneumonia,74.9,per cent
+Solid fuel use,3.11,,"Solid fuels (used as the primary source
+of energy for cooking)",92.2,per cent
+WATER AND SANITATION,,,,,
+water and sanitation,4.1,7.8,Use of improved drinking water sources,97.4,per cent
+,4.2,,water treatment,2.7,per cent
+,4.3,7.9,Use of improved sanitation,73.1,per cent
+,4.4,,Safe disposal of child’s faeces,12.3,per cent
+,4.5,,Place for hand washing,91.6,per cent
+,4.6,,Availability of soap,96.5,per cent
+Topic,"MICS4
+Indicator Number","MDG
+Indicator Number",Indicator,Value,
+REPRODUCTIVE HEALTH,,,,,
+Contraception and unmet need,5.1,5.4,Adolescent birth rate,145,"per 1,000"
+,5.2,,Early childbearing,31,per cent
+,5.3,5.3,Contraceptive prevalence rate,24.8,per cent
+,5.4,5.6,Unmet need,28.4,per cent
+Maternal and,,,Antenatal care coverage,,
+newborn,5.5a,5.5,At least once by skilled personnel,79.1,per cent
+health,5.5b,5.5,At least four times by any provider,62,per cent
+,5.6,,Content of antenatal care,70.2,per cent
+,5.7,5.2,Skilled attendant at delivery,98.7,per cent
+,5.8,,Institutional deliveries,99,per cent
+,5.9,,Caesarean section,13.2,per cent
+CHILD DEVELOPMENT,,,,,
+Child development,6.1,,Support for learning,66.1,per cent
+,6.2,,Father’s support for learning,59.8,per cent
+,6.3,,learning materials: children’s books,10.8,per cent
+,6.4,,learning materials: playthings,47.7,per cent
+,6.5,,Inadequate care,6.6,per cent
+,6.6,,Early Childhood Development Index,84.9,per cent
+,6.7,,Attendance at early childhood education,1.5,per cent
+EDUCATION,,,,,
+literacy and,7.1,2.3,literacy rate amongst women and men aged 15-24,,
+education,,,women aged 15-24 years,68.9,per cent
+,,,men aged 15-24 years,90.4,per cent
+,7.2,,School readiness,4.1,per cent
+,7.3,,Net intake rate for primary education,46.9,per cent
+,7.4,2.1,Primary school net attendance ratio (adjusted),69.3,per cent
+,7.5,,Secondary school net attendance ratio (adjusted),22.6,per cent
+,7.6,2.2,Children reaching last grade of primary school,74.8,per cent
+,7.7,,Primary completion rate,73.3,per cent
+,,,Net primary completion rate,40.1,per cent
+,7.8,,Transition rate to secondary school,71.1,per cent
+,7.9,,Gender Parity Index (primary school),0.96,ratio
+,7.1,,Gender Parity Index (secondary school),0.68,ratio
+CHILD PROTECTION,,,,,
+"Birth
+registration",8.1,,Birth registration,95.8,per cent
+Child discipline,8.5,,Violent discipline,57.6,per cent
+Early marriage,8.6,,Marriage before age 15,,
+and polygyny,,,women aged 15-49 years,14.6,per cent
+,,,men aged 15-49 years,3.9,per cent
+,8.7,,Marriage before age 18,,
+,,,women aged 20-49 years,48.3,per cent
+,,,men aged 20-49 years,20.5,per cent
+,8.8,,"women aged 15-19 years currently married
+or in union",38.3,per cent
+,,,Men aged 15-19 years currently married or in union,13.4,per cent
+,8.9,,Polygyny,,
+,,,women aged 15-49 years,1,per cent
+,,,men aged 15-49 years,0.4,per cent
+,,,Spousal age difference,,
+,8.10a,,women aged 15-19 years,2.5,per cent
+,8.10b,,women aged 20-24 years,4.8,per cent
+Domestic violence,8.14,,Attitudes towards domestic violence,,
+,,,women aged 15-49 years,43.5,per cent
+,,,men aged 15-49 years,21.1,per cent
+Topic,"MICS4
+Indicator Number","MDG
+Indicator Number",Indicator,Value,
+"HIV/AIDS, SEXUAL BEHAVIOUR AND ORPHANED AND VULNERABLE CHILDREN",,,,,
+HIV/AIDS,,,Comprehensive knowledge about HIV prevention,,
+knowledge,9.1,,women aged 15-49 years,8.6,per cent
+and attitudes,,,men aged 15-49 years,17.8,per cent
+,9.2,6.3,"Comprehensive knowledge about HIV prevention
+amongst women and men aged 15-24",,
+,,,women aged 15-24 years,8.9,per cent
+,,,men aged 15-24 years,20.9,per cent
+,9.3,,Knowledge of mother-to-child transmission of HIV,,
+,,,women aged 15-49 years,41.5,per cent
+,,,men aged 15-49 years,40.8,per cent
+,9.4,,Accepting attitudes towards people living with HIV,,
+,,,women aged 15-49 years,6.5,per cent
+,,,men aged 15-49 years,13.8,per cent
+,9.5,,women who know where to be tested for HIV,22.6,per cent
+,,,Men who know where to be tested for HIV,48.6,per cent
+,9.6,,"women who have been tested for HIV
+and know the results",1.7,per cent
+,,,"Men who have been tested for HIV and know the
+results",1.4,per cent
+,,,,,
+,9.7,,"Sexually active women aged 15-24 who have been
+tested for HIV and know the results",1.6,per cent
+,,,"Sexually active men aged 15-24 who have been
+tested for HIV and know the results",2.3,per cent
+,,,,,
+,9.8,,HIV counselling during antenatal care,2.7,per cent
+,9.9,,HIV testing during antenatal care,0.4,per cent
+Sexual,9.10,,women aged 15-24 who have never had sex,87.4,per cent
+behaviour,,,Men aged 15-24 who have never had sex,45.8,per cent
+,9.11,,"Sex before age 15 amongst women
+and men age 15-24",,
+,,,women aged 15-24 years,12,per cent
+,,,men aged 15-24 years,14.2,per cent
+,9.12,,Age mixing amongst sexual partners,,
+,,,women aged 15-24 years,4.3,per cent
+,,,men aged 15-24 years,0.8,per cent
+,9.13,,Sex with multiple partners,,
+,,,women aged 15-49 years,1.2,per cent
+,,,men aged 15-49 years,5.4,per cent
+,9.14,,Condom use during sex with multiple partners,,
+,,,women aged 15-49 years,(*),per cent
+,,,men aged 15-49 years,27.7,per cent
+,9.15,,Sex with non-regular partners,,
+,,,women aged 15-24 years,12.9,per cent
+,,,men aged 15-24 years,55.6,per cent
+,9.16,6.2,Condom use with non-regular partners,,
+,,,women aged 15-24 years,(32.4),per cent
+,,,men aged 15-24 years,49,per cent
+Orphaned,9.17,,Children’s living arrangements,3.5,per cent
+children,9.18,,"Prevalence of children with one or both parents
+dead",4.3,per cent
+,,,,,
+Topic,"MICS4
+Indicator Number","MDG
+Indicator Number",Indicator,Value,
+ACCESS TO MASS MEDIA AND USE OF INFORMATION/COMMUNICATION TECHNOLOGY,,,,,
+access to mass media,MT.1,,exposure to mass media,,
+,,,women aged 15-49 years,15.5,per cent
+,,,men aged 15-49 years,38.6,per cent
+use of information/ communication technology,MT.2,,use of computers,,
+,,,women aged 15-24 years,36.1,per cent
+,,,men aged 15-24 years,59.7,per cent
+,MT.3,,use of the internet,,
+,,,women aged 15-24 years,33.1,per cent
+,,,men aged 15-24 years,60.6,per cent
+SUBJECTIVE WELL-BEING,,,,,
+subjective well-being,SW.1,,life satisfaction,,
+,,,women age d15-24 years,38.6,per cent
+,,,men aged 15-24 years,47.6,per cent
+,SW.2,,happiness,,
+,,,women aged 15-24 years,74.9,per cent
+,,,men aged 15-24 years,77.3,per cent
+,SW.3,,perception of a better life,,
+,,,women aged 15-24 years,25.3,per cent
+,,,men aged 15-24 years,19.4,per cent
+TOBACCO AND ALCOHOL USE,,,,,
+tobacco use,TA.1,,tobacco use,,
+,,,women aged 15-49 years,54.7,per cent
+,,,men aged 15-49 years,56.2,per cent
+,TA.2,,smoking before age 15,,
+,,,women aged 15-49 years,21.8,per cent
+,,,men aged 15-49 years,19.3,per cent
+alcohol use,TA.3,,alcohol use,,
+,,,women aged 15-49 years,14.3,per cent
+,,,men aged 15-49 years,48.1,per cent
+,TA.4,,use of alcohol before age 15,,
+,,,women aged 15-49 years,5.3,per cent
+,,,men aged 15-49 years,18.9,per cent

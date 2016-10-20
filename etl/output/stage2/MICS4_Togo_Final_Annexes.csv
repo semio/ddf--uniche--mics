@@ -1,0 +1,77 @@
+0,1,2,3,4,5,6,7,8,9,10
+"Erreur  Coefficient  Effet  Carré de  Effectif Indicateur   Valeur    type     de      du plan  l’effet du   Effectif      non de MICS (r) (et ) variation exp. plan exp. pondéré pondéré
+(et/r ) (deff ) (deft )²",Intervalle de confiance,,,,,,,,,
+"r - r +
+2et 2et",,,,,,,,,,
+MENAGES,,,,,,,,,,
+Consommation de sel iodé,"2,16","0,3147","0,0070","0,022","1,328","1,152",5921,5921,"0,301","0,329"
+Disponibilité de MI par ménage,"3,12","0,5666","0,0085","0,015","1,762","1,327",6039,6039,"0,550","0,583"
+MEMBRES DES MENAGES,,,,,,,,,,
+Utilisation de sources d’eau potable améliorées,"4,1","0,5730","0,0123","0,022","3,756","1,938",28938,6039,"0,548","0,598"
+Utilisation d’installations sanitaires améliorées,"4,3","0,1334","0,0074","0,055","2,833","1,683",28938,6039,"0,119","0,148"
+Ratio net de fréquentation (ajusté) dans le secondaire,"7,5","0,4597","0,0129","0,028","3,090","1,758",4350,4603,"0,434","0,486"
+Travail des enfants,"8,2","0,4673","0,0088","0,019","2,898","1,702",8364,9284,"0,450","0,485"
+Prévalence d’orphelins,"9,18","0,0956","0,0039","0,040","2,745","1,657",14415,15944,"0,088","0,103"
+Fréquentation scolaire des orphelins,"9,19","0,7612","0,0482","0,063","0,714","0,845",61,57,"0,665","0,858"
+Fréquentation scolaire des non-orphelins,"9,20","0,8902","0,0081","0,009","1,965","1,402",2614,2958,"0,874","0,906"
+Discipline des enfants,"8,5","0,9323","0,0055","0,006","2,150","1,466",10968,4511,"0,921","0,943"
+FEMMES,,,,,,,,,,
+Femmes enceintes,-,"0,0742","0,0037","0,050","1,261","1,123",6376,6376,"0,067","0,082"
+Femmes enceintes dormant sous moustiquaires imprégnées d’insecticide (MI),"3,19","0,4630","0,0235","0,051","1,095","1,046",470,493,"0,416","0,510"
+Traitement préventif intermittent contre le paludisme,"3,20","0,5021","0,0143","0,029","1,070","1,035",1282,1304,"0,473","0,531"
+Grossesses précoces,"5,2","0,1725","0,0121","0,070","1,152","1,073",1171,1130,"0,148","0,197"
+Prévalence contraceptive,"5,3","0,1518","0,0080","0,053","2,125","1,458",4104,4310,"0,136","0,168"
+Besoins non satisfaits,"5,4","0,3722","0,0103","0,028","1,960","1,400",4104,4310,"0,352","0,393"
+"Couverture des soins prénatals
+- au moins une fois par un personnel de santé qualifié",5.5a,"0,7155","0,0142","0,020","1,938","1,392",1792,1961,"0,687","0,744"
+Couverture des soins prénatals - au moins quatre fois par tout prestataire de santé,5.5b,"0,5492","0,0137","0,025","1,475","1,215",1792,1961,"0,522","0,576"
+Personne qualifiée à l’accouchement,"5,7","0,5938","0,0153","0,026","1,906","1,381",1792,1961,"0,563","0,624"
+Accouchement dans une structure de santé,"5,8","0,6646","0,0164","0,025","2,376","1,541",1792,1961,"0,632","0,697"
+Accouchement par césarienne,"5,9","0,0883","0,0081","0,091","1,586","1,259",1792,1961,"0,072","0,104"
+Taux d’alphabétisation chez les jeunes femmes,"7,1","0,5932","0,0127","0,021","1,517","1,232",2319,2272,"0,568","0,619"
+Mariage avant 18 ans,"8,7","0,2907","0,0080","0,028","1,630","1,277",5227,5234,"0,275","0,307"
+Polygamie,"8,9","0,3376","0,0100","0,030","1,933","1,390",4104,4310,"0,318","0,358"
+Prévalence de l’excision/mutilation génitale féminine (FGM/C),"8,12","0,0387","0,0033","0,086","1,908","1,381",6376,6376,"0,032","0,045"
+Connaissance approfondie sur la prévention du VIH parmi les jeunes femmes,"9,2","0,3297","0,0130","0,039","1,742","1,320",2319,2272,"0,304","0,356"
+Connaissances sur la transmission mère-enfant du VIH,"9,3","0,5335","0,0085","0,016","1,865","1,366",6376,6376,"0,516","0,551"
+Attitudes envers les personnes vivant avec le VIH,"9,4","0,0979","0,0042","0,043","1,236","1,112",6250,6238,"0,090","0,106"
+Femmes ayant fait le test de dépistage du VIH et ayant reçu le résultat,"9,6","0,1009","0,0050","0,049","1,733","1,316",6376,6376,"0,091","0,111"
+Jeunes femmes sexuellement actives qui ont été testés pour le VIH et reçu les résultats,"9,7","0,1493","0,0108","0,073","1,325","1,151",1459,1437,"0,128","0,171"
+Utilisation du condom avec des partenaires non réguliers,"9,16","0,5880","0,0198","0,034","1,113","1,055",759,686,"0,548","0,628"
+"Prévalence des mutilations génitales féminines
+/ excision chez les filles","8,13","0,0037","0,0012","0,316","1,919","1,385",4679,5190,"0,001","0,006"
+"Erreur  Coefficient  Effet   Carré de   Effectif Indicateur   Valeur    type       de      du plan  l’effet du   Effectif      non de MICS (r) (et ) variation exp. plan exp. pondéré pondéré
+(et/r ) (deff ) (deft )²",Intervalle de confiance,,,,,,,,,
+"r - r +
+2et 2et",,,,,,,,,,
+ENFANTS DE MOINS DE 5 ANS,,,,,,,,,,
+Prévalence de l’insuffisance pondérale,2.1a,"0,1657","0,0061","0,037","1,266","1,125",4625,4643,"0,153","0,178"
+Retard de croissance,2.2a,"0,2974","0,0088","0,029","1,698","1,303",4613,4632,"0,280","0,315"
+Prévalence de l’émaciation,2.3a,"0,0479","0,0035","0,074","1,280","1,131",4668,4680,"0,041","0,055"
+Allaitement maternel exclusif de moins de 6 mois,"2,6","0,6241","0,0212","0,034","1,081","1,040",569,563,"0,582","0,667"
+Agede l’allaitement,"2,14","0,6464","0,0133","0,021","1,510","1,229",1937,1955,"0,620","0,673"
+Couverture vaccinale contre la tuberculose,-,"0,9083","0,0102","0,011","1,147","1,071",898,926,"0,888","0,929"
+Couverture vaccinale contre la polio,-,"0,6624","0,0153","0,023","0,976","0,988",900,928,"0,632","0,693"
+Couverture vaccinale contre la DTCoq,-,"0,7239","0,0154","0,021","1,077","1,038",886,914,"0,693","0,755"
+Couverture vaccinale contre la rougeole,-,"0,6830","0,0164","0,024","1,141","1,068",887,915,"0,650","0,716"
+Vaccination contre l’hépatite B,-,"0,1632","0,0142","0,087","1,338","1,157",883,906,"0,135","0,192"
+Diarrhée au cours des 2 dernières semaines,-,"0,2068","0,0073","0,035","1,544","1,243",4746,4746,"0,192","0,221"
+Infection respiratoire aiguë au cours des 2 dernières semaines,-,"0,0532","0,0043","0,081","1,758","1,326",4746,4746,"0,045","0,062"
+Fièvre au cours des 2 dernières semaines,-,"0,3329","0,0091","0,027","1,767","1,329",4746,4746,"0,315","0,351"
+Traitement RVO reçu ou poursuite de l’alimentation,"3,8","0,2357","0,0160","0,068","1,484","1,218",981,1039,"0,204","0,268"
+Traitement antibiotique d’une pneumonie suspectée,"3,10","0,4080","0,0228","0,056","0,503","0,709",252,234,"0,362","0,454"
+Enfants de moins de 5 ans dormant sous une MI,"3,15","0,5713","0,0110","0,019","2,345","1,531",4695,4705,"0,549","0,593"
+Traitement anti-paludéen des enfants de moins de 5 ans dans les 24 heures,"3,18","0,2356","0,0119","0,051","1,318","1,148",1580,1667,"0,212","0,260"
+Soutien pour l’apprentissage,"6,1","0,6189","0,0157","0,025","1,889","1,375",1821,1804,"0,587","0,650"
+Participation à l’éducation de la petite enfance,"6,7","0,2875","0,0133","0,046","1,562","1,250",1821,1804,"0,261","0,314"
+Enregistrement des naissances,"8,1","0,7794","0,0116","0,015","3,744","1,935",4746,4746,"0,756","0,803"
+HOMMES,,,,,,,,,,
+Taux d’alphabétisation chez les jeunes hommes,"7,1","0,7996","0,0138","0,0173","0,873","0,935",736,736,"0,772","0,827"
+Mariage avant 18 ans,"8,7","0,0299","0,0057","0,1919","1,684","1,298",1500,1485,"0,018","0,041"
+Polygamie,"8,9","0,1827","0,0131","0,0715","1,150","1,072",954,1006,"0,157","0,209"
+Connaissance approfondie sur la prévention du VIH parmi les jeunes hommes,"9,2","0,4222","0,0208","0,0492","1,302","1,141",736,736,"0,381","0,464"
+Connaissances sur la transmission mère-enfant du VIH,"9,3","0,5266","0,0171","0,0325","2,267","1,506",1925,1925,"0,492","0,561"
+Attitudes envers les personnes vivant avec le VIH,"9,4","0,1987","0,0131","0,0660","2,053","1,433",1905,1901,"0,172","0,225"
+Hommes ayant subi le test de dépistage du VIH et ayant reçu le résultat,"9,6","0,2362","0,0129","0,0548","1,788","1,337",1925,1925,"0,210","0,262"
+Rapports sexuels avant l’âge de 15 chez les jeunes hommes,"9,11","0,0914","0,0130","0,1427","1,505","1,227",736,736,"0,065","0,117"
+Utilisation du condom avec des partenaires non réguliers,"9,16","0,1474","0,0212","0,1438","0,905","0,951",280,254,"0,105","0,190"

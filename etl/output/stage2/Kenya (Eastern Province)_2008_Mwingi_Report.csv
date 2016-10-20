@@ -1,0 +1,107 @@
+0,1,2,3,4,5,6
+Topic,MICS,MDG,Value & Unit,,,
+,Indicator Number,Indicator Indicator Number,,,,
+CHILD MORTALITY,,,,,,
+Child mortality,1,13,Under-five mortality rate Infant mortality rate,64,per live,thousand births
+,2,14,,44,per live,thousand births
+NUTRITION,,,,,,
+Nutritional,,,Underweight prevalence (below -2 SD),28.2,per,cent
+status,Stunting prevalence (below -2 SD),38.7,per,cent,,
+,Wasting prevalence (below -2 SD),4.3,per,cent,,
+Breastfeeding,45,,Timely initiation of breastfeeding Exclusive breastfeeding rate Continued breastfeeding rate,69.1,per,cent
+,,,at 12-15 months,,,
+,,,at 20-23 months,,,
+,,,Timely complementary feeding rate Frequency of complementary feeding Adequately fed infants,,,
+,15,32.1,per,cent,,
+,16,90.6,per per,cent cent,,
+,,53.9,,,,
+,17,65.3,per,cent,,
+,18,76.0,per,cent,,
+,19,50.1,per,cent,,
+Salt iodization,41,,Iodized salt consumption,84.4,per,cent
+Vitamin A,42,,Vitamin A supplementation (under-fives),65.1,per per,cent cent
+,43,,Vitamin A supplementation (post-partum mothers),29.1,,
+Low birth,9,,Low birth weight infants,7.2,per,cent
+weight,10,Infants weighed at birth,60.8,per,cent,
+CHILD HEALTH,,,,,,
+Immunization,25,,Tuberculosis immunization coverage (by 12 months),91.5,per,cent
+,26,,Polio immunization coverage (by 12 months),85.8,per,cent
+,27,,DPT immunization coverage (by 12 months),86.7,per,cent
+,28,15,Measles immunization coverage (by 12 months),71.7,per,cent
+,31,,Fully immunized children (by 12 months),61.3,per,cent
+Tetanus toxoid,32,,Neonatal tetanus protection,67.6,per,cent
+Care of illness,33,,Use of oral re-hydration therapy (ORT),38.1,per,cent
+,34,Home management of diarrhoea,7.1,per,cent,
+,35,"Received ORT or increased fluids, and continued",,,,
+,,feeding,19.3,per,cent,
+,23,Care seeking for suspected pneumonia,59.0,per,cent,
+,22,Antibiotic treatment of suspected pneumonia,34.4,per,cent,
+Solid fuel use,24,29,Solid fuels,97.3,per,cent
+Malaria,36,,Households having insecticide-treated nets (ITNs),45.5,per,cent
+,37,22,Under-fives sleeping under insecticide-treated nets,27.0,per,cent
+,38,,Under-fives sleeping under mosquito nets,34.3,per,cent
+,39,22,Anti-malarial treatment (under-fives),14.3,per,cent
+,40,,Intermittent preventive malaria treatment (pregnant,47.7,per,cent
+,,,women),,,
+ENVIRONMENT,,,,,,
+Water and,11,30,Use of improved drinking water sources,18.6,per,cent
+Sanitation,13,,Water treatment,33.3,per,cent
+,12,31,Use of improved sanitation facilities,14.7,per,cent
+,14,,Disposal of child's faeces,39.8,per,cent
+Topic,MICS,MDG,Value & Unit,,,
+,Indicator Number,Indicator Indicator Number,,,,
+REPRODUCTIVE HEALTH,,,,,,
+Contraception,21,19c,Contraceptive prevalence,46.8 per cent,,
+and unmet,98,,Unmet need for family planning,6.8 per cent,,
+need,,,,,,
+Maternal and,20,,Antenatal care,94.1 per cent,,
+newborn health,44,,Content of antenatal care,,,
+Blood test taken,75.3 per cent,,,,,
+Blood pressure measured,73.2 per cent,,,,,
+Urine specimen taken,48.0 per cent,,,,,
+Weight measured,87.0 per cent,,,,,
+,4,17,Skilled attendant at delivery,38.7 per cent,,
+5,,Institutional deliveries,37.5 per cent,,,
+Total fertility rate,5.4 Rate,,,,,
+EDUCATION,,,,,,
+Education,52,,Pre-school attendance,30.4 per cent,,
+,53,,School readiness,87.4 per cent,,
+,54,,Net intake rate in primary education,44.1 per cent,,
+,55,6,Net primary school attendance rate,85.6 per cent,,
+,56,,Net secondary school attendance rate,12.7 per cent,,
+,,,Adult literacy rate (female),84.4 Per cent,,
+CHILD PROTECTION,,,,,,
+Birth registration,62,,Birth registration,44.6 per cent,,
+Child labour,71,,Child labour,19.6 per cent,,
+,72,Labourer students,96.0 per cent,,,
+,73,Student labourers,20.3 per cent,,,
+Child discipline,74,,Any psychological/physical punishment,93.9 per cent,,
+Early marriage,67,,Marriage before age 15,6.1 per cent,,
+and polygyny,,Marriage before age 18,30.7 per cent,,,
+,68,Young women aged 15-19 currently married/in union,10.5 per cent,,,
+Female genital,66,,Approval for FGM/C,13.6 per cent,,
+mutilation/,63,Prevalence of female genital mutilation/cutting (FGM/C),66.7 per cent,,,
+Cutting,64,Prevalence of extreme form of FGM/C,6.3 per cent,,,
+,65,FGM/C prevalence among daughters,21.1 per cent,,,
+Domestic violence,100,,Attitudes towards domestic violence,56.5 per cent,,
+"HIV/AIDS, SEXUAL BEHAVIOUR, AND ORPHANED AND VULNERABLE CHILDREN",,,,,,
+HIV/AIDS,82,19b,Comprehensive knowledge about HIV prevention,23.9 per cent,,
+knowledge and,,,among young people,,,
+attitudes,89,,Knowledge of mother- to-child transmission of HIV,98.0 per cent,,
+,86,,Attitude towards people with HIV/AIDS,11.5 per cent,,
+,87,,Women who know where to be tested for HIV,89.8 per cent,,
+,88,,Women who have been tested for HIV,45.9 per cent,,
+,90,,Counselling coverage for the prevention of mother-to-,58.8 per cent,,
+,,,child transmission of HIV,,,
+,91,,Testing coverage for the prevention of mother-to-,68.1 per cent,,
+,,,child transmission of HIV,,,
+Support to,75,,Prevalence of orphans,10.3 per cent,,
+,,,,7.4 per cent,,
+,,,,6.6 per cent,,
+,,,,0.98 Ratio,,
+,,,,36.2 per cent,,
+orphaned and,78,20,Children’s living arrangements Prevalence of vulnerable children,,,
+vulnerable children,76,,School attendance of orphans versus non-orphans,,,
+,77,,,,,
+,81,,External support to children orphaned and made,,,
+,,,vulnerable by HIV/AIDS,,,

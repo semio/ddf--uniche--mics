@@ -1,0 +1,133 @@
+0,1,2,3,4,5
+Topic,MICS,MDG,,Value,
+,Indicator Number,Indicator Indicator Number,,,
+CHILD MORTALITY,,,,,
+Child mortality,1,13,Under-five mortality rate Infant mortality rate,267,per thousand per thousand
+,2,14,,158,
+NUTRITION,,,,,
+Nutritional,6,4,Underweight prevalence,30,Percent
+status,7,,Stunting prevalence,40,Percent
+,8,,Wasting prevalence,9,Percent
+Breastfeeding,45,,Timely initiation of breastfeeding Exclusive breastfeeding rate Continued breastfeeding rate,33,Percent
+,,,at 12-15 months,,
+,,,at 20-23 months,,
+,,,Timely complementary feeding rate Frequency of complementary feeding Adequately fed infants,,
+,15,8,Percent,,
+,16,87,Percent,,
+,,57,Percent,,
+,17,52,Percent,,
+,18,37,Percent,,
+,19,23,Percent,,
+Salt iodization,41,,Iodized salt consumption,45,Percent
+Vitamin A,42,,Vitamin A supplementation (under-fives),49,Percent
+,43,Vitamin A supplementation (post-partum mothers),55,Percent,
+Low birth,9,,Low birth weight infants,24,Percent
+weight,10,Infants weighed at birth,29,Percent,
+CHILD HEALTH,,,,,
+Immunization,25,,Tuberculosis immunization coverage,84,Percent
+,26,,Polio immunization coverage,57,Percent
+,27,,DPT immunization coverage,56,Percent
+,28,15,Measles immunization coverage,63,Percent
+,31,,Fully immunized children,35,Percent
+,30,,Yellow fever immunization coverage,61,Percent
+Tetanus toxoid,32,,Neonatal tetanus protection,78,Percent
+Care of illness,33,,Use of oral rehydration therapy (ORT),60,Percent
+,34,Home management of diarrhoea,23,Percent,
+,35,"Received ORT or increased fluids, and continued",31,Percent,
+,,feeding,,,
+,23,Care seeking for suspected pneumonia,48,Percent,
+,22,Antibiotic treatment of suspected pneumonia,21,Percent,
+Solid fuel use,24,29,Solid fuels,99,Percent
+Malaria,36,,Household availability of insecticide-treated nets,5,Percent
+,,,(ITNs),,
+,37,22,Under-fives sleeping under insecticide-treated nets,5,Percent
+,38,,Under-fives sleeping under mosquito nets,20,Percent
+,39,22,Antimalarial treatment (under-fives),45,Percent
+,40,,Intermittent preventive malaria treatment,2,Percent
+,,,(pregnant women),,
+MICS,MDG,,Value,,
+Topic     Indicator Number,Indicator Indicator Number,,,,
+ENVIRONMENT,,,,,
+Water and,11,30,Use of improved drinking water sources,47,percent
+Sanitation,13,,Water treatment,5,percent
+,12,31,Use of improved sanitation facilities,30,percent
+,14,,Disposal of child's faeces,41,percent
+REPRODUCTIVE HEALTH,,,,,
+Contraception and unmet need,21,19c,Contraceptive prevalence,5,percent
+Maternal and,20,,Antenatal care,81,percent
+newborn health,44,,Content of antenatal care,94,percent
+,4,17,Skilled attendant at delivery,43,percent
+,5,,Institutional deliveries,19,percent
+Maternal mortality,3,16,Maternal mortality ratio,457,"per 100,000"
+CHILD DEVELOPMENT,,,,,
+Child,46,,Support for learning,65,percent
+development,47,,Father's support for learning,65,percent
+,48,,Support for learning: children’s books,11,percent
+,49,,Support for learning: non-children’s books,29,percent
+,50,,Support for learning: materials for play,52,percent
+,51,,Non-adult care,21,percent
+EDUCATION,,,,,
+Education,52,,Pre-school attendance School readiness,13,percent
+,,,Net intake rate in primary education Net primary school attendance rate Net secondary school attendance rate Children reaching grade five Transition rate to secondary school Primary completion rate,,
+,,,Gender parity index,,
+,,,primary school secondary school,,
+,53,,7,percent,
+,54,,48,percent,
+,55,6,69,percent,
+,56,,19,percent,
+,57,7,92,percent,
+,58,,52,percent,
+,59,7b,11,percent,
+,61,9,,,
+,,,1.01,ratio,
+,,,0.78,ratio,
+Literacy,60,8,Adult literacy rate,25,percent
+CHILD PROTECTION,,,,,
+Birth registration,62,,Birth registration,48,percent
+Child labour,71,,Child labour,48,percent
+,72,Labourer students,64,percent,
+,73,Student labourers,45,percent,
+Child discipline,74,,Child discipline: Any psychological/physical punishment,92,percent
+Early marriage,67,,Marriage before age 15 Marriage before age 18,27,percent
+,,,Young women aged 15-19 currently married/in union,,
+,,,Polygyny,,
+,,,Spousal age difference,,
+,,,Among women aged 15-19 Among women aged 20-24,,
+and polygyny,,62,percent,,
+,68,36,percent,,
+,70,43,percent,,
+,69,,,,
+,,58,percent,,
+,,56,percent,,
+Topic,MICS,MDG,,Value,
+,Indicator Number,Indicator Indicator Number,,,
+Membership in secret societies (proxy for female genital cutting),66,,Approval for continuation of secret societies Prevalence of membership in secret societies,86,percent percent percent
+,63,,Prevalence of membership in secret societies among daughters,94,
+,65,,,34,
+Domestic violence,100,,Attitudes towards domestic violence,85,percent
+Disability,101,,Child disability,23,percent
+"HIV/AIDS, SEXUAL BEHAVIOUR, AND ORPHANED AND VULNERABLE CHILDREN",,,,,
+HIV/AIDS,82,19b,Comprehensive knowledge about HIV prevention,17,percent
+knowledge and,,,among young people,,
+attitudes,89,,Knowledge of mother- to-child transmission of HIV,54,percent
+,86,,Positive attitude towards people with HIV/AIDS,5,percent
+,87,,Women who know where to be tested for HIV,18,percent
+,88,,Women who have been tested for HIV,6,percent
+,90,,Counselling coverage for the prevention of mother-,41,percent
+,,,to-child transmission of HIV,,
+,91,,Testing coverage for the prevention of mother-to-,5,percent
+,,,child transmission of HIV,,
+Sexual,84,,Age at first sex among young people,25,percent
+behaviour,92,,Age-mixing among sexual partners,39,percent
+,83,19a,Condom use with non-regular partners,20,percent
+,85,,Higher-risk sex in the last year,43,percent
+Support to,75,,Prevalence of orphans,11,percent
+orphaned and,78,20,Children’s living arrangements Prevalence of vulnerable children,20,percent percent ratio
+vulnerable children,76,,School attendance of orphans versus non-orphans,18,
+,77,,,0.83,
+,81,,External support to children orphaned and made,1.3,percent
+,,,vulnerable by HIV/AIDS,,
+,79,,Malnutrition among children orphaned and made,0.96,ratio
+,,,vulnerable by HIV/AIDS,,
+,80,,Early sex among children orphaned and made,1.51,ratio
+,,,vulnerable by HIV/AIDS,,

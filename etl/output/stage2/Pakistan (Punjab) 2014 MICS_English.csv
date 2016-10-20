@@ -1,0 +1,243 @@
+0,1,2,3,4
+Indicator No.,Indicator,Description,ValueA,
+MICS,MDG,,,
+CHILD MORTALITY,,,,
+Early childhood mortality,,,,
+1.2,MDG 4.2,Infant mortality rate,Probability of dying between birth and the first birthday,75.0
+1.5,MDG 4.1,Under-five mortality rate,Probability of dying between birth and the fifth birthday,93.0
+"A Indicator values are per 1,000 live births and rates refer to April, 2011. The East Model was assumed to approximate the age pattern of mortality in Punjab, Pakistan and calculations are based on the Time Since First Birth (TSFB) version of the indirect children ever born/children surviving method.",,,,
+Indicator No.,Indicator,Description,Value,
+MICS,MDG,,,
+NUTRITION,,,,
+Nutritional status,,,,
+2.1a,MDG 1.8,Underweight prevalence,Percentage of children under age 5 who fall below,33.7
+2.1b,,Moderate and severe,minus two standard deviations (moderate and severe),11.3
+,,Severe,minus three standard deviations (severe),
+,,,of the median weight for age of the WHO standard,
+2.2a,,Stunting prevalence,Percentage of children under age 5 who fall below,33.5
+2.2b,,Moderate and severe,minus two standard deviations (moderate and severe),13.3
+,,Severe,) minus three standard deviations (severe),
+,,,of the median height for age of the WHO standard,
+2.3a,,Wasting prevalence,Percentage of children under age 5 who fall below,17.5
+2.3b,,Moderate and severe,minus two standard deviations (moderate and severe),4.4
+,,Severe,) minus three standard deviations (severe),
+,,,of the median weight for height of the WHO standard,
+2.4,,Overweight prevalence,Percentage of children under age 5 who are above two standard deviations of the median weight for height of the WHO standard,0.8
+Breastfeeding and infant feeding,,,,
+2.5,,Children ever breastfed,Percentage of women with a live birth in the last 2 years who breastfed their last live-born child at any time,93.7
+2.6,,Early initiation of breastfeeding,Percentage of women with a live birth in the last 2 years who put their last newborn to the breast within one hour of birth,10.6
+2.7,,Exclusive breastfeeding under 6 months,Percentage of infants under 6 months of age who are exclusively breastfed,16.8
+2.8,,Predominant breastfeeding under 6 months,Percentage of infants under 6 months of age who received breast milk as the predominant source of nourishment during the previous day,47.8
+2.9,,Continued breastfeeding at 1 year,Percentage of children age 12-15 months who received breast milk during the previous day,65.6
+2.10,,Continued breastfeeding at 2 years,Percentage of children age 20-23 months who received breast milk during the previous day,34.5
+2.11,,Median duration of breastfeeding,The age in months when 50 percent of children age 0-35 months did not receive breast milk during the previous day,17.4
+,,,,months
+2.12,,Age-appropriate breastfeeding,Percentage of children age 0-23 months appropriately fed during the previous day,41.2
+Indicator No.,Indicator,Description,Value,
+MICS,MDG,,,
+2.13,,"Introduction of solid, semi- solid or soft foods","Percentage of infants age 6-8 months who received solid, semi-solid or soft foods during the previous day",61.1
+2.14,,Milk feeding frequency for non-breastfed children,Percentage of non-breastfed children age 6-23 months who received at least 2 milk feedings during the previous day,90.8
+2.15,,Minimum meal frequency,"Percentage of children age 6-23 months who received solid, semi-solid and soft foods (plus milk feeds for non- breastfed children) the minimum number of times or more during the previous day",65.3
+2.16,,Minimum dietary diversity,Percentage of children age 6–23 months who received foods from 4 or more food groups during the previous day,17.3
+2.17a,,Minimum acceptable diet,Percentage of breastfed children age 6–23 months who had at least the minimum dietary diversity and the minimum meal frequency during the previous day,11.2
+2.17b,,,) Percentage of non-breastfed children age 6–23 months who received at least 2 milk feedings and had at least the minimum dietary diversity not including milk feeds and the minimum meal frequency during the previous day,7.3
+2.18,,Bottle feeding,Percentage of children age 0-23 months who were fed with a bottle during the previous day,57.7
+Salt iodization,,,,
+2.19,,Iodized salt consumption,Percentage of households with salt testing 15 parts per million or more of iodate,49.2
+Low-birthweight,,,,
+2.20,,Low-birth weight infants,"Percentage of most recent live births in the last 2 years weighing below 2,500 grams at birth",29.4
+2.21,,Infants weighed at birth,Percentage of most recent live births in the last 2 years who were weighed at birth,25.6
+Vitamin A,,,,
+2.S1,,Vitamin A supplementation,Percentage of children age 6-59 months who received at least one high-dose vitamin A supplement in the 6 months preceding the survey,64.8
+CHILD HEALTH,,,,
+Vaccinations,,,,
+3.1,,Tuberculosis immunization coverage,Percentage of children age 12-23 months who received BCG vaccine by their first birthday,92.8
+3.2,,Polio immunization coverage,Percentage of children age 12-23 months who received the third dose of OPV vaccine (OPV3) by their first birthday,84.8
+3.3,,"Diphtheria, pertussis and tetanus (DPT), hepatitis B (HepB) and haemophilus influenza type B (Hib) (PENTA) immunization coverage","Percentage of children age 12-23 months who received the third dose of PENTA vaccine  (diphtheria, pertussis, tetanus, hepatitis B and",71.7
+3.5,,,haemophilus influenza B) by their first birthday,
+3.6,,,,
+3.4,MDG 4.3,Measles immunization coverage,Percentage of children age 12-23 months who received measles vaccine by their first birthday,71.6
+3.8,,Full immunization coverage,Percentage of children age 12-23 months who received all vaccinations recommended in the national immunization schedule by their first birthday,56.6
+Tetanus toxoid,,,,
+3.9,,Neonatal tetanus protection,Percentage of women age 15-49 years with a live birth in the last 2 years who were given at least two doses of tetanus toxoid vaccine within the appropriate interval prior to the most recent birth,76.4
+Indicator No.,Indicator,Description,Value,
+MICS,MDG,,,
+Diarrhoea,,,,
+-,,Children with diarrhoea,Percentage of children under age 5 with diarrhoea in the last 2 weeks,17.4
+3.10,,Care-seeking for diarrhoea,Percentage of children under age 5 with diarrhoea in the last 2 weeks for whom advice or treatment was sought from a health facility or provider,72.1
+3.11,,Diarrhoea treatment with oral rehydration salts (ORS) and zinc,Percentage of children under age 5 with diarrhoea in the last 2 weeks who received ORS and zinc,9.7
+3.12,,Diarrhoea treatment with oral rehydration therapy (ORT) and continued feeding,"Percentage of children under age 5 with diarrhoea in the last 2 weeks who received ORT (ORS packet, pre-packaged ORS fluid, recommended homemade fluid or increased fluids) and continued feeding during the episode of diarrhoea",38.9
+Acute Respiratory Infection (ARI) symptoms,,,,
+-,,Children with ARI symptoms,Percentage of children under age 5 with ARI symptoms in the last 2 weeks,2.5
+3.13,,Care-seeking for children with ARI symptoms,Percentage of children under age 5 with ARI symptoms in the last 2 weeks for whom advice or treatment was sought from a health facility or provider,77.1
+3.14,,Antibiotic treatment for children with ARI symptoms,Percentage of children under age 5 with ARI symptoms in the last 2 weeks who received antibiotics,39.1
+Solid fuel use,,,,
+3.15,,Use of solid fuels for cooking,Percentage of household members in households that use solid fuels as the primary source of domestic energy to cook,61.1
+Malaria / Fever,,,,
+-,,Children with fever,Percentage of children under age 5 with fever in the last 2 weeks,20.8
+3.20,,Care-seeking for fever,Percentage of children under age 5 with fever in the last 2 weeks for whom advice or treatment was sought from a health facility or provider,79.3
+3.21,,Malaria diagnostics usage,Percentage of children under age 5 with fever in the last 2 weeks who had a finger or heel stick for malaria testing,4.0
+3.22,MDG 6.8,Anti-malarial treatment of children under age 5,Percentage of children under age 5 with fever in the last 2 weeks who received any antimalarial treatment,1.3
+3.23,,Treatment with Artemisinin-based Combination Therapy (ACT) among children who received anti-malarial treatment,Percentage of children under age 5 with fever in the last 2 weeks who received ACT (or other first-line treatment according to national policy),9.4*
+3.25,,Intermittent preventive treatment for malaria during pregnancy,"Percentage of women age 15-49 years who received three or more doses of SP/Fansidar, at least one of which was received during an ANC visit, to prevent malaria during their last pregnancy that led to a live birth in the last 2 years",0.4
+*Indicator denominator based on 25-49 unweighted cases - only shown here in summary table and not in main report chapter.,,,,
+WATER AND SANITATION,,,,
+4.1,MDG 7.8,Use of improved drinking water sources,Percentage of household members using improved sources of drinking water,94.4
+4.2,,Water treatment,Percentage of household members in households using unimproved drinking water who use an appropriate treatment method,2.1
+4.3,MDG 7.9,Use of improved sanitation (Not shared),Percentage of household members using improved sanitation facilities which are not shared,66.2
+Indicator No.,Indicator,Description,Value,
+MICS,MDG,,,
+4.S1,,Use of improved sanitation,Percentage of household members using improved sanitation facilities whether shared or not shared,75.1
+4.4,,Safe disposal of child’s faeces,Percentage of children age 0-2 years whose last stools were disposed of safely,71.4
+4.5,,Place for handwashing,Percentage of households with a specific place for hand washing where water and soap or other cleansing agent are present,79.6
+4.6,,Availability of soap or other cleansing agent,Percentage of households with soap or other cleansing agent available anywhere in the household,92.8
+REPRODUCTIVE HEALTH,,,,
+Contraception and unmet need,,,,
+-,,Total fertility rate,Total fertility rateA for women age 15-49 years,3.5
+5.1,MDG 5.4,Adolescent birth rate,Age-specific fertility rateA for women age 15-19 years,34.0
+5.2,,Early childbearing,Percentage of ever married women age 20-24 years who had at least one live birth before age 18,11.8
+5.3,MDG 5.3,Contraceptive prevalence rate,Percentage of women age 15-49 years currently married who are using (or whose partner is using) a (modern or traditional) contraceptive method,38.7
+5.4,MDG 5.6,Unmet need,Percentage of women age 15-49 years who are currently married who are fecund and want to space their births or limit the number of children they have and who are not currently using contraception,17.5
+"A The age-specific fertility rate is defined as the number of live births to women in a specific age group during a specified period, divided by the average number of women in that age group during the same period, expressed per 1,000 women. The age-specific fertility rate for women age 15-19 years is also termed as the adolescent birth rate.",,,,
+"The total fertility rate (TFR) is calculated by summing the age-specific fertility rates calculated for each of the 5-year age groups of women, from age 15 through to age 49. The TFR denotes the average number of children to which a woman will have given birth by the end of her reproductive years (by age 50) if current fertility rates prevailed.",,,,
+Maternal and newborn health,,,,
+5.5a,MDG 5.5,Antenatal care coverage,Percentage of women age 15-49 years with a live birth in the last 2 years who were attended during their last pregnancy that led to a live birth,
+5.5b,MDG 5.5,,at least once by skilled health personnel,
+,,,) at least four times by any provider,
+,,,78.8,
+,,,48.0,
+5.6,,Content of antenatal care,Percentage of women age 15-49 years with a live birth in the last 2 years who had their blood pressure measured and gave urine and blood samples during the last pregnancy that led to a live birth,45.3
+5.S1,,Content of antenatal care (All four),"Percentage of women age 15-49 years with a live birth in the last 2 years who had their blood pressure measured, weight measured and gave urine and blood samples during the last pregnancy that led to a live birth",36.3
+5.7,MDG 5.2,Skilled attendant at delivery,Percentage of women age 15-49 years with a live birth in the last 2 years who were attended by skilled health personnel during their most recent live birth,64.7
+5.8,,Institutional deliveries,Percentage of women age 15-49 years with a live birth in the last 2 years whose most recent live birth was delivered in a health facility,60.8
+5.9,,Caesarean section,Percentage of women age 15-49 years whose most recent live birth in the last 2 years was delivered by caesarean section,23.6
+Post-natal health checks,,,,
+5.10,,Post-partum stay in health facility,Percentage of women age 15-49 years who stayed in the health facility for 12 hours or more after the delivery of their most recent live birth in the last 2 years,52.0
+Indicator No.,Indicator,Description,Value,
+MICS,MDG,,,
+5.11,,Post-natal health check for the newborn,"Percentage of last live births in the last 2 years who received a health check while in facility or at home following delivery, or a post-natal care visit within 2 days after delivery",88.8
+5.12,,Post-natal health check for the mother,"Percentage of women age 15-49 years who received a health check while in facility or at home following delivery, or a post-natal care visit within 2 days after delivery of their most recent live birth in the last 2 years",86.3
+CHILD DEVELOPMENT,,,,
+6.1,,Attendance to early childhood education,Percentage of children age 36-59 months who are attending an early childhood education programme,25.7
+6.2,,Support for learning,Percentage of children age 36-59 months with whom an adult has engaged in four or more activities to promote learning and school readiness in the last 3 days,35.0
+6.3,,Father’s support for learning,Percentage of children age 36-59 months whose biological father has engaged in four or more activities to promote learning and school readiness in the last 3 days,2.6
+6.4,,Mother’s support for learning,Percentage of children age 36-59 months whose biological mother has engaged in four or more activities to promote learning and school readiness in the last 3 days,11.8
+6.5,,Availability of children’s books,Percentage of children under age 5 who have three or more children’s books,7.6
+6.6,,Availability of playthings,Percentage of children under age 5 who play with two or more types of playthings,52.5
+6.7,,Inadequate care,Percentage of children under age 5 left alone or in the care of another child younger than 10 years of age for more than one hour at least once in the last week,6.8
+6.8,,Early child development index,"Percentage of children age 36-59 months who are developmentally on track in at least three of the following four domains: literacy-numeracy, physical, social- emotional, and learning",67.2
+LITERACY AND EDUCATION,,,,
+7.1,MDG 2.3,Literacy rate among young women,Percentage of young women age 15-24 years who are able to read a short simple statement about everyday life or who attended secondary or higher education,72.6
+7.S1,,Literacy rate 10+ (reported),"Percentage of household members age 10 years or older where it is reported that they are able to both read & write with understanding in any language excluding quranic reading, if this was the only response",60.8
+7.S2,,Literacy rate 15+ (reported),"Percentage of household members age 15 years or older where it is reported that they are able to both read & write with understanding in any language excluding quranic reading, if this was the only response",58.0
+7.S3,,Literacy rate 15-24 years,"Percentage of household members age 15-24 years where it is reported that they are able to both read & write with understanding in any language excluding quranic reading, if this was the only response",75.9
+,,(reported),,
+7.2,,School readiness,Percentage of children in first grade of primary school who attended preschool during the previous school year,92.5
+7.3,,Net intake rate in primary education,Percentage of children of school-entry age who enter the first grade of primary school,23.4
+7.4,MDG 2.1,Primary school net attendance ratio (adjusted),Percentage of children of primary school age currently attending primary or secondary school,57.9
+7.S4,,Primary school gross attendance ratio (adjusted),Percentage of children of all age currently attending primary or secondary school,86.1
+Indicator No.,Indicator,Description,Value,
+MICS,MDG,,,
+7.5,,Secondary school net attendance ratio (adjusted),Percentage of children of secondary school age currently attending secondary school or higher,42.1
+7.6,MDG 2.2,Children reaching last grade of primary,Percentage of children entering the first grade of primary school who eventually reach last grade,95.8
+7.7,,Primary completion rate,Number of children attending the last grade of primary school (excluding repeaters) divided by number of children of primary school completion age (age appropriate to final grade of primary school),74.9
+7.8,,Transition rate to secondary school,Number of children attending the last grade of primary school during the previous school year who are in the first grade of secondary school during the current school year divided by number of children attending the last grade of primary school during the previous school year,91.4
+7.9,MDG 3.1,Gender parity index (primary school),Primary school net attendance ratio (adjusted) for girls divided by primary school net attendance ratio (adjusted) for boys,0.97
+7.10,MDG 3.1,Gender parity index (secondary school),Secondary school net attendance ratio (adjusted) for girls divided by secondary school net attendance ratio (adjusted) for boys,0.98
+7.S5,,Government school attendance rate (primary),Percentage of children aged 5-9 years attending Government primary schools,54.2
+CHILD PROTECTION,,,,
+Birth registration,,,,
+8.1,,Birth registration,Percentage of children under age 5 whose births are reported registered,72.7
+Child labour,,,,
+8.2,,Child labour,Percentage of children age 5-17 years who are involved in child labour2,16.4
+Child discipline,,,,
+8.3,,Violent discipline,Percentage of children age 1-14 years who experienced psychological aggression or physical punishment during the last one month,80.7
+Early marriage and polygyny,,,,
+8.4,,Marriage before age 15,Percentage of women age 15-49 years who were first married before age 15,5.2
+8.5,,Marriage before age 18,Percentage of women age 20-49 years who were first married before age 18,20.8
+8.6,,Young women age 15-19 years currently married,Percentage of women age 15-19 years who are married,9.2
+8.7,,Polygyny,Percentage of women age 15-49 years who are in a polygynous marriage,
+,,,2.5,
+8.8a,,Spousal age difference,"Percentage of young women who are married and whose spouse is 10 or more years older,",
+8.8b,,,"among women age 15-19 years,",
+,,,) among women age 20-24 years,
+,,,18.8,
+,,,14.6,
+Attitudes towards domestic violence,,,,
+8.12,,Attitudes towards domestic violence,"Percentage of women age 15-49 years who state that a husband is justified in hitting or beating his wife in at least one of the following circumstances: (1) she goes out without telling him, (2) she neglects the children, (3) she argues with him, (4) she refuses sex with him, (5) she burns the food",39.8
+Indicator No.,Indicator,Description,Value,
+MICS,MDG,,,
+Children’s living arrangements,,,,
+8.13,,Children’s living arrangements,Percentage of children age 0-17 years living with neither biological parent,1.4
+8.14,,Prevalence of children with one or both parents dead,Percentage of children age 0-17 years with one or both biological parents dead,4.8
+8.15,,Children with at least one parent living abroad,Percentage of children 0-17 years with at least one biological parent living abroad,3.9
+HIV/AIDS,,,,
+HIV/AIDS knowledge and attitudes,,,,
+-,,Have heard of AIDS,Percentage of ever married3 women age 15-49 years who have heard of AIDS,39.0
+9.S1,,Knowledge about HIV prevention among young women,"Percentage of ever married young women age 15-24 years who correctly identify ways of preventing the sexual transmission of HIV, and who reject major misconceptions about HIV transmission",3.3
+9.S2,,Knowledge of mother-to- child transmission of HIV,Percentage of ever married women age 15-49 years who correctly identify all three means of mother-to-child transmission of HIV,23.6
+9.S3,,Accepting attitudes towards people living with HIV,Percentage of ever married women age 15-49 years expressing accepting attitudes on all four questions toward people living with HIV,19.0
+HIV testing,,,,
+9.S4,,Women who know where to be tested for HIV,Percentage of ever married women age 15-49 years who state knowledge of a place to be tested for HIV,8.5
+9.S5,,Women who have been tested for HIV and know the results,Percentage of ever married women age 15-49 years who have been tested for HIV in the last 12 months and who know their results,0.6
+9.S7,,HIV counselling during antenatal care,"Percentage of ever married women age 15-49 years who had a live birth in the last 2 years and received antenatal care during the pregnancy of their most recent birth, reporting that they received counselling on HIV during antenatal care",1.3
+9.S8,,HIV testing during antenatal care,"Percentage of ever married women age 15-49 years who had a live birth in the last 2 years and received antenatal care during the pregnancy of their most recent birth, reporting that they were offered and accepted an HIV test during antenatal care and received their results",1.1
+9.16,MDG 6.4,Ratio of school attendance of orphans to school attendance of non- orphans,Proportion attending school among children age 10-14 years who have lost both parents divided by proportion attending school among children age 10-14 years whose parents are alive and who are living with one or both parents,(0.83)*
+*Indicator denominator based on 25-49 unweighted cases - only shown here in summary table and not in main report chapter.,,,,
+ACCESS TO MASS MEDIA AND ICT,,,,
+Access to mass media,,,,
+10.1,,Exposure to mass media,"Percentage of women age 15-49 years who, at least once a week, read a newspaper or magazine, listen to the radio, and watch television",1.3
+Use of information/communication technology,,,,
+10.2,,Use of computers,Percentage of women age 15-24 years who used a,21.4
+,,,computer during the last 12 months,
+Indicator No.,Indicator,Description,Value,
+MICS,MDG,,,
+10.3,,Use of internet,Percentage of women age 15-24 years who used the internet during the last 12 months,12.4
+SUBJECTIVE WELL-BEING,,,,
+11.1,,Life satisfaction,"Percentage of young women age 15-24 years who are very or somewhat satisfied with their life, overall",90.5
+11.2,,Happiness,Percentage of young women age 15-24 years who are very or somewhat happy,90.9
+11.3,,Perception of a better life,"Percentage of young women age 15-24 years whose life improved during the last one year, and who expect that their life will be better after one year",59.2
+TOBACCO USE,,,,
+Tobacco use,,,,
+12.1,,Tobacco use,"Percentage of women age 15-49 years who smoked cigarettes, or used smoked or smokeless tobacco products at any time during the last one month",4.1
+12.2,,Smoking before age 15,Percentage of women age 15-49 years who smoked a whole cigarette before age 15,0.2
+ADULT HEALTH AND HEALTH CARE,,,,
+Adult health care,,,,
+13.S1,,Care provided by Lady Health Worker (LHW),Number of ever married women aged 15–49 years who have given birth in the previous 2 years and were visited by a Lady Health Worker (LHW) in the last month,37.6
+13.S2,,Prevalence of chronic cough,Number of household members with cough that lasted for the past 3 weeks,3.2
+13.S3,,Reported tuberculosis,Number of household members that were diagnosed with tuberculosis in the past year,0.5
+13.S4,,Reported hepatitis,Number of household members that were diagnosed with hepatitis in the past year,1.5
+SOCIO-ECONOMIC DEVELOPMENT,,,,
+Assets,,,,
+14.S1,,"Ownership of assets: House, land, livestock","Percentage of household members living in a household that own a house, land or livestock",
+,,,House,
+,,,Agriculture land,
+,,,Livestock,
+,,,87.0,
+,,,30.5,
+,,,45.5,
+Unemployment,,,,
+14.S2,,Unemployment rate (10+ years),Percent of household members aged 10 years or older who are unemployed and are seeking jobs,7.1
+Housing4,,,,
+14.S10,,Mean household size,Average members in a household,6.4
+14.S11,,Currently married population,Percentage of household members of age 10 years and above currently married,51.4
+14.S12,,Mean number of persons per room,Average members sleeping in one room,3.91
+14.S13a,,Household characteristics,"Main material of floor, roof and wall",
+14.S13b,,,finished floor (pacca),
+14.S13c,,,finished roof (pacca),
+,,,finished wall (pacca)],
+,,63.4,,
+,,82.2,,
+,,86.6,,
+Indicator No.,Indicator,Description,Value,
+MICS,MDG,,,
+Remittances and zakat,,,,
+14.S3,,Population working outside village/city/country,Percentage of family members working outside village/city/country,12.0
+14.S4,,Receiving remittances from within Pakistan,Percentage of household members who received remittances from within Pakistan during the year preceding the survey,3.1
+14.S5,,Receiving remittances from abroad,Percentage of household members living in a household that received remittances from abroad during the year preceding the survey,7.3
+14.S6,,Receiving cash donation,Percentage of household members living in a household that received cash donation such as zakat or other means during the year preceding the survey,1.2
+Social benefits and Subsidies,,,,
+14.S7,,Safety nets (getting benefits from government schemes of social protection),"Percentage of household members living in a household that got benefits from government schemes of social protection [Benefits include: zakat, dearness allowance, health subsidy, education subsidy, marriage grant, subsidized food, others]",7.2
+14.S8a,,Purchasing goods from government utility stores,Percentage of household members living in a household that purchase goods from government utility stores,18.0
+14.S8b,,Regular purchase from utility stores,Percentage of household members who purchase goods from government utility stores regularly,29.5
+14.S9,,Receiving pensions,Percentage of household who received pension during the year preceding the survey,8.1

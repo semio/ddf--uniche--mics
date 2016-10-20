@@ -1,0 +1,105 @@
+0,1,2,3,4,5
+Topic,MICS,MDG,Indicator,,Value
+,Indicator Number,Indicator Number,,,
+CHILD MORTALITY,,,,,
+Child mortality,1,13,Under-five mortality rate,35,per thousand per thousand
+,2,14,Infant mortality rate,31,
+NUTRITION,,,,,
+,6,4,Underweight prevalence,2.1,per cent
+Nutritional,7,,Stunting prevalence,10.4,per cent
+status,,,,,
+,8,,Wasting prevalence,2.1,per cent
+,45,,Timely initiation of breastfeeding,36.6,per cent
+,,,Exclusive breastfeeding rate Continued breastfeeding rate,,
+,,,at 12-15 months,,
+,,,at 20-23 months,,
+,,,Timely complementary feeding rate Frequency of complementary feeding Adequately fed infants,,
+,15,10.9,per cent,,
+Breastfeeding,16,40.5,per cent per cent,,
+,,19.6,,,
+,17,34.8,per cent,,
+,18,28.1,per cent,,
+,19,19.8,per cent,,
+Salt iodization,41,,Iodized salt consumption,87.2,per cent
+Vitamin A,43,,Vitamin A supplementation (post-partum mothers),15.8,per cent
+Low birth,9,,Low birth weight infants,4.7,per cent
+weight,10,Infants weighed at birth,95.7,per cent,
+CHILD HEALTH,,,,,
+,33,,Use of oral rehydration therapy (ORT),50.1,per cent
+,34,Home management of diarrhoea,20.6,per cent,
+Care of illness,35,"Received ORT or increased fluids, and continued",36.5,per cent,
+,,feeding,,,
+,23,Care seeking for suspected pneumonia,73.6,per cent,
+,22,Antibiotic treatment of suspected pneumonia,55.5,per cent,
+Solid fuel use,24,29,Solid fuels,53.6,per cent
+ENVIRONMENT,,,,,
+,11,30,Use of improved drinking water sources,94.2,per cent
+Water and,13,,Water treatment,4.6,per cent
+Sanitation,12,31,Use of improved sanitation facilities,96.8,per cent
+,14,,Disposal of child's faeces,56.3,per cent
+REPRODUCTIVE HEALTH,,,,,
+Contraception and unmet need,21,19c,Contraceptive prevalence,31.5,per cent
+Maternal and,20,,Antenatal care,96.3,per cent
+,,,Content of antenatal care,,
+,,,Blood sample taken Blood pressure measured Urine specimen taken Weight measured,,
+,,,Skilled attendant at delivery,,
+,,,Institutional deliveries,,
+newborn health,44,,,,
+,,,95.4,per cent,
+,,,94.7,per cent,
+,,,95.6,per cent,
+,,,94.7,per cent,
+,4,17,98.3,per cent,
+,5,,95.5,per cent,
+Topic,MICS,MDG,Indicator,,Value
+,Indicator Number,Indicator Number,,,
+CHILD DEVELOPMENT,,,,,
+,46,,Support for learning,84.0,per cent
+,47,,Father's support for learning,56.3,per cent
+Child,48,,Support for learning: children’s books,72.1,per cent
+development,49,,Support for learning: non-children’s books,83.2,per cent
+,50,,Support for learning: materials for play,12.7,per cent
+,51,,Non-adult care,7.9,Per cent
+EDUCATION,,,,,
+,52,,Pre-school attendance School readiness,43.2,per cent
+,,,Net intake rate in primary education Net primary school attendance rate Net secondary school attendance rate Children reaching grade five Transition rate to secondary school Primary completion rate,,
+,,,Gender parity index,,
+,,,primary school secondary school,,
+,53,,60.4,per cent,
+,54,,72.7,per cent,
+,55,6,94.6,per cent,
+,56,,88.3,per cent,
+Education,57,7,99.0,per cent,
+,58,,99.5,per cent,
+,59,7b,70.2,per cent,
+,61,9,1.01,ratio ratio,
+,,,0.98,,
+Literacy,60,8,Adult literacy rate,99.3,per cent
+CHILD PROTECTION,,,,,
+Birth registration,62,,Birth registration,91.9,per cent
+,71,,Child labour,18.4,per cent
+Child labour,72,Labourer students,94.6,per cent,
+,73,Student labourers,18.9,per cent,
+Child discipline,74,,Child discipline,66.1,per cent
+,,,Any psychological/physical punishment,,
+,67,,Marriage before age 15 Marriage before age 18,1.9,per cent per cent
+,,,Young women aged 15-19 currently married/in union,17.7,
+,,,Spousal age difference,,
+,,,Women aged 15-19,,
+,,,Women aged 20-24,,
+Early marriage,68,10.7,per cent,,
+,69,20.4,per cent per cent,,
+,,11.6,,,
+Domestic violence,100,,Attitudes towards domestic violence,6.9,per cent
+Disability,101,,Child disability,14.4,per cent
+Orphaned and,75,,Prevalence of orphans,4.9,per cent
+vulnerable children,78,Children’s living arrangements,2.9,per cent,
+HIV/AIDS KNOWLEDGE AND ATTITUDES,,,,,
+,82,19b,Comprehensive knowledge about HIV prevention among young people,15.0,per cent
+,89,,Knowledge of mother- to-child transmission of HIV,45.6,per cent
+,86,,Attitude towards people with HIV/AIDS,6.4,per cent
+HIV/AIDS,87,,Women who know where to be tested for HIV,29.3,per cent
+knowledge and,,,,,
+attitudes,88,,Women who have been tested for HIV,11.0,per cent
+,90,,Counselling coverage for the prevention of mother- to-child transmission of HIV,41.5,per cent
+,91,,Testing coverage for the prevention of mother-to- child transmission of HIV,40.7,per cent

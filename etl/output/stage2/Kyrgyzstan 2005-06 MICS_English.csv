@@ -1,0 +1,101 @@
+0,1,2,3,4,5
+MICS,MDG,Indicator,Value,Units,
+Topic Indicator Number,Indicator Number,,,,
+CHILD MORTALITY,,,,,
+Child mortality 1,13,Under-five mortality rate,44,per thousand,
+2,14,Infant mortality rate,38,per thousand,
+NUTRITION,,,,,
+Nutritional 6,4,Underweight prevalence (below -2 SD),3.4,percent,
+status 7,,Stunting prevalence (below -2 SD),13.7,percent,
+8,,Wasting prevalence (below -2 SD),3.5,percent,
+Breastfeeding 45,,Timely initiation of breastfeeding,64.9,percent,
+15,,Exclusive breastfeeding rate,31.5,percent,
+16,,Continued breastfeeding rate,67.8,percent,
+,,at 12-15 months,,,
+,,at 20-23 months,26.2,,
+17,,Timely complementary feeding rate,49.3,percent,
+18,,Frequency of complementary feeding,44.5,percent,
+19,,Adequately fed infants,37.5,percent,
+Salt iodization 41,,Iodized salt consumption,76.1,percent,
+Vitamin A 42,,Vitamin A supplementation (under-fives),47.0,percent,
+43,,Vitamin A supplementation (post-partum mothers),50.6,percent,
+Low birth 9,,Low birth weight infants,5.3,percent,
+weight 10,,Infants weighed at birth,96.9,percent,
+CHILD HEALTH,,,,,
+Care of illness 33,,Use of oral rehydration therapy (ORT),20.4,percent,
+34,,Home management of diarrhoea,15.4,percent,
+35,,"Received ORT or increased fluids, and continued feeding",22.3,percent,
+23,,Care seeking for suspected pneumonia,62.1,percent,
+22,,Antibiotic treatment of suspected pneumonia,44.5,percent,
+Solid fuel use 24,29,Solid fuels,37.3,percent,
+Source and cost 96,,Source of supplies (from public sources),,,
+of supplies,,Antibiotics,16.8,percent,
+97,,Cost of supplies (median costs),,,
+,,Antibiotics,244.1,Som,
+,,Public sources,,,
+,,Private sources,100,Som,
+ENVIRONMENT,,,,,
+Water and sani- 11,30,Use of improved drinking water sources,88.2,percent,
+tation 13,,Water treatment,34.6,percent,
+12,31,Use of improved sanitation facilities,96.3,percent,
+14,,Disposal of child’s faeces,42.7,percent,
+REPRODUCTIVE HEALTH,,,,,
+Contraception,21,19c,Contraceptive prevalence,47.8,percent
+and unmet need,98,,Unmet need for family planning,1.1,percent
+,99,,Demand satisfied for family planning,97.7,percent
+Maternal and,20,,Antenatal care,96.9,percent
+newborn health,44,,Content of antenatal care,96.8,percent
+,,,Blood test taken,,
+,,,Blood pressure measured,96.8,
+,,,Urine specimen taken,96.6,
+,,,Weight measured,96.6,
+,4,17,Skilled attendant at delivery,97.6,percent
+,5,,Institutional deliveries,96.9,percent
+Maternal mortal-,3,16,Maternal mortality ratio,104,"per 100,000"
+MICS MDG,,,,,
+Topic              Indicator      Indicator                                       Indicator                                        Value            Units Number Number,,,,,
+CHILD DEVELOPMENT,,,,,
+Child develop-,46,,Support for learning,71.0,percent
+ment,47,,Father’s support for learning,52.8,percent
+,48,,Support for learning: more than 3 children’s books,76.2,percent
+,49,,Support for learning: more than 3 non-children’s books,38.2,percent
+,50,,Support for learning: materials for play (3 or more toys),24.9,percent
+,51,,Non-adult care,10.6,percent
+EDUCATION,,,,,
+Education,52,,Pre-school attendance,19.0,percent
+,53,,School readiness,20.2,percent
+,54,,Net intake rate in primary education,70.4,percent
+,55,6,Net primary school attendance rate,92.1,percent
+,56,,Net secondary school attendance rate,89.2,percent
+,57,7,Children reaching grade five,98.6,percent
+,58,,Transition rate to secondary school,99.1,percent
+,59,7b,Primary completion rate,79.2,percent
+,61,9,Gender parity index,1.03,ratio
+,,,Primary school,,
+,,,Secondary school,1.04,ratio
+Literacy,60,8,Adult literacy rate,99.9,percent
+CHILD PROTECTION,,,,,
+Birth registration,62,,Birth registration,94.2,percent
+Child labour,71,,Child labour,3.6,percent
+,72,,Labourer students,75.9,percent
+,73,,Student labourers,3.3,percent
+Child discipline,74,,Any psychological/physical punishment,51.4,percent
+Early marriage and polygyny,67,,Early marriage,0.8,percent
+,,,Marriage before age 15,,
+,,,Marriage before age 18,12.2,
+,68,,Young women aged 15-19 currently married/in union,7.7,percent
+,70,,Polygyny,1.7,percent
+,69,,Spousal age difference (>10 years),10.2,percent
+,,,Women of age 15-19,,
+,,,Women of age 20-24,6.0,
+Domestic vio- lence,100,,Attitudes towards domestic violence,37.7,percent
+"HIV/AIDS, SEXUAL BEHAVIOUR, AND ORPHANED AND VULNERABLE CHILDREN",,,,,
+HIV/AIDS,82,19b,Comprehensive knowledge about HIV prevention,20.3,percent
+knowledge and among young people,,,,,
+91,Testing coverage for the prevention of mother-to-child,54.6,percent,,
+transmission of HIV,,,,,
+,92,,Age-mixing among sexual partners,6.6,percent
+Sexual behaviour,83,19a,Condom use with non-regular partners,56.0,percent
+,85,,Higher risk sex in the last year,7.4,percent
+Orphanhood,78,,Children’s living arrangements,5.4,percent
+,75,,Prevalence of orphans,5.5,percent

@@ -1,0 +1,105 @@
+0,1,2,3,4,5
+Topic,MICS,MDG,Indicator,Value,Unit
+,Indicator Number,Indicator Number,,,
+NUTRITION,,,,,
+Nutritional status,6,4,Underweight prevalence,9.9,percent
+7,,Stunting prevalence,7.7,percent,
+8,,Wasting prevalence,4.9,percent,
+Breastfeeding,45,,Timely initiation of breastfeeding,34.4,percent
+15,,Exclusive breastfeeding rate,2.2,percent,
+16,,Continued breastfeeding rate at 12-15 months,38.7,percent percent,
+,,at 20-23 months,14.9,,
+17,,Timely complementary feeding rate,34.2,Percent,
+18,,Frequency of complementary feeding,12.3,percent,
+19,,Adequately fed infants,7.8,percent,
+Low birth weight,9,,Low birth weight infants,10.9,percent
+10,,Infants weighed at birth,73.7,percent,
+CHILD HEALTH,,,,,
+Immunization,26,,Polio 3 immunization coverage,87.6,percent
+27,,DPT 3 immunization coverage,86.1,percent,
+28,15,Measles immunization coverage (MMR),79.5,percent,
+31,,Fully immunized children aged 12-23 months,68.5,percent,
+29,,Hepatitis B immunization coverage aged 12-23 months1,3.2,percent,
+30,,Yellow fever immunization coverage aged 12-23 months before their first birthday2,18.1,percent,
+Tetanus toxoid,32,,Neonatal tetanus protection3,37.3,percent
+Care of illness,33,,Use of oral rehydration therapy (ORT),43.6,percent
+34,,Home management of diarrhoea,17.6,percent,
+35,,"Received ORT or increased fluids, and continued feeding",27.7,percent,
+23,,Care seeking for suspected pneumonia,2.1,percent,
+22,,Antibiotic treatment of suspected pneumonia,-,percent,
+Solid fuel use,24,29,Solid fuels,14.9,percent
+Malaria,36,,Household availability of insecticide-treated nets (ITNs),55.3,percent
+37,22,Under-fives sleeping under insecticide-treated nets,48.2,percent,
+38,,Under-fives sleeping under mosquito nets,58.5,percent,
+39,22,Antimalarial treatment (under-fives),1.9,percent,
+40,,Intermittent preventive malaria treatment (pregnant women),-,percent,
+Topic,MICS,MDG,Indicator,Value,Unit
+,Indicator Number,Indicator Number,,,
+ENVIRONMENT,,,,,
+Water and Sanitation,11,30,Use of improved drinking water sources,91.7,percent
+13,,Water treatment,22 .6,percent,
+12,31,Use of improved sanitation facilities,89.8,percent,
+14,,Disposal of child's faeces,33 .1,percent,
+REPRODUCTIVE HEALTH,,,,,
+Contraception and unmet need,21,19c,Contraceptive prevalence,45 .6,percent
+98,,Unmet need for family planning,18.4,percent,
+99,,Demand satisfied for family planning,71.3,percent,
+Maternal and newborn health,20,,Antenatal care,89.9,Percent
+44,,Content of antenatal care,,,
+,,Blood sample taken Blood pressure measured Urine specimen taken Weight measure,96.2,percent percent percent percent,
+,,,98.2,,
+,,,96.1,,
+,,,97.9,,
+4,17,Skilled attendant at delivery,89.8,percent,
+5,,Institutional deliveries,88.3,percent,
+CHILD DEVELOPMENT,,,,,
+Child development,46,,Support for learning,70.4,percent
+47,,Father's support for learning,33.4,percent,
+48,,Support for learning: children’s books,45.2,percent,
+49,,Support for learning: non-children’s books,59.9,percent,
+50,,Support for learning: materials for play,37.2,percent,
+51,,Non-adult care,7.0,percent,
+EDUCATION,,,,,
+Education,52,,Pre-school attendance,38.5,percent
+53,,School readiness,88.4,percent,
+54,,Net intake rate in primary education,86.9,percent,
+55,6,Net primary school attendance rate,94.5,percent,
+56,,Net secondary school attendance rate,61.4,percent,
+57,7,Children reaching grade five,93.7,percent,
+58,,Transition rate to secondary school,77.4,percent,
+59,7b,Primary completion rate,45.7,percent,
+61,9,Gender parity index primary school secondary school,1.0,ratio ratio,
+,,,1.2,,
+Literacy,60,8,Adult literacy rate,91.9,percent
+Topic,MICS,MDG,Indicator,Value,Unit
+,Indicator Number,Indicator Number,,,
+CHILD PROTECTION,,,,,
+Birth registration,62,,Birth registration,96.6,percent
+Child labour,71,,Child labour,6.0,percent
+72,,Labourer students,87.7,percent,
+73,,Student labourers,5.6,percent,
+Child discipline,74,,Child discipline,84.4,percent
+,,,Any psychological/physical punishment,,
+Early marriage,67,,Marriage before age 15 Marriage before age 18,3.7,percent percent
+,,,,22.5,
+68,,Young women aged 15-19 currently married/in union,10.9,percent,
+69,,Spousal age difference,19.5,percent percent,
+,,Women aged 15-19,22.6,,
+,,Women aged 20-24,,,
+Domestic violence,100,,Attitudes towards domestic violence,13.2,percent
+Disability,101,,Child disability,23.7,percent
+"HIV/AIDS, SEXUAL BEHAVIOUR, AND ORPHANED AND VULNERABLE CHILDREN",,,,,
+HIV/AIDS,82,19b,Comprehensive knowledge about HIV prevention among young people,39.3,percent
+knowledge and attitudes,,,,,
+89,,Knowledge of mother- to-child transmission of HIV,57.9,percent,
+86,,Attitude towards people with HIV/AIDS,36.1,percent,
+87,,Women who know where to be tested for HIV,80.4,percent,
+88,,Women who have been tested for HIV,33.3,percent,
+90,,Counselling coverage for the prevention of mother-to-child transmission of HIV,67.3,percent,
+91,,Testing coverage for the prevention of mother-to-child transmission of HIV,72.4,percent,
+Sexual behaviour,84,,Age at first sex among young people4,9.2,percent
+92,,Age-mixing among sexual partners5,18.6,percent,
+83,19a,Condom use with non-regular partners,48.9,percent,
+85,,Higher risk sex in the last year,62.9,percent,
+Support to orphaned and vulnerable children,75,,Prevalence of orphans,5.1,percent
+78,,Children’s living arrangements,9.3,percent,

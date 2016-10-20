@@ -1,0 +1,90 @@
+0,1,2,3,4
+Topic,MICS,MDG,Indicator,Value
+,Indicator Number,Indicator Number,,
+NUTRITION,,,,
+Nutritional status,6,4,Underweight prevalence,37.1 percent
+7,,Stunting prevalence,40.4 percent,
+8,,Wasting prevalence,6.5 percent,
+Breastfeeding,45,,Timely initiation of breastfeeding,29.8 percent
+15,,Exclusive breastfeeding rate,26.4 percent,
+16,,Continued breastfeeding rate,81.7 percent,
+,,at 12-15 months,48.4 percent,
+,,at 20-23 months,,
+Salt iodisation,41,,Iodised salt consumption (salt with any iodine),83.81 percent
+Vitamin A,42,,Vitamin A supplementation (under-fives),18.1 percent
+43,,Vitamin A supplementation (post-partum mothers),17.9 percent,
+Low birth weight,9,,Low birth weight infants,10.8 percent
+10,,Infants weighed at birth,22.1 percent,
+CHILD HEALTH,,,,
+Immunization,25,,Tuberculosis immunization coverage,61.0 percent
+26,,Polio immunization coverage,32.2 percent,
+27,,DPT immunization coverage,31.8 percent,
+28,15,Measles immunization coverage,33.0 percent,
+31,,Fully immunized children,14.2 percent,
+Tetanus toxoid,32,,Neonatal tetanus protection,55.5 percent
+Care of illness,33,,Use of oral rehydration therapy (ORT),50.5 percent
+34,,Home management of diarrhoea,34.8 percent,
+35,,"Received ORT or increased fluids, and continued feeding",49.2 percent,
+23,,Care seeking for suspected pneumonia,32.3 percent,
+22,,Antibiotic treatment of suspected pneumonia,52.1 percent,
+Solid fuel use,24,29,Solid fuels,97.5 percent
+Malaria,36,,Household availability of insecticide-treated nets (ITNs),45.0 percent
+37,22,Under-fives sleeping under insecticide-treated nets,40.5 percent,
+38,,Under-fives sleeping under mosquito nets,86.7 percent,
+39,22,Antimalarial treatment (under-fives),5.1 percent,
+40,,Intermittent preventive malaria treatment (pregnant women),1.0 Percent,
+Topic,MICS,MDG,Indicator,Value
+,Indicator Number,Indicator Number,,
+ENVIRONMENT,,,,
+Water and Sanitation,11,30,Use of improved drinking water sources,51.5 percent
+12,31,Use of improved sanitation facilities,44.8 percent,
+13,,Water treatment,65.7 percent,
+14,,Disposal of child's faeces,11.4 percent,
+Security of tenure and durability of housing,,,Houses in Poor Condition,45.92 percent
+REPRODUCTIVE HEALTH,,,,
+Maternal and newborn health,20,17,Antenatal care,35.1 percent
+,,,Content of antenatal care,9.3 percent
+,,,Blood sample taken Blood pressure measured Urine specimen taken Weight measured,23.8 percent
+,,,Skilled attendant at delivery Institutional deliveries,11.4 percent
+,,,,31.8 percent
+,,,,20.3 percent
+,,,,17.1 percent
+44,,,,
+4,,,,
+5,,,,
+CHILD DEVELOPMENT,,,,
+Child development,46,,Support for learning,25.3 percent
+47,,Father's support for learning,19.8 percent,
+48,,Support for learning: children’s books,2.5 percent,
+49,,Support for learning: non-children’s books,10.7 percent,
+50,,Support for learning: materials for play,30.0 percent,
+51,,Non-adult care,25.5 percent,
+EDUCATION,,,,
+Education,52,,Pre-school attendance,7.4 percent
+53,,School readiness,30.9 percent,
+54,,Net intake rate in primary education,57.7 percent,
+55,6,Net primary school attendance rate,79.0 percent,
+56,,Net secondary school attendance rate,35.5 percent,
+57,7,Children reaching grade five,65.43 percent,
+58,,Transition rate to secondary school,88.2 percent,
+59,7b,Primary completion rate,26.7 percent,
+61,9,Gender parity index,0.95 ratio,
+,,primary school secondary school,0.81 ratio,
+Literacy,60,8,Adult literacy rate,67.3 Percent
+Topic,MICS,MDG,Indicator,Value
+,Indicator Number,Indicator Number,,
+CHILD PROTECTION,,,,
+Birth registration,62,,Birth registration,71.5 percent
+Child labour,71,,Child labour,11.3 percent
+72,,Labourer students,72.2 percent,
+73,,Student labourers,12.0 percent,
+Child discipline,74,,Child discipline,71.2 percent
+,,,Any psychological/physical punishment,
+Domestic violence,100,,Attitudes towards domestic violence,81.2 percent
+Disability,101,,Child disability,8.2 percent
+"HIV/AIDS, SEXUAL BEHAVIOUR, AND ORPHANED AND VULNERABLE CHILDREN",,,,
+,90,,Counselling coverage for the prevention of mother- to-child transmission of HIV,7.6 percent
+,91,,Testing coverage for the prevention of mother-to- child transmission of HIV,1.1 percent
+Support to orphaned and vulnerable children,75,,Prevalence of orphans,6.6 percent
+77,20,School attendance of orphans versus non-orphans,0.85 ratio,
+78,,Children’s living arrangements,3.9 percent,

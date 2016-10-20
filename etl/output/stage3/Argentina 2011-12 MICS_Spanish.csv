@@ -1,0 +1,63 @@
+0,1,2,3,4
+Tema,Número de indicador de MICS4,Número de indicador de ODM,Indicador,Valor
+NUTRICIÓN,,,,
+Lactancia y alimentación de niños/as,2.4,,Niños/as amamantados alguna vez,"95,8 %"
+,2.5,,Iniciación temprana de la lactancia,"52,7 %"
+,2.6,,Lactancia exclusiva en menores de 6 meses,"32,7 %"
+,2.7,,Lactancia continuada a un 1 año,"46,6 %"
+,2.8,,Lactancia continuada a los 2 años,"29,1 %"
+,2.9,,Lactancia predominante en menores de 6 meses,"44,0 %"
+,2.10,,Duración de la lactancia,"15,1 %"
+,2.11,,Alimentación con mamadera/biberón,"66,8 %"
+,2.12,,"Introducción de alimentos sólidos, semisólidos o blandos","92,9 %"
+,2.13,,Frecuencia mínima de las comidas,"68,1 %"
+,2.14,,Lactancia adecuada para la edad,"41,1 %"
+,2.15,,Frecuencia de la alimentación con leche para niños/as no amamantados,"98,0 %"
+SALUD DEL NIÑO/A,,,,
+Cuidado de la enfermedad,3.8,,Terapia de rehidratación oral con alimentación continuada,"59,1 %"
+,3.9,,Búsqueda de atención para presunta pulmonía,"94,3 %"
+,3.10,,Tratamiento con antibióticos para presunta pulmonía,"44,5 %"
+SALUD REPRODUCTIVA,,,,
+Salud reproductiva de adolescentes,5.1,5.4,Tasa de natalidad entre las adolescentes,"52,4 por 1.000"
+,5.2,,Maternidad temprana,"11,6 %"
+Salud materna y del recién nacido,,5.5,Cobertura de atención prenatal,
+,5.5a,,Por personal capacitado al menos una vez,"98,1 %"
+,5.5b,,Por cualquier profesional al menos cuatro veces,"89,8 %"
+,5.6,,Contenido de la atención prenatal,"97,3 %"
+,,,,
+,,,,
+,,,,
+,,,,
+DESARROLLO DEL NIÑO/A,,,,
+Desarrollo del niño/a,6.1,,Apoyo al aprendizaje,"83,8 %"
+,6.2,,Apoyo del padre al aprendizaje,"56,7 %"
+,6.3,,Materiales para el aprendizaje: libros para niños/as,"61,2 %"
+,6.4,,Materiales para el aprendizaje: cosas para jugar,"60,6 %"
+,6.5,,Cuidado inadecuado,"8,2 %"
+,6.6,,Índice de desarrollo temprano infantil,"85,4 %"
+,6.7,,Asistencia a educación temprana infantil,"63,3 %"
+EDUCACIÓN,,,,
+Educación,7.2,,Preparación para la escuela,"83,7 %"
+,7.3,,Tasa de admisión neta en la escuela primaria,"95,0 %"
+,7.4,2.1,Tasa neta de asistencia (ajustada) a la escuela primaria,"98,7 %"
+,7.5,,Tasa neta de asistencia (ajustada) a la escuela secundaria,"83,4 %"
+,7.6,2.2,Niños/as que llegan al último grado de primaria,"96,6 %"
+,7.7,,Tasa de finalización de escuela primaria,"85,3 %"
+,7.8,,Tasa de transición a la escuela secundaria,"92,0 %"
+,7.9,,Índice de paridad de género (escuela primaria),"1,00"
+,7.10,,Índice de paridad de género (escuela secundaria),"1,00"
+PROTECCIÓN INFANTIL,,,,
+Registro de nacimientos,8.1,,Registro de nacimientos,"99,5 %"
+Trabajo infantil,8.2,,Trabajo infantil,"4,4 %"
+,8.3,,Asistencia a la escuela entre trabajadores infantiles,"97,0%"
+,8.4,,Trabajo infantil entre estudiantes,"4,3 %"
+Disciplina del niño/a,8.5,,Disciplina con violencia,"72,4 %"
+Violencia doméstica,8.14,,Actitudes hacia la violencia doméstica,"2,0 %"
+VIH/SIDA,,,,
+Conocimiento y actitudes hacia el VIH/SIDA,9.1,,Conocimiento integral sobre la prevención del VIH,"45,3 %"
+,9.2,6.3,Conocimiento integral sobre la prevención del VIH entre personas jóvenes,"40,3 %"
+,9.3,,Conocimiento sobre la transmisión del VIH de madre a hijo,"33,4 %"
+,9.4,,Actitudes de aceptación hacia personas con VIH,"43,2 %"
+,9.6,,Mujeres que se han sometido a la prueba del VIH y que conocen los resultados,"59,0 %"
+,9.8,,Asesoría sobre VIH durante la atención prenatal,"31,9 %"
+,9.9,,Pruebas del VIH durante la atención prenatal,"70,8 %"

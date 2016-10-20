@@ -1,0 +1,93 @@
+0,1,2,3,4,5
+Topic,MICS,MDG,Indicator,Value,
+,Indicator Number,Indicator Number,,,
+CHILD MORTALITY,,,,,
+Child mortality,1,13,Under-five mortality rate,35,Per thousand
+2,14,Infant mortality rate,29,Per thousand,
+NUTRITION,,,,,
+Breastfeeding,45,,Timely initiation of breastfeeding,41.2,Percent
+15,,Exclusive breastfeeding rate,12.8,Percent,
+16,,Continued breastfeeding rate,,,
+at 12-15 months,33.8,Percent,,,
+at 20-23 months,22.4,Percent,,,
+17,,Timely complementary feeding rate,42.7,Percent,
+18,,Frequency of complementary feeding,27.7,Percent,
+19,,Adequately fed infants,20.5,Percent,
+Salt iodization,41,,Iodized salt consumption,27.8,Percent
+Low Birth Weight,9,,Low birth weights infants,18.8,Percent
+10,,Infants weighed at birth,89.8,Percent,
+CHILD HEALTH,,,,,
+Immunization,,,,,
+26,,Polio immunization coverage,81.9,Percent,
+27,,DPT immunization coverage,72.5,Percent,
+28,15,Measles immunization coverage,88.9,Percent,
+31,,Fully immunized children,50.2,Percent,
+,29,,Hepatitis B Hepatitis B immunization coverage,70,Percent
+,30,,Yellow fever immunization coverage,35.2,Percent
+Solid fuel use,24,29,Solid fuels,0.3,Percent
+ENVIRONMENT,,,,,
+Water and Sanitation,11,30,Use of improved drinking water sources,96.4,Percent
+13,,Water treatment,34.1,Percent,
+12,31,Use of improved sanitation facilities,98.7,Percent,
+14,,Disposal of child’s faeces,24.9,Percent,
+Topic,MICS,MDG,Indicator,Value,
+,Indicator Number,Indicator Number,,,
+REPRODUCTIVE HEALTH,,,,,
+Contraception and unmet need,21,19c,Contraceptive prevalence,42.5,Percent
+98,,Unmet need for family planning,26.7,Percent,
+99,,Demand satisfied for family,61.4,Percent,
+,,planning,,,
+Maternal and newborn health,20,,Antenatal care,95.7,Percent
+44,,Content of antenatal care,,,
+,,,Blood test taken,98,Percent
+,,,Blood pressure measured,98.2,Percent
+,,,Urine specimen taken,98,Percent
+,,,Weight measured,97.6,Percent
+,4,17,Skilled attendant at delivery,97.8,Percent
+5,,Institutional deliveries,97.4,Percent,
+CHILD DEVELOPMENT,,,,,
+Child development,46,,Support for learning,94,Percent
+47,,Father’s support for learning,67.2,Percent,
+48,,Support for learning: children’s books,81.4,Percent,
+49,,Support for learning: non- children’s books,89.9,Percent,
+50,,Support for learning: materials for play,37,Percent,
+51,,Non-adult care,1,Percent,
+EDUCATION,,,,,
+Education,52,,Pre-school attendance,74.7,Percent
+53,,School readiness,96.9,Percent,
+54,,Net intake rate in primary education,83.2,Percent,
+55,6,Net primary school attendance rate,97.7,Percent,
+56,,Net secondary school attendance rate,87.2,Percent,
+57,7,Children reaching standard,99.2,Percent,
+,,five,,,
+58,,Transition rate to secondary school,92.6,Percent,
+59,7b,Primary completion rate,78.1,Percent,
+61,9,Gender parity index,,,
+primary school,1.00,Ratio,,,
+secondary school,1.07,Ratio,,,
+Literacy,60,8,Adult literacy rate (female),98.2,Percent
+Topic,MICS,MDG,Indicator,Value,
+,Indicator Number,Indicator Number,,,
+CHILD PROTECTION,,,,,
+Birth registration,62,,Birth registration,95.8,Percent
+Child discipline,74,,Child discipline,,
+Any psychological/physical punishment,75.1,Percent,,,
+Early marriage,67,,Marriage before age 15,1.6,Percent
+Marriage before age 18,10.7,Percent,,,
+68,,Young women aged 15-19 currently married/in union,6.3,Percent,
+69,,Spousal age difference,,,
+Women aged 20-24,25.3,Percent,,,
+Domestic violence,100,,Attitudes towards domestic violence,7.6,Percent
+HIV/AIDS AND SEXUAL BEHAVIOUR,,,,,
+HIV/AIDS knowledge and attitudes,82,19b,Comprehensive knowledge about HIV prevention among young people,57.5,Percent
+89,,Knowledge of mother- to-child transmission of HIV,50.3,Percent,
+86,,Attitude towards people with HIV/AIDS,38.6,Percent,
+87,,Women who know where to be tested for HIV,86.1,Percent,
+88,,Women who have been tested for HIV,41.3,Percent,
+90,,Counselling coverage for the prevention of mother-to-child transmission of HIV,75.5,Percent,
+91,,Testing coverage for the prevention of mother-to-child transmission of HIV,79.4,Percent,
+Sexual behaviour,84,,Age at first sex among young,4.7,Percent
+,,,people,,
+92,,Age-mixing among sexual partners,15.4,Percent,
+83,19a,Condom use with non-regular partners,51.2,Percent,
+85,,Higher risk sex in the last year,68,Percent,

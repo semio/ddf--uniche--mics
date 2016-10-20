@@ -1,0 +1,105 @@
+0,1,2,3,4,5
+MICS,MDG,,Value,,
+Topic     Indicator Number,Indicator Indicator Number,,,,
+CHILD MORTALITY,,,,,
+Child mortality,1,13,Under-5 mortality rate Infant mortality rate,67,"per 1,000"
+,2,14,,56,"per 1,000"
+NUTRITION,,,,,
+Nutritional,6,4,Underweight prevalence,11,percent
+status,7,,Stunting prevalence,15,percent
+,8,,Wasting prevalence,6,percent
+Breastfeeding,45,,Timely initiation of breastfeeding Exclusive breastfeeding rate Continued breastfeeding rate,60,percent
+,,,At 12-15 months,,
+,,,At 20-23 months,,
+,,,Timely complementary feeding rate Frequency of complementary feeding Adequately fed infants,,
+,15,11,percent,,
+,16,,,,
+,,72,percent percent,,
+,,37,,,
+,17,54,percent,,
+,18,33,percent,,
+,19,21,percent,,
+Salt iodization,41,,Iodized salt consumption,87,percent
+Low birth,9,,Low-birth-weight infants,4,percent
+weight,10,Infants weighed at birth,98,percent,
+CHILD HEALTH,,,,,
+Immunization,25,,Tuberculosis immunization coverage,99.8,percent
+,26,,Polio immunization coverage,96.8,percent
+,27,,DPT immunization coverage,98.4,percent
+,28,15,Measles immunization coverage,97.0,percent
+,31,,Fully immunized children,93.5,percent
+,29,,Hepatitis B immunization coverage,96.8,percent
+Care of illness,33,,Use of oral rehydration therapy (ORT),47,percent
+,34,Home management of diarrhoea,15,percent,
+,35,Received ORT or increased fluids and continued,25,,
+,,feeding,,percent,
+,23,Care seeking for suspected pneumonia,83,percent,
+,22,Antibiotic treatment of suspected pneumonia,50,percent,
+Solid fuel use,24,29,Solid fuels,0.4,percent
+Source and cost of supplies,96,,Source of supplies (from public sources) Oral rehydration salts,82,percent
+ENVIRONMENT,,,,,
+Water and,11,30,Use of improved drinking water sources,71,percent
+sanitation,,,,,
+,13,,Water treatment,58,percent
+,12,31,Use of improved sanitation facilities,99,percent
+REPRODUCTIVE HEALTH,,,,,
+Contraception,21,19c,Contraceptive prevalence,48,percent
+and unmet,,,,,
+need,98,,Unmet need for family planning,16,percent
+,99,,Demand satisfied for family planning,75,percent
+Topic,MICS,MDG,Indicator,,Value
+,Indicator Number,Indicator Number,,,
+Maternal and newborn health,20,17,Antenatal care,99.1,percent
+,44,,Content of antenatal care Blood sample Blood pressure Urine sample Weight,98,percent percent percent percent percent percent
+,4,,Skilled attendant at delivery Institutional deliveries,95,
+,5,,,97,
+,,,,90,
+,,,,99.5,
+,,,,98,
+CHILD DEVELOPMENT,,,,,
+Child,46,,Support for learning,80,percent
+development,47,,Father's support for learning,61,percent
+,48,,Support for learning: children’s books,42,percent
+,49,,Support for learning: non-children’s books,58,percent
+,50,,Support for learning: materials for play,24,percent
+,51,,Non-adult care,15,percent
+EDUCATION,,,,,
+,52,,Preschool attendance School readiness,24,percent
+,,,Net intake rate in primary education Net primary school attendance rate Net secondary school attendance rate Children reaching grade 5,,
+,,,Transition rate to secondary school Primary completion rate,,
+,,,Gender parity index,,
+,,,Primary school Secondary school,,
+Education,53,,32,percent,
+,54,,97,percent,
+,55,6,99,percent,
+,56,,95,percent,
+,57,7,99.9,percent,
+,58,,99.8,percent,
+,59,7b,99.2,percent,
+,61,9,,,
+,,,1.00,ratio,
+,,,1.00,ratio,
+Literacy,60,8,Adult literacy rate,99.2,percent
+CHILD PROTECTION,,,,,
+Birth registration,62,,Birth registration,96,percent
+Early marriage,67,,Marriage before age 15,0.4,percent
+and polygyny,,Marriage before age 18,7,percent,
+,68,Young women aged 15-19 currently married/in,5,percent,
+,,union,,,
+,69,Spousal age difference,4,percent,
+Domestic violence,100,,Attitudes toward domestic violence,38,percent
+HIV/AIDS AND ORPHANED CHILDREN,,,,,
+HIV/AIDS,82,19b,Comprehensive knowledge about HIV prevention,9,percent
+knowledge and,,,among young people,,
+attitudes,89,,Knowledge of mother- to-child transmission of HIV,19,percent
+,86,,Attitude toward people with HIV/AIDS,6,percent
+,87,,Women who know where to be tested for HIV,28,percent
+,88,,Women who have been tested for HIV,12,percent
+,90,,Counselling coverage for the prevention of mother-,35,percent
+,,,to-child transmission of HIV,,
+,91,,Testing coverage for the prevention of mother-to-,22,percent
+,,,child transmission of HIV,,
+Support to,75,,Prevalence of orphans,6,percent
+orphaned and,78,,Children’s living arrangements*,1.5,percent
+vulnerable,77,20,School attendance of orphans vs. non-orphans,1.00,ratio
+children,,,,,

@@ -1,0 +1,70 @@
+0,1,2,3,4,5
+RUBRIQUE,NUMÉRO INDICATEUR MICS 3,NUMÉRO INDICATEUR OMD,INDICATEUR,VALEUR,UNITÉ
+,1,13,Taux de mortalité infanto-juvénile (OMD),176,pour 1000
+,,,,,naissances
+Mortalité,,,,,vivantes
+infantile,2,14,Taux de mortalité infantile,106,pour 1000
+,,,,,naissances
+,,,,,vivantes
+,6,,Prévalence de l’insuffisance pondérale sévère,"8,1",pour 100
+,7,Prévalence de retard de croissance sévère,"18,7",pour 100,
+,8,Prévalence de la déperdition ou émaciation,"2,3",pour 100,
+Etat Nutritionnel,,sévère,,,
+,15,Taux d’allaitement exclusif (0-5 mois) Taux d’allaitement continu 12-15 mois,"23,4",pour 100,
+,16,,"85,9",pour 100,
+,16,Taux d’allaitement continu 20-23 mois,"47,1",pour 100,
+,17,Taux d’alimentation complémentaire,"55,2",pour 100,
+,,commencé à temps,,,
+,24,29,Combustibles solides,"99,1",pour 100
+,25,,Taux de couverture vaccinale contre la,"73,8",pour 100
+,,,tuberculose,,
+,26,,Taux de couverture vaccinale contre la,"46,9",pour 100
+,,,poliomyélite (Polio),,
+,27,,Taux de couverture vaccinale contre la DTC,"54,2",pour 100
+,28,15,Taux de couverture vaccinale contre la,"62,0",pour 100
+,,,rougeole,,
+Santé de l’enfant,30,,Taux de couverture vaccinale contre la fièvre jaune,"35,3",
+,,,Enfants complètement vaccinés,,pour 100
+,31,,,"32,0",
+,22,,Traitement antibiotique des enfants suspectés,"39,4",pour 100
+,,,de pneumonie,,
+,37,22,Enfants de moins de 5 ans dormant sous une,15.1,pour 100
+,,,MII,,
+,38,,Enfants de moins de 5 ans dormant sous une,"33,1",pour 100
+,,,moustiquaire,,
+,39,22,Traitement antipaludéen (moins de 5 ans),"41,6",pour 100
+,11,30,Taux d’accès aux sources d’eau potable,"64,0",pour 100
+Environnemen,,,améliorées,,
+t,,,,,
+,12,31,Utilisation d’installations sanitaires améliorées,"52,5",pour 100
+,21,19c,Prévalence des contraceptifs (moderne et,"19,0",pour 100
+,,,traditionnelle),,
+,,,Prévalence des méthodes contraceptives,"8,6",Pour 100
+Santé de la reproduction,,,modernes,,
+,,,Prévalence des méthodes contraceptives traditionnelles,"10,5",Pour 100
+,4,17,Assistance à l’accouchement par un personnel,"53,4",pour 100
+,,,qualifié,,
+,5,,Accouchements dans un centre de santé,"51,0",pour 100
+RUBRIQUE,NUMÉRO INDICATEUR MICS 3,NUMÉRO INDICATEUR OMD,INDICATEUR,VALEUR,UNITÉ
+,55,6,Taux net de fréquentation du cycle primaire Indice de parité des sexes au niveau primaire,"51,4",pour 100
+Éducation,61,9,,"0,84",
+,62,,Enregistrement des naissances,"49,2",pour 100
+,67,Mariage avant 15 ans,"20,4",pour 100,
+Protection de,,Mariage avant 18 ans,"56,8",Pour 100,
+l’enfant,68,Jeunes femmes de 15-19 ans mariées/en union,"56,8",pour 100,
+,,libre,,,
+,70,Polygamie,"26,5",pour 100,
+,,,Pourcentage de femmes victimes de violence,"17,5",Pour 100
+,physique,,,,
+Violence,Pourcentage de femmes victimes de violence,"81,5",Pour 100,,
+domestique,émotionnelle,,,,
+,Pourcentage de femmes victimes de violence,"11,5",Pour 100,,
+,sexuelle,,,,
+,77,20,Fréquentation scolaire comparative,"0,89",
+,,,orphelins/non orphelins,,
+"VIH/SIDA,",82,19b,Connaissances générales sur la prévention du VIH,"16,8",pour 100
+comporteme,,,,,
+"nt sexuel,",83,19a,Utilisation de préservatifs des jeunes avec les,"40,6",pour 100
+orphelins et,,,partenaires occasionnels,,
+enfants vulnérables,85,,Rapport sexuel à haut risque au cours de l’année écoulée,"23,9",pour 100
+,,,Prévalence du VIH/SIDA,"6,3",Pour 100

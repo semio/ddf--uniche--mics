@@ -1,0 +1,91 @@
+0,1,2,3,4,5
+MICS MDG,,,,,
+Indicator Indicator,,,,,
+Topic Number Number Indicator Value,,,,,
+CHILD MORTALITY,,,,,
+Child mortality,1,13,Under-five mortality rate,30,per 1000
+2,14,Infant mortality rate,25,per 1000,
+NUTRITION,,,,,
+Nutritional status,6,4,Underweight prevalence,10.0,%
+7,,Stunting prevalence,26.9,%,
+8,,Wasting prevalence,8,%,
+Breastfeeding,45,,Timely initiation of breastfeeding,55.4,%
+15,,Exclusive breastfeeding rate,16.2,%,
+16,,Continued breastfeeding rate of infants 12- 15 months,49.7,%,
+17,,Timely complementary rate,64.1,%,
+18,,Frequency of complementary feeding,43.5,%,
+19,,Adequately fed infants,30.4,%,
+Salt iodization,41,,Iodised salt consumption,61,%
+Vitamin A,42,,Vitamin A supplementation (under-fives),2.2,%
+43,,Vitamin A supplementation (post-partum mothers),15.5,%,
+Low birth weight,9,,Low birth weight infants,11.1,%
+10,,Infants weighed at birth,94.7,%,
+CHILD HEALTH,,,,,
+Immunisation,25,,Tuberculosis immunisation coverage,99.0,%
+26,,Polio immunisation coverage,First dose,96.8,%
+Second dose,95.2,%,,,
+Third dose,93.5,%,,,
+27,,DPT immunisation coverage,First dose,96.8,%
+Second dose,95.4,%,,,
+Third dose,93.5,%,,,
+28,15,Measles immunisation coverage,99.4,%,
+31,,Fully immunised children,90.6,%,
+Tetanus toxoid,32,,Neonatal tetanus protection,24.7,%
+Topic,MICS,MDG,Indicator,Value,
+,Indicator Number,Indicator Number,,,
+Care of illness,33,,Use of oral rehydration therapy (ORT),71.9,%
+34,,Home management of diarrhoea,16.4,%,
+35,,"Received ORT or increased fluids, and continued feeding",32.9,%,
+23,,Care seeking for suspected pneumonia,66.8,%,
+22,,Antibiotic treatment of suspected pneumonia,71.4,%,
+Solid fuel use,24,29,Solid fuels,0.0,%
+ENVIRONMENT,,,,,
+Water and Sanitation,11,30,Use of improved drinking water sources,73.2,%
+13,,Water treatment,5.7,%,
+12,31,Use of improved sanitation facilities,97.4,%,
+REPRODUCTIVE HEALTH,,,,,
+Contraception,21,19c,Contraceptive prevalence,60.1,%
+Maternal and Newborn health,20,,Antenatal care,95.1,%
+44,,Content of antenatal care,,,
+,,Blood test taken,95.8,%,
+,,Blood pressure measurement,97.9,%,
+,,Urine specimen taken,97.1,%,
+,,Weight measured,98.0,%,
+,4,17,Skilled attendant at delivery,97.6,%
+5,,Institutional deliveries,92.6,%,
+Maternal mortality,3,16,Maternal mortality ratio,46,"per 100,000"
+CHILD DEVELOPMENT,,,,,
+Child development,46,,Support for learning,65.2,%
+47,,Father’s support for learning,65.0,%,
+48,,Support for learning: children’s books,42.1,%,
+49,,Support for learning: non-children’s books,59.4,%,
+50,,Support for learning: materials for play,20.7,%,
+51,,Non-adult care,13.9,%,
+EDUCATION,,,,,
+MICS MDG,,,,,
+Indicator Indicator,,,,,
+Topic Number Number Indicator Value,,,,,
+Education,52,,Pre-school attendance,6.4,%
+53,,School readiness,43.7,%,
+54,,Net intake rate in primary education,60.9,%,
+55,6,Net primary school attendance rate,91.5,%,
+56,,Net secondary school attendance rate,42.7,%,
+57,7,Children reaching grade five,98.3,%,
+58,,Transition rate to secondary school,88.9,%,
+59,7b,Primary completion rate,82.5,%,
+61,9,Gender parity index,1.01,%,
+,,primary school,,,
+Literacy,60,8,Adult literacy rate,77.5,%
+CHILD PROTECTION,,,,,
+Birth registration,62,,Birth registration,99.0,%
+Child labour,71,,Child labour,1.5,%
+72,,Labourer students,59.6,%,
+73,,Student labourers,1.0,%,
+Early marriage and polygyny,67,,Marriage before age 18,14.6,%
+68,,Young women aged 1519- currently married/in union,4.7,%,
+70,,Polygyny,8.3,%,
+HIV/AIDS,,,,,
+HIV/AIDS,89,,Knowledge of mother- to-child transmission of HIV,37.5,%
+knowledge and attitudes,,,,,
+86,,Attitude towards people with HIV/AIDS,9.9,%,
+87,,Women who know where to be tested for HIV,25.6,%,

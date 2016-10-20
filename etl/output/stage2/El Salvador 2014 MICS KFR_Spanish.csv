@@ -1,0 +1,212 @@
+0,1,2,3,4
+Mortalidad en la primera infancia,,,,
+Indicador de MICS,Indicador,Descripción,ValorA,
+1.1,,Tasa de mortalidad neonatal,Probabilidad de morir durante el primer mes de vida.,11
+1.2,ODM 4.2,Tasa de mortalidad infantil,Probabilidad de morir antes de cumplir el primer año.,17
+1.3,,Tasa de mortalidad post- neonatal,Diferencia entre las tasas de mortalidad infantil y mortalidad neonatal.,6
+1.4,,Tasa de mortalidad de niños/as,Probabilidad de morir entre el primer y el quinto aniversario.,3
+1.5,ODM 4.1,Tasa de mortalidad de niños/as menores de 5 años,Probabilidad de morir entre el nacimiento y al cumplir el quinto año.,20
+A Los valores del indicador son de 1.000 nacidos vivos y se refieren al periodo de cinco años anterior a la encuesta.,,,,
+Estado nutricionali,,,,
+Indicador de MICS,Indicador,Descripción,Valor,
+2.1a,ODM 1.8,Prevalencia de bajo peso,Porcentaje de niños/as menores de 5 años que,
+2.1b,,moderada y grave,están por debajo de menos dos desviaciones estándar (moderada y grave),
+,,grave,están por debajo de menos tres desviaciones estándar (grave) con respecto al peso mediano por la edad del estándar de la OMS.,
+,5.0,,,
+,0.9,,,
+2.2a,,Prevalencia de baja talla para la edad,Porcentaje de niños/as menores de 5 años que,13.6
+2.2b,,moderada y grave,están por debajo de menos dos desviaciones estándar (moderada y grave),2.7
+,,grave,están por debajo de menos tres desviaciones estándar (grave) con respecto a la altura mediana por la edad estándar de la OMS.,
+2.3a,,Prevalencia de emaciación,Porcentaje de niños/as menores de 5 años que,2.1
+2.3b,,moderada y grave,están por debajo de menos dos desviaciones estándar (moderada y grave),0.4
+,,grave,están por debajo de menos tres desviaciones estándar (grave) con respecto al peso mediano por la altura estándar de la OMS.,
+2.4,,Prevalencia de sobrepeso,Número de niños/as menores de 5 años que están por encima de dos desviaciones estándar con respecto al peso mediano por la altura estándar de la OMS.,6.4
+Alimentación de leche materna y alimentación de infantes,,,,
+Indicador de MICS,Indicador,Descripción,Valor,
+2.5,Niños que alguna vez fueron lactados,Porcentaje de mujeres con un nacido vivo en los 2 últimos años que lactaron en cualquier momento a su último hijo/a nacido vivo.,96.1,
+2.6,Iniciación temprana con alimentación de leche materna,Porcentaje de mujeres que tuvieron un nacido vivo dentro de los 2 últimos años y que lactaron al recién nacido dentro de la hora de haber nacido.,42.0,
+2.7,Lactancia exclusiva antes de los 6 meses,Porcentaje de infantes menores de 6 meses de edad que lactan exclusivamenteii.,46.7,
+2.8,Lactancia predominante en infantes menores de 6 meses,Porcentaje de infantes de menos de 6 meses que lactan como fuente predominante de alimentación durante el día anterioriii .,58.0,
+2.9,Lactancia continua hasta el 1er año de edad,Porcentaje de niños/as de entre 12 y 15 meses alimentados con leche materna el día anterior.,74.1,
+2.10,Lactancia continua hasta los 2 años de edad,Porcentaje de niños/as de entre 20 y 23 meses alimentados con leche materna el día anterior.,57.0,
+2.11,Duración mediana de la lactancia,La edad en meses en que el 50 por ciento de los niños/as de entre 0 y 35 meses no recibió leche materna durante el día anterior.,22.8,
+2.12,Lactancia materna apropiada para la edad,Porcentaje de niños/as de entre 0 y 23 meses que fueron alimentados apropiadamente durante el día anterioriv .,65.7,
+2.13,"Introducción de alimentos sólidos, semisólidos o blandos","Porcentaje de infantes de entre 6 y 8 meses que recibieron alimentos sólidos, semisólidos o blandos durante el día anterior.",90.3,
+2.14,Frecuencia de alimentación con leche en niños/as que no reciben leche materna,Porcentaje de niños/as de entre 6 y 23 meses que no reciben lactancia materna y que recibieron al menos 2 tomas de leche durante el día anterior.,82.8,
+2.15,Frecuencia mínima de comidas,"Porcentaje de niños/as de entre 6 y 23 meses que reciben alimentos sólidos, semisólidos y blandos (y niños/as no lactados que además son alimentados con leche) la cantidad mínima de veces o másv durante el día anterior.",86.4,
+2.16,Diversidad alimentaria mínima,Número de niños/as de 6 a 23 meses que recibieron alimentos de 4 o más grupos de alimentos durante el día anteriorvi .,78.3,
+2.17a,Alimentación mínima aceptable,(a) Porcentaje de niños/as amamantados de 6 a 23 meses de edad que tuvieron al menos la diversidad alimentaria mínima y la frecuencia mínima de comidas durante el día anterior,67.3,
+2.17b,,b) Porcentaje de niños /as no amamantados de 6 a 23 meses de edad que recibieron al menos 2 tomas de leche y que tuvieron al menos la diversidad alimentaria mínima sin incluir alimentos lácteos y la frecuencia mínima de comidas durante el día anterior.,66.3,
+2.18,Alimentación con biberón,Porcentaje de niños/as de entre 0 y 23 meses que fueron alimentados con biberón durante el día anterior.,47.5,
+Bajo peso al nacer,,,,
+Indicador de MICS,Indicador,Descripción,Valor,
+2.20,Recién nacidos con bajo peso al nacer,Porcentaje de los últimos nacidos vivos en los 2 años anteriores a la encuesta que pesaron menos de 2.500 gramos al nacer.,8.8,
+2.21,Recién nacidos pesados al nacer,Porcentaje de los últimos nacidos vivos en los 2 años anteriores a la encuesta que fueron pesados al nacer.,98.1,
+Vacunaciones,,,,
+Indicador de MICS,Indicador,Descripción,Valor,
+3.1,,Cobertura de vacunación contra la tuberculosis,Porcentaje de niños/as de entre 12 y 23 meses que recibieron la vacuna BCG antes de cumplir el primer año.,97.7
+3.2,,Cobertura de vacunación contra la polio,Porcentaje de niños/as de entre 12 y 23 meses que recibieron la tercera dosis de la vacuna OPV (OPV3) antes de cumplir el primer año.,89.1
+3.3,,"Cobertura de vacunación contra la difteria, la tos ferina y el tétanos (DPT) la hepatitis B (HepB) y la haemophilus influenzae tipo B (Hib) (Pentavalente)",Porcentaje de niños/as de entre 12 y 23 meses que recibieron la tercera dosis de la vacuna Pentavalente antes de cumplir el primer año.,91.8
+3.5,,,,
+3.6,,,,
+3.4,ODM 4.3,Cobertura de vacunación contra el sarampión,Porcentaje de niños/as de entre 24 y 35 meses que recibieron la vacuna contra el sarampión antes de cumplir el segundo año.,96.1
+3.8,,Cobertura completa de vacunaciones,Porcentaje de niños/as de entre 24 y 35 meses que recibieron todasvii las vacunas recomendadas en el calendario nacional de vacunación antes de cumplir el primer año (contra el sarampión antes de cumplir el segundo año).,80.2
+Tétanos toxoide,,,,
+Indicador de MICS,Indicador,Descripción,Valor,
+3.9,Protección contra el tétanos neonatal,Porcentaje de mujeres de entre 15 y 49 años que tuvieron un nacido vivo en los 2 años anteriores a la encuesta y que recibieron al menos dos dosis de la vacuna toxoide contra el tétanos dentro del intervalo apropiado antes de dar a luz.,80.9,
+Diarrea,,,,
+Indicador de MICS,Indicador,Descripción,Valor,
+-,Niños/as con diarrea,Porcentaje de niños/as menores de cinco años con un episodio de diarrea en las 2 últimas semanas.,13.3,
+3.10,Búsqueda de atención por diarrea,Porcentaje de niños/as menores de cinco años con un episodio de diarrea en las 2 últimas semanas para cuyos casos se buscó consejo o tratamiento en un centro de salud o proveedor.,62.9,
+3.11,Tratamiento de la diarrea con sobres de sales de rehidratación oral (SRO) y zinc,Porcentaje de niños/as menores de cinco años con un episodio de diarrea en las 2 últimas semanas que recibieron SRO y zinc.,25.2,
+3.12,Tratamiento de la diarrea con terapia de rehidratación oral (TRO) y alimentación continuada,"Porcentaje de niños/as menores de cinco años con un episodio de diarrea en las 2 últimas semanas que recibieron TRO (paquete de SRO, SRO líquido pre- envasado, líquidos recomendados elaborados en casa o líquidos incrementados) y alimentación continuada durante el episodio de diarrea.",72.2,
+Síntomas de infecciones respiratorias agudas (IRA),,,,
+Indicador de MICS,Indicador,Descripción,Valor,
+-,Niños/as con síntomas de infecciones respiratorias agudas (IRA),Porcentaje de niños/as menores de cinco años con síntomas de IRA en las 2 últimas semanas.,7.1,
+3.13,Búsqueda de atención para niños/as con síntomas de IRA,Porcentaje de niños/as menores de cinco años con síntomas de IRA en las 2 últimas semanas para cuyos casos se buscó consejo o tratamiento en un centro de salud o por parte de un proveedor.,79.7,
+3.14,Tratamiento con antibióticos para niños/as con síntomas de IRA,Porcentaje de niños/as menores de cinco años con síntomas de IRA en las 2 últimas semanas que recibieron antibióticos.,42.3,
+Uso de combustibles sólidos,,,,
+Indicador de MICS,Indicador,Descripción,Valor,
+3.15,Uso de combustibles sólidos para cocinar,Porcentaje de miembros del hogar en hogares que utilizan combustibles sólidos como fuente primaria de energía doméstica para cocinar.,23.1,
+Agua y saneamiento,,,,
+Indicador de MICS,Indicador,Descripción,Valor,
+4.1,ODM 7.8,Uso de fuentes de agua mejoradas para beber,Porcentaje de miembros del hogar que usan fuentes mejoradas de agua para beber.,95.2
+4.2,,Tratamiento de agua,Porcentaje de integrantes del hogar que usan agua no mejorada para beber y que utilizan un método de tratamiento apropiado.,28.6
+4.3,ODM 7.9,Uso de saneamiento mejorado,Porcentaje de integrantes del hogar que usan instalaciones de saneamiento mejoradas que no están compartidas.,77.0
+4.4,,Eliminación segura de las heces de los niños/as,Porcentaje de niños/as entre 0 y 2 años cuya última deposición se eliminó de manera segura.,41.8
+4.5,,Lugar para el lavado de manos,"Número de hogares con un lugar específico para el lavado de manos donde se dispone de agua, jabón u otro agente para la limpieza.",91.3
+4.6,,Disponibilidad de jabón u otro agente para la limpieza,Porcentaje de hogares que tienen jabón u otro agente para la limpieza.,92.3
+Anticoncepción y necesidad no satisfecha,,,,
+Indicador de MICS,Indicador,Descripción,Valor,
+-,,Tasa global de fecundidad,Tasa global de fecundidad A de mujeres de entre 15 y 49 años de edad.,2.3
+5.1,ODM 5.4,Tasa de natalidad entre adolescentes,Tasa de fecundidad específicaA en mujeres de entre 15 y 19 años para el año antes de la encuesta.,74
+5.2,,Embarazos en edad temprana,Porcentaje de mujeres de entre 20 y 24 años que tuvieron al menos un nacido vivo antes de los 18 años.,18.2
+5.3,ODM 5.3,Tasa de prevalencia de anticonceptivos,Porcentaje de mujeres de entre 15 y 49 años actualmente casadas o en unión que usan (o que sus parejas usan) algún método anticonceptivo (moderno o tradicional).,71.9
+5.4,ODM 5.6,Necesidad no satisfecha,"Porcentaje de mujeres de entre 15 y 49 años que actualmente están casadas o en unión, en edad fértil y que desean espaciar los nacimientos o limitar la cantidad de niños/as que tengan y que actualmente no usan anticonceptivos.",11.1
+"A La tasa de fecundidad específica para cada grupo de edad se define como el número de nacidos vivos en un grupo de edad específico durante un periodo de tiempo determinado, dividido por el número promedio de mujeres en ese grupo de edad durante el mismo lapso de tiempo, expresado por 1.000 mujeres. La tasa de fecundidad en mujeres de 15 a 19 años de edad se denomina también tasa de natalidad entre adolescentes.",,,,
+La tasa global de fecundidad (TGF) se calcula sumando las tasas de fecundidad para cada grupo de edad calculadas para los cinco grupos de edad de mujeres desde los 15 hasta los 49 años. El TGF denota el número promedio de niños/as a los que una mujer habrá dado a luz al final de su edad reproductiva (a los 50 años de edad) si prevalecen las tasas actuales de fecundidad.,,,,
+Métodos modernos,67.9,,Métodos tradicionales,4.1
+Esterilización femenina,36.8,,Abstinencia periódica,2.3
+Esterilización masculina,0.3,,Retiro,1.7
+DIU,2.2,,Otro tradicionales,0.1
+Inyectables,19.8,,,
+Implantes,0.2,,Cualquier método,71.9
+Píldora,4.2,,,
+Condón masculino,3.9,,Sin método,28.1
+Condón femenino,0.0,,,
+Diafragma/espuma/lubricante,0.0,,,
+MELA,0.2,,,
+Otro modernos,0.2,,,
+Atención materna y del recién nacido,,,,
+Indicador de MICS,Indicador,Descripción,Valor,
+5.5a,ODM 5.5,Cobertura de atención prenatal,Porcentaje de mujeres de entre 15 y 49 años con un nacido vivo en los 2 años anteriores a la encuesta que fueron atendidas durante su último nacido vivo,
+5.5b,ODM 5.5,,al menos una vez por alguna persona capacitada,
+,,,) al menos cuatro veces por algún proveedor.,
+,,,96.1,
+,,,90.1,
+5.6,,Contenido de atención prenatal,Porcentaje de mujeres de entre 15 y 49 años que tuvieron un nacido vivo en los 2 años anteriores a la encuesta y a las cuales se les midió la presión arterial y se les tomó muestras de orina y sangre durante el último embarazo que tuvo como resultado un nacido vivo.,94.8
+5.7,ODM 5.2,Asistencia en el parto por alguna persona capacitada,Porcentaje de mujeres de entre 15 y 49 años que tuvieron un nacido vivo en los 2 años anteriores a la encuesta y que fueron asistidas durante el alumbramiento de un nacido vivo por personal de salud capacitado.,97.7
+5.8,,Partos institucionales,Porcentaje de mujeres de entre 15 y 49 años que tuvieron un nacido vivo durante los 2 años anteriores a la encuesta y que dieron a luz en algún centro de salud.,97.5
+5.9,,Cesárea,Porcentaje de mujeres de entre 15 y 49 años cuyo último nacido vivo en los 2 años anteriores a la encuesta nació por medio de una cesárea.,31.5
+Controles de salud post-natales,,,,
+Indicador de MICS,Indicador,Descripción,Valor,
+5.10,,Estancia post-parto en un centro de salud,Porcentaje de mujeres de entre 15 y 49 años que permanecieron en un centro de salud por 12 horas o más después del parto de su último nacido vivo en los últimos 2 años.,98.9
+5.11,,Chequeos post-natales para el recién nacido,"Porcentaje de los últimos nacidos vivos en los 2 años anteriores a la encuesta que recibieron un chequeo mientras estuvieron en un centro de salud o en casa después del parto, o un chequeo post-natal durante una visita dentro de los 2 días posteriores al nacimiento.",96.9
+5.12,,Chequeos post-natales para la madre,Porcentaje de mujeres de entre 15 y 49 años que recibieron un chequeo mientras estuvieron en un centro de salud o en casa después del parto o un chequeo post- natal durante una visita dentro de los 2 días posteriores al nacimiento de su último nacido vivo en los 2 últimos años.,93.6
+Desarrollo infantil,,,,
+Indicador de MICS,Indicador,Descripción,Valor,
+6.1,Asistencia a educación infantil temprana,Porcentaje de niños/as de entre 36 y 59 meses que asisten a un programa de educación infantil temprano.,24.8,
+6.2,Apoyo al aprendizaje,Porcentaje de niños/as de 36 a 59 meses de edad con los cuales algún adulto ha realizado en los últimos 3 días cuatro o más actividades para promover su aprendizaje y prepararlos para la escuela.,59.2,
+6.3,Apoyo paterno para el aprendizaje,Porcentaje de niños/as de 36 a 59 meses de edad cuyo padre biológico ha realizado en los últimos 3 días cuatro o más actividades para promover el aprendizaje y prepararlos para la escuela.,7.9,
+6.4,Apoyo materno para el aprendizaje,Porcentaje de niños/as de 36 a 59 meses de edad cuya madre biológica ha realizado en los últimos 3 días cuatro o más actividades para promover el aprendizaje y prepararlos para la escuela.,39.9,
+6.5,Disponibilidad de libros infantiles,Porcentaje de niños/as menores de 5 años que tienen tres o más libros infantiles.,18.3,
+6.6,Disponibilidad de juguetes,Porcentaje de niños/as menores de 5 años que tienen dos o más juguetes.,61.6,
+6.7,Cuidado inadecuado,Porcentaje de niños/as menores de 5 años que fueron dejados solos o al cuidado de otro niño/a de menos de 10 años de edad durante más de una hora al menos en la última semana.,3.5,
+6.8,Índice de desarrollo infantil temprano,"Porcentaje de niños/as entre 36 y 59 meses que presentan un desarrollo adecuado en al menos tres de los siguientes cuatro ámbitos: alfabetismo-aptitud numérico, físico, socio-emocional y dominio del aprendizaje.",81.0,
+Alfabetización y educaciónviii,,,,
+Indicador de MICS,Indicador,Descripción,Valor,
+7.1,ODM 2.3,Tasa de alfabetización entre mujeres jóvenes,Porcentaje de mujeres de entre 15 y 24 años que pueden leer una oración simple y corta acerca de la vida diaria o que asistieron a la escuela secundaria o superior.,96.6
+7.2,,Preparación para la escuela,Porcentaje de niños/as en primer grado de la escuela primaria que asistió al preescolar durante el año anterior.,93.1
+7.3,,Tasa neta de ingreso escolar en educación primaria,Porcentaje de niños/as en edad de ingreso escolar que asiste a primer grado de la escuela primaria.,90.5
+7.4,ODM 2.1,Tasa de asistencia neta a la escuela primaria (ajustada),Porcentaje de niños/as en edad de asistir a la escuela primaria que actualmente asisten a la escuela primaria o secundaria.,95.8
+7.5,,Tasa de asistencia neta a la escuela secundaria (ajustada),Porcentaje de niños/as en edad de asistir a la escuela secundaria que actualmente asisten a la escuela secundaria o superior.,63.3
+7.6,ODM 2.2,Niños/as que alcanzan el último grado de la escuela primaria,Porcentaje de niños/as que ingresan en el primer grado de la escuela primaria y que eventualmente alcanzan el último grado.,85.6
+7.7,,Tasa de terminación de primaria,Número de niños/as que asisten al último grado de la escuela primaria (excluyendo a los repetidores) dividido por el número de niños/as en edad de completar la escuela primaria (edad apropiada al último grado de la escuela primaria).,98.2
+7.8,,Tasa de transición a la escuela secundaria,Número de niños/as que asiste al último grado de la escuela primaria durante el año escolar anterior que están en el primer año de escuela secundaria durante el año escolar actual dividido por el número de niños/as que cursa el último grado de la escuela primaria durante el último año escolar.,92.4
+7.9,ODM 3.1,Índice de paridad de géneros (escuela primaria),Tasa de asistencia neta (ajustada) de niñas dividida por la tasa neta de asistencia a la escuela primaria de niños.,1.01
+7.10,ODM 3.1,Índice de paridad de géneros (escuela secundaria),Tasa de asistencia neta (ajustada) de niñas dividida por la tasa neta de asistencia a la escuela secundaria de niños.,1.03
+Registro del nacimiento,,,,
+Indicador de MICS,Indicador,Descripción,Valor,
+8.1,Registro de nacimiento,Porcentaje de niños/as menores de 5 años cuyo nacimiento se reportó como registrado.,98.5,
+Trabajo infantil,,,,
+Indicador de MICS,Indicador,Descripción,Valor,
+8.2,Trabajo infantil,Porcentaje de niños/as de entre 5 y 17 años que realizan trabajo infantil ix.,19.3,
+Disciplina del niño/a,,,,
+Indicador de MICS,Indicador,Descripción,Valor,
+8.3,Disciplina violenta,Porcentaje de niños/as de entre 1 y 14 años que experimentaron agresión psicológica o castigo físico durante el último mes anterior a la encuesta.,52.0,
+Matrimonio temprano y poligamia,,,,
+Indicador de MICS,Indicador,Descripción,Valor,
+8.4,Matrimonio antes de los 15 años,Porcentaje de mujeres de entre 15 y 49 años que se casaron o unieron por primera vez antes de los 15 años de edad.,7.0,
+8.5,Matrimonio antes de los 18 años,Porcentaje de mujeres de entre 20 y 49 años que se casaron o unieron por primera vez antes de los 18 años de edad.,29.1,
+8.6,Jóvenes de entre 15 y 19 años que están actualmente casados o en unión,Porcentaje de mujeres de entre 15 y 19 años actualmente casados o en unión.,21.0,
+8.7,Poligamia,Porcentaje de mujeres de entre 15 y 49 años en una unión polígama.,3.3,
+8.8a,Diferencia de edad entre los esposos,Porcentaje de mujeres jóvenes actualmente casadas o en unión cuyos esposos son 10 años o más mayores que ellas.,,
+8.8b,,en mujeres de entre 15 y 19 años,,
+,,en mujeres de entre 20 y 24 años,,
+,,15.0,,
+,,18.3,,
+Actitudes hacia la violencia doméstica,,,,
+Indicador de MICS,Indicador,Descripción,Valor,
+8.12,Actitudes hacia la violencia domestica,Porcentaje de mujeres de entre 15 y 49 años que declaran que está justificado que el esposo/pareja golpee o pegue a la mujer en al menos una de las siguientes circunstancias:,7.7,
+,,"(1) sale sin avisarle, (2) descuida a los niños/as, (3) discute con él, (4) rehúsa mantener relaciones sexuales con él, (5) quema la comida.",,
+Entorno familiar de los niños/as,,,,
+Indicador de MICS,Indicador,Descripción,Valor,
+8.13,Entorno familiar de los niños/as,Porcentaje de niños/as de 0 a 17 años de edad que no viven con ninguno de los padres biológicos.,9.9,
+8.14,Prevalencia de niños/as con uno o ambos padres muertos,Porcentaje de niños/as de 0 a 17 años de edad con uno o ambos padres biológicos muertos.,5.5,
+8.15,Niños/as con al menos uno de los padres viviendo en el extranjero,Porcentaje de niños/as de 0-17 años de edad con al menos uno de los padres biológicos viviendo en el extranjero.,11.7,
+Conocimientos y actitudes sobre el VIH/SIDA,,,,
+Indicador de MICS,Indicador,Descripción,Valor,
+-,,Ha oído hablar del SIDA,Porcentaje de mujeres de entre 15 y 49 años que han oído hablar del SIDA.,98.7
+9.1,ODM 6.3,Conocimiento sobre la prevención del VIH entre los jóvenes,Porcentaje de jóvenes de entre 15 y 24 años de edad que identifican correctamente dos formas de prevenir la transmisión sexual del VIHx y que rechazan las concepciones erróneas más comunes sobre la transmisión del VIHxi,31.1
+9.2,,Conocimiento sobre la transmisión del VIH de madre a hijo,Porcentaje de mujeres de entre 15 y 49 años que identifican correctamente los tres medios de transmisión del VIHxii de madre a hijo.,60.0
+9.3,,Actitudes de aceptación hacia las personas que viven con el VIH,Porcentaje de mujeres de entre 15 y 49 años que expresan aceptar actitudes para las cuatro preguntasxiii sobre las personas que viven con el VIH.,17.9
+Prueba del VIH,,,,
+Indicador de MICS,Indicador,Descripción,Valor,
+9.4,Personas que saben dónde hacerse la prueba del VIH,Porcentaje de mujeres de entre 15 y 49 años que han declarado tener conocimiento de un lugar para la prueba del VIH.,88.6,
+9.5,Personas que se hicieron la prueba del VIH y conocen los resultados,Porcentaje de mujeres de entre 15 y 49 años de edad que se hicieron la prueba del VIH durante los 12 meses anteriores a la encuesta y que conocen el resultado.,16.7,
+9.6,Jóvenes sexualmente activos que se hicieron la prueba del VIH y conocen los resultados,"Porcentaje de mujeres de entre 15 y 24 años que han mantenido relaciones sexuales durante los 12 meses antes de la encuesta, que se hicieron la prueba del VIH durante los últimos 12 meses anteriores a la encuesta y que conocen el resultado.",28.7,
+9.7,Consejería sobre el VIH durante la atención prenatal,Porcentaje de mujeres de entre 15 y 49 años que dieron a luz en los 2 años anteriores a la encuesta y recibieron cuidados prenatales y que informan haber recibido asesoramiento sobre el VIH durante dichos cuidados.,51.7,
+9.8,Prueba del VIH durante la atención prenatal,Porcentaje de mujeres de entre 15 y 49 años que dieron a luz en los 2 años anteriores a la encuesta y recibieron cuidados prenatales y que informan que se les ofreció y aceptaron hacerse una prueba del VIH durante la atención prenatal y que recibieron los resultados.,84.1,
+Comportamiento sexual,,,,
+Indicador de MICS,Indicador,Descripción,Valor,
+9.9,,Jóvenes que nunca han mantenido relaciones sexuales,Porcentaje de mujeres de entre 15 y 24 años que nunca se han casado/unido que nunca han mantenido relaciones sexuales.,69.8
+9.10,,Relaciones sexuales antes de los 15 años en personas jóvenes,Porcentaje de mujeres de entre 15 y 24 años que mantuvieron relaciones sexuales antes de los 15 años de edad.,10.6
+9.11,,Mezcla de edades de las parejas sexuales,Porcentaje de jóvenes de entre 15 y 24 años que mantuvieron relaciones sexuales en los 12 meses anteriores a la encuesta con un compañero que era 10 años o mayor.,14.6
+9.12,,Parejas sexuales múltiples,Porcentaje de personas de entre 15 y 49 años que mantuvieron relaciones sexuales con más de un compañero en los 12 últimos meses.,1.3
+9.13,,Uso del preservativo durante la relación sexual con varios compañeros sexuales,Porcentaje de mujeres de entre 15 y 49 años que informan haber tenido más de un compañero sexual en los 12 últimos meses y que también informan de haber usado un preservativo la última vez que mantuvieron relaciones sexuales.,23.1
+9.14,,Relaciones sexuales con parejas sexuales ocasionales,Porcentaje de mujeres sexualmente activos de entre 15 y 24 años que han mantenido relaciones sexuales con un compañero que no es su esposo/a o pareja habitual en los 12 últimos meses.,17.3
+9.15,ODM 6.2,Uso del preservativo con compañeros sexuales ocasionales,"Porcentaje de mujeres de entre 15 y 24 años que informan haber usado un preservativo durante la relación sexual con su último compañero sexual que no era su esposo/a o pareja habitual, en los 12 últimos meses.",42.0
+Huérfanos,,,,
+Indicador de MICS,Indicador,Descripción,Valor,
+9.16,ODM 6.4,Tasa de asistencia a la escuela por parte de huérfanos frente a la asistencia a la escuela por parte de niños no huérfanos,Proporción que asiste a la escuela entre niños/as de 10 a 14 años de edad que han perdido a ambos padres dividida por la proporción de los niños/as de 10 a 14 años de edad que asisten a la escuela y cuyos padres están vivos y que viven con uno de los padres o con ambos.,(*)
+(*) Cifra que se basan en menos de 25 casos no ponderados.,,,,
+Acceso a los medios de comunicación,,,,
+Indicador de MICS,Indicador,Descripción,Valor,
+10.1,Exposición a los medios de comunicación,"Porcentaje de mujeres de entre 15 a 49 años que, por lo menos una vez a la semana, leen un diario o revista, escuchan la radio y ven la televisión.",28.8,
+Uso de tecnologías de la información/comunicación,,,,
+Indicador de MICS,Indicador,Descripción,Valor,
+10.2,Uso de computadoras,Porcentaje de mujeres de entre 15 a 24 años que usaron una computadora durante los últimos 12 meses.,62.0,
+10.3,Uso de internet,Porcentaje de mujeres de entre 15 a 24 años que usaron internet durante los últimos 12 meses.,66.7,
+Bienestar subjetivo,,,,
+Indicador de MICS,Indicador,Descripción,Valor,
+11.1,Satisfacción con la vida,Porcentaje de mujeres de entre 15 a 24 años que están muy satisfechos o algo satisfechos con sus vidas en general.,95.1,
+11.2,Felicidad,Porcentaje de mujeres de entre 15 a 24 años que son muy felices o algo felices.,90.6,
+11.3,Percepciones de una vida mejor,"Porcentaje de mujeres de entre 15 a 24 años cuyas vidas habían mejorado durante el último año, y que esperan que sus vidas mejorarán en un año.",43.8,
+Consumo de tabaco,,,,
+Indicador de MICS,Indicador,Descripción,Valor,
+12.1,Consumo de tabaco,"Porcentaje de mujeres de entre 15 a 49 años que fumaron cigarrillos, o usaron un producto de tabaco fumable o sin humo un día o más durante el último mes.",1.6,
+12.2,Consumo de tabaco antes de los 15 años de edad,Porcentaje de mujeres de entre 15 a 49 años que fumaron un cigarrillo entero antes de los 15 años de edad.,2.9,
+Consumo de alcohol,,,,
+Indicador de MICS,Indicador,Descripción,Valor,
+12.3,Consumo de alcohol,Porcentaje de mujeres de entre 15 a 49 años que consumieron al menos una bebida alcohólica un día o más durante el mes anterior a la encuesta.,5.4,
+12.4,Consumo de alcohol antes de los 15 años de edad,Porcentaje de mujeres de entre 15 a 49 años que consumieron al menos una bebida alcohólica antes de los 15 años de edad.,3.1,

@@ -1,0 +1,138 @@
+0,1,2,3,4,5
+MICS4,MDG,Indicator,,Value,
+Topic Indicator,Indicator Number,,,,
+Number,,,,,
+CHILD MORTALITY,,,,,
+Child mortality,1.1,4.1,Under-­‐five mortality rate,158,"per 1,000"
+,1.2,4.2,Infant mortality rate,97,"per 1,000"
+NUTRITION,,,,,
+Nutritional status,2.1a,1.8,Underweight prevalence: Moderate and Severe (-­‐ 2 SD) Stunting prevalence: Moderate and Severe (-­‐ 2 SD),24.2,percent percent
+,2.2a,,,34.8,
+,2.3a,,Wasting prevalence: Moderate and Severe (-­‐ 2 SD),10.2,percent
+,2.6,,Exclusive breastfeeding under 6 months,15.1,percent
+,2.7,,Continued breastfeeding at 1 year,79.3,percent
+,2.8,,Continued breastfeeding at 2 years,34.5,percent
+,2.12,,"Introduction of solid, semi-­‐solid or soft foods","32,9",percent
+Breastfeeding and,2.4,,Children ever breastfed,95.5,percent
+infant feeding,2.5,,Early initiation of breastfeeding,22.9,percent
+2.6,,Exclusive breastfeeding under 6 months,15.1,percent,
+2.7,,Continued breastfeeding at 1 year,79.3,percent,
+2.8,,Continued breastfeeding at 2 years,34.5,percent,
+2.9,,Predominant breastfeeding under 6 months,69.9,percent,
+2.10,,Duration of breastfeeding,18.3,months,
+2.11,,Bottle feeding,18.7,percent,
+2.12,,"Introduction of solid, semi-­‐solid or soft foods",32.2,percent,
+2.13,,Minimum meal frequency,24.1,percent,
+2.14,,Age-­‐appropriate breastfeeding,34.6,percent,
+2.15,,Milk feeding frequency for non-­‐breastfed children,30.1,percent,
+Salt iodization,2.16,,Iodized salt consumption,79.8,percent
+Vitamin A,2.17,,Vitamin A supplementation (children under age 5),65.2,percent
+Low birth weight,2.18,,Low-­‐birth weight infants,15.2,percent
+,2.19,Infants weighed at birth,25.7,percent,
+CHILD HEALTH,,,,,
+Vaccinations,3.1,,Tuberculosis immunization coverage,61.7,percent
+,3.2,,Polio immunization coverage,46.1,percent
+,3.3,,"Immunization coverage for diphtheria, pertussis and tetanus (DPT)",42.6,percent
+,3.4,4.3,Measles immunization coverage,49.2,percent
+,3.5,,Hepatitis B immunization coverage,34.0,percent
+,3.6,,Yellow fever immunization coverage,40.4,percent
+Tetanus toxoid,3.7,,Neonatal tetanus protection,55.2,percent
+Care of illness,3.8,,Oral rehydration therapy with continued feeding,27.9,percent
+,3.9,Care seeking for suspected pneumonia,39.7,percent,
+,3.10,Antibiotic treatment of suspected pneumonia,45.4,percent,
+Solid fuel use,3.11,,Solid fuels,74.5,percent
+Topic,MICS4,MDG,Indicator,,Value
+,Indicator Number,Indicator Number,,,
+Malaria,3.12,,Households with at least one ITN,40.1,percent
+,3.14,,Children under age 5 sleeping under any mosquito net,18.6,percent
+,3.15,6.7,Children under 5 sleeping under insecticide-­‐treated nets (ITNs),16.4,percent
+,3.16,,Malaria diagnostics usage,7.9,Percent
+,3.17,,Anti-­‐malarial treatment of children under 5 the same or next day,29.4,percent
+,3.18,6.8,Anti-­‐Malarial treatment,44.6,percent
+,3.19,,Pregnant women sleeping under insecticide-­‐treated nets (ITNs),16.9,percent
+,3.20,,Intermittent preventive treatment for malaria,19.5,percent
+WATER AND SANITATION,,,,,
+Water and,4.1,7.8,Use of improved drinking water sources,58.5,percent
+sanitation,4.2,,Water treatment,4.1,percent
+4.3,7.9,Use of improved sanitation,31.0,percent,
+4.4,,Safe disposal of child's faeces,52.3,percent,
+4.5,,Place for hand washing,48.0,percent,
+4.6,,Availability of soap,61.5,percent,
+REPRODUCTIVE HEALTH,,,,,
+Contraception,5.1,5.4,Adolescent birth rate,89,"per 1,000"
+and unmet need,5.2,,Early childbearing,28.6,per cent
+5.3,5.3,Contraceptive prevalence rate,17.5,percent,
+5.4,5.6,Unmet need,19.4,percent,
+Maternal health,5.5a,5.5,Antenatal care coverage with at least once by skilled personnel,66.2,percent
+,5.5b,,Antenatal care coverage at least four times by any provider,56.6,percent
+,5.6,,Content of antenatal care,51.5,percent
+,5.7,5.2,Skilled attendance at delivery,48.7,percent
+,5.8,,Institutional deliveries,45.1,percent
+,5.9,,Caesarean section,4.7,percent
+CHILD DEVELOPMENT,,,,,
+Child,6.1,,Support for learning,65.4,percent
+development,6.2,,Father's support for learning,37.2,percent
+6.3,,Learning materials: children’s books,6.0,percent,
+6.4,,Learning materials: playthings,38.1,percent,
+6.5,,Inadequate care,39.9,percent,
+6.6,,Early child development index,60.9,percent,
+6.7,,Attendance to early childhood education,42.6,percent,
+EDUCATION,,,,,
+Education,7.1,2.3,Literacy Among young women,65.6,percent
+,7.2,,School readiness,44.8,percent
+,7.3,,Net intake rate in primary education,43.8,percent
+,7.4,2.1,Primary school net attendance ratio (adjusted),70.1,percent
+,7.5,,Secondary school net attendance ratio (adjusted),54.2,percent
+,7.6,2.2,Children reaching last grade of primary,96.5,percent
+,7.7,,Primary completion rate,85.4,percent
+,7.8,,Transition rate to secondary school,74.0,percent
+,7.9,,Gender parity index (primary school),0.94,ratio
+,7.10,,Gender parity index (secondary school),1.00,ratio
+Topic,MICS4,MDG,Indicator,Value,
+,Indicator Number,Indicator Number,,,
+CHILD PROTECTION,,,,,
+Birth registration,8.1,,Birth registration,41.5,percent
+Child labour,8.2,,Child labour,47.1,percent
+,8.3,School attendance among child labourers,76.1,percent,
+,8.4,Child labour among students,47.1,percent,
+Child discipline,8.5,,Violent discipline,90.8,percent
+Early marriage,8.6,,Marriage before age 15 Marriage before age 18,17.6,percent
+,,,Young women age 15-­‐19 currently married or in union Polygyny,,
+,,,Spousal age difference,,
+,,,Women age 15-­‐19 Women age 20-­‐24,,
+,8.7,39.9,percent,,
+,8.8,20.2,percent,,
+,8.9,33.6,percent,,
+,8.10a,52.2,percent percent,,
+,8.10b,43.9,,,
+Female genital,8.11,,Approval for female genital mutilation/cutting (FGM/C),21.8,percent
+mutilation/,8.12,Prevalence of female genital mutilation/cutting (FGM/C),27.0,percent,
+cutting,,among women,,,
+,8.13,Prevalence of female genital mutilation/cutting (FGM/C),19.2,percent,
+,,among girls,,,
+Domestic violence,8.14,,Attitudes toward domestic violence,45.6,Percent
+"HIV/ AIDS, SEXUAL BEHAVIOUR",,,,,
+HIV/AIDS,9.1,,Comprehensive knowledge about HIV prevention,23.1,percent
+knowledge and attitudes,9.2,6.3,Comprehensive knowledge about HIV prevention among young people (women age 15-­‐24 years),22.5,percent
+,9.3,,Knowledge of mother-­‐ to-­‐child transmission of HIV,49.7,percent
+,9.4,,Accepting attitudes towards people living with HIV,9.0,percent
+,9.5,,Women who know a place where to be tested,61.0,percent
+,9.6,,Women who have been tested for HIV and know the,11.4,percent
+,,,results,,
+,9.7,,Sexually active young women who have been tested for,9.1,percent
+,,,HIV and know the results,,
+,9.8,,HIV counselling during antenatal care,48.4,percent
+,9.9,,HIV testing during antenatal care,28.5,percent
+Sexual,9.10,,Young women who have never had sex,62.6,percent
+behaviour,9.11,,Sex before age 15 among young women,15.8,percent
+,9.12,,Age-­‐mixing among sexual partners,39.3,percent
+,9.13,,Sex with multiple partners,2.8,percent
+,9.14,,Condom use during sex with multiple partners,34.3,percent
+,9.15,,Sex with non regular partner (women age 15-­‐24 years),32.4,percent
+,9.16,6.2,Condom use with non-­‐regular partners (women age 15-­‐24),47.4,percent
+,,,years),,
+Orphaned,9.17,,Children’s living arrangements,8.8,percent
+children,,,,,
+,9.18,,Prevalence of children with at least one parent dead,6.6,percent
+,9.19,6.4,School attendance of orphans,79.9,percent
+,9.20,6.4,School attendance of non-­‐orphans,79.5,percent

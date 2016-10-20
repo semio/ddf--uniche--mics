@@ -1,0 +1,116 @@
+0,1,2,3,4,5,6
+MICS ODM Tabela Rubrica Indicador Valor,,,,,,
+MORTALIDADE INFANTIL,,,,,,
+1.1,MDG 4.1,CM1,Mortalidade infantil,Taxa de mortalidade infanto-juvenil (crianças menores de 5 anos),116,Por mil
+1.2,MDG 4.2,CM1,Taxa de mortalidade infantil,63,Por mil,
+NUTRIÇÃO,,,,,,
+,MDG 1.8,NU1,Estatuto Nutricional,Prevalência de Insuficiência pondera:,,
+2.1a,,,(a) Moderada e Severa,18,porcento,
+2.1b,,,(b) Severa,5,porcento,
+,,NU1,Prevalência do atraso de crescimento :,,,
+2.2a,,,(a) Moderada e Severa,32,porcento,
+2.2b,,,(b) Severa,10,porcento,
+,,NU1,Prevalência de perda de peso:,,,
+2.3a,,,(a) Moderada e Severa,6,porcento,
+2.3b,,,(b) Severa,1,porcento,
+2.4,,NU2,Aleitamento materno e alimentação da criança,Crianças alguma vez amamentadas,98,porcento
+2.5,,NU2,Aleitamento inicial atempado,55,porcento,
+2.6,,NU3,Aleitamento exclusivo (crianças de 0 - 6 meses),38,porcento,
+2.7,,NU3,Aleitamento contínuo (crianças de 12 - 15 meses),97,porcento,
+2.8,,NU3,Aleitamento contínuo (crianças de 20 -23 meses),65,porcento,
+2.9,,NU3,Aleitamento predominante para menores de 6 meses,86,porcento,
+2.10,,NU4,Duração do Aleitamento,23,em meses,
+2.11,,NU8,Alimentação através do biberão,13,porcento,
+2.12,,NU6,Introducção de alimentos sólidos ou semi-sólidos (crianças de 6 - 8 meses),43,porcento,
+2.13,,NU7,Frequência mínima de refeições,23,porcento,
+2.14,,NU5,Aleitamento adequado a idade,40,porcento,
+2.15,,NU7,Alimentação com porções mínimas de leite não materno para as crianças que não estão amamentadas,23,porcento,
+2.16,,NU9,Iodação do sal,Consumo de sal iodado,12,porcento
+2.17,,NU10,Vitamina A,Suplemento de Vitamina A (crianças menores de 5 anos),79,porcento
+2.18,,NU11,Insuficiência ponderal ã nascença,Insuficiência ponderal ao nascer,11,porcento
+2.19,,NU11,Crianças pesadas ao nascer,46,porcento,
+SAUDE DAS CRIANÇAS,,,,,,
+3.1,,CH1,Vacinas,Cobertura vacinal contra turbeculosis (BCG) antes do 1º ano (crianças de 12-23 meses),94,porcento
+3.2,,CH1,Cobertura vacinal contra Poliomielite (3 doses) antes do 1º ano (crianças de 12-23 meses),73,porcento,
+3.3,,CH1,Cobertura vacinal de DPT (3 doses) antes do 1º ano (crianças de 12-23 meses),76,porcento,
+3.4,MDG 4.3,CH1,Cobertura vacinal contra sarampo antes do 1º ano (crianças de 12-23 meses),61,porcento,
+3.6,,CH1,Cobertura vacinal contra fevre amarela antes do 1º ano (crianças de 12-23 meses),49,porcento,
+3.7,,CH3,Toxoide tetânico,Protecção contra tétano neonatal,70,porcento
+3.8,,CH6,Cuidado com as doenças de infancia,Utlilização de Terapia Oral de Rehidratante (TOR) e alimentação continua (crianças < 5 anos),53,porcento
+3.9,,CH7,Cuidados com pneumonia presumida (crianças < 5 anos),52,porcento,
+3.1,,CH7,Tratamento de pneumonia com antibióticos (crianças < 5 anos),35,porcento,
+3.11,,CH9,Utilização de combustíveis sólidos,Utilização de combustíveis sólidos,99,porcento
+3.12,,CH11,Paludismo,Agregados com mosquiteiros impregados (MI),53,porcento
+3.14,,CH12,Crianças que dormiram debaixo de qualquer mosquiteiro (crianças < 5 anos),62,porcento,
+3.15,MDG 6.7,CH12,Crianças que dormiram debaixo dum mosquiteiro impregado (crianças < 5 anos),36,porcento,
+3.16,,CH15,Diagnóstico do paludismo,7,porcento,
+3.17,,CH14,Crianças com fevre tratados com antipalúdicos no mesmo dia (crianças < 5 anos),37,porcento,
+3.18,MDG 6.8,CH14,Crianças com fevre tratados com antipalúdicos (crianças < 5 anos),51,porcento,
+3.19,,CH13,Mulheres grávidas que dormiram debaixo dum mosquiteiro impregado,32,porcento,
+3.20,,CH16,Tratamento preventivo intermitente do paludismo,14,porcento,
+3.21,,CH17 e 18,,Água e sabão no lugar para lavar as mãos,81,porcento
+AGUA E SANEAMENTO,,,,,,
+4.1,MDG 7.8,WS1,Água e saneamento,Utilização de fontes de água melhoradas para beber,66,porcento
+4.2,,WS2,Tratamento da água,4,porcento,
+4.3,MDG 7.9,WS8,Utilização de instalações sanitárias melhoradas,11,porcento,
+MICS ODM Tabela Rubrica Indicador Valor,,,,,,
+SAUDE REPRODUCTIVA,,,,,,
+5.1,MDG 5.4,RH1,Contracepção e necessidades não satisfeitas,Taxa de fecundidade das adolescentes,141,Por mil
+5.2,,RH2,Gravidez precose,33,porcento,
+"5,3",MDG 5.3,RH4,Prevalência da contracepção,14,porcento,
+5.4,MDG 5.6,RH5,Necessidades não satisfeitas de contracepção,6,porcento,
+,,,Saúde maternal e neonatal,Cuidados de pré-natal:,,
+5.5a,MDG 5.5,RH6,(a) pelo menos uma consulta com pessoal de saúde qualificado,93,porcento,
+5.5b,RH7,(b) pelo menos 4 consultas de pré-natal,68,porcento,,
+5.6,,RH8,Conteúdo dos cuidados de pré-natal,68,porcento,
+"5,7",MDG 5.2,RH9,Partos assistidos por pessoal de saúde qualificado,43,porcento,
+"5,8",,RH10,Partos feitos em infraestruturas sanitárias,41,porcento,
+5.9,,RH9,Partos com cesariana,2,porcento,
+ALFABETIZAÇÃO E EDUCAÇÃO,,,,,,
+"7,1",MDG 2.3,ED1,Alfabetização e educação,Taxa de alfabetização das mulheres de 15-24 anos,40,porcento
+7.2,,ED2,Preparação a escola,29,porcento,
+7.3,,ED3,Taxa líquida de acesso ao ensino primário,46,porcento,
+"7,4",MDG 2.1,ED4,Taxa líquida de frequência escolar no ensino primário (ajustado),67,porcento,
+"7,5",,ED5,Taxa líquida de frequência escolar no ensino secundário (ajustado),24,porcento,
+7.6,MDG 2.2,ED6,Crianças que atingem a última classe do ensino primário,79,porcento,
+7.7,,ED7,Taxa de sucesso do ensino primário,86,porcento,
+7.8,,ED7,Taxa de transição para o ensino secundário,86,porcento,
+7.9,MDG 3.1,ED8,Índice de paridade no género (ensino primário),0.94,racio,
+7.1,MDG 3.1,ED8,Índice de paridade no género (ensino secundário),0.73,racio,
+PROTECÇÃO DA CRIANÇAS,,,,,,
+8.1,,CP1,Registro de nascimento,Registro de nascimentos,24,porcento
+8.2,,CP2,Trabalho infantil,Trabalho infantil,57,porcento
+8.3,,CP3,Frequência escolar das crianças envolvidas em trabalho infantil,55,porcento,
+8.4,,CP3,Trabalho infantil das crianças escolarizadas,56,porcento,
+"8,6",,CP5,Casamento precose e poligamia,Casamento antes dos 15 anos de idade,7,porcento
+"8,7",,CP5,Casamento antes dos 18 anos de idade,29,porcento,
+8.8,,CP5,Mulheres jovens de 15-19 anos actualmente casadas ou em união de facto,19,porcento,
+8.9,,CP5,Poligamia,48,porcento,
+,,CP7,Diferença de idades entre cônjuges,,porcento,
+8.10a,,a) mulheres de 15-19 anos),42,porcento,,
+8.10b,,b) mulheres de 20-24 anos,39,porcento,,
+"8,11",,CP10,Excisão/mutilação genital feminina,Aprovação da prática da excisão feminina,34,porcento
+"8,12",,CP8,Prevalência da excisão feminina nas mulheres de 15-49 anos,50,porcento,
+-,,CP9,Prevalência da excisão feminina nas filhas de vida de 0-14 anos,39,porcento,
+8.14,,CP11,Violência doméstica,Atitude face à violência doméstica,40,porcento
+adapt,,,,,,
+"VIH/SIDA, COMPORTAMENTO SEXUAL E ORFÃS",,,,,,
+9.1,,HA1,Conhecimentos e comportamentos face ao VIH/SIDA,Conhecimento aprofundado sobre a prevenção contra SIDA (mulheres de 15-49 anos),14,porcento
+9.2,MDG 6.3,HA2,Conhecimento aprofundado sobre a prevenção contra SIDA nas jovens (mulheres de 15- 24 anos),15,porcento,
+9.3,,HA3,Conhecimentos sobre os modos de transmissão mãe -filho do VIH,42,porcento,
+9.4,,HA4,Atitudes de aceitação das pessoas portadores do VIH,8,porcento,
+-,,HA5 adap,Mulheres que foram testadas e saberam do resultado nos últimos 12 meses,19,porcento,
+-,,HA6 adap,Mulheres Jovens que foram testadas e saberam do resultado nos últimos 12 meses,21,porcento,
+-,,HA7,Informacoes detalhadas sobre VIH durante consultas de pré-natal,42,porcento,
+9.9,,HA7,Teste do VIH durante cuidados de pré-natal,18,porcento,
+9.10,,HA8,Comportamento sexual,Mulheres jovens que nunca tiveram sexo,30,porcento
+9.11,,HA8,Mulheres jovens que tiveram sexo antes dos 15 anos,28,porcento,
+9.12,,HA8,Relações sexuais com parceiros 10 ou mais anos mais velhos,19,porcento,
+9.13,,HA9,Relações sexuais com parceiros múltiplos,5,porcento,
+9.14,,HA9,Utilização do preservativo durante relações sexuais com multiplos parceiros,50,porcento,
+9.15,,HA11,Mulheres jovens (de 15-24 anos) que tiveram sexo com pelo menos um parceiro sem ser o seu marido ou sem viverem juntos,64,porcento,
+9.16,MDG 6.2,HA11,Utilização do preservativo pelas mulheres jovens (de 15-24 anos) quando tiveram sexo com um parceiro sem ser o seu marido ou sem viverem juntos,47,porcento,
+9.17,,HA12,Crianças orfãs,Prevalência de crianças que não vivem com nenhum pai biológico,19,porcento
+9.18,,HA12,Prevalência de crianças com pelo menos um pai falecido,11,porcento,
+9.19,MDG 6.4,HA13,Frequência escolar das crianças orfãs,79,porcento,
+9.20,MDG 6.4,HA13,Frequência escolar das crianças que não são orfãs,72,porcento,

@@ -1,0 +1,183 @@
+0,1,2,3,4
+,Numéro Numéro,,,
+Rubrique,d’indicateur d’indicateur Indicateur MICS OMD,Valeur,,
+MORTALITE DES ENFANTS,,,,
+Mortalité des Enfants,1,13,Taux de mortalité des enfants de moins de 5 ans (période de référence : mars 2000 -avril 2002),188 ‰
+NUTRITION,,,,
+Statut,6,4,Prévalence d’insuffisance pondérale,"37,4 %"
+nutritionnel,7,,Prévalence de retard de croissance,"34,6 %"
+,8,,Prévalence de l’émaciation,"23,1 %"
+Allaitement,45,,Allaitement à la première heure de naissance ,"19,6 %"
+,15,,Taux d’allaitement exclusif ,"8,2 %"
+,16,,Taux d’allaitement continu ,
+,,,à 12-15 mois ,"96,1 %"
+,,,à 20-23 mois,"85,4 %"
+,17,,Taux d’alimentation complémentaire à 6-9 mois,"49,6 %"
+,18,,Fréquence d’alimentation complémentaire,"40,6 %"
+,19,,Enfants bien nourris,"25,0 %"
+,,,,
+,,,,
+,,,,
+Vitamine A,42,,Supplémentation en vitamine A (enfants de moins de 5 ans),"67,1 %"
+,43,,Supplémentation en vitamine A (accouchée),"48,3 %"
+Faible poids,9,,Enfants avec un faible poids à la naissance,"16,2 %"
+à la naissance,10,,Enfants pesés à la naissance,"39,0 %"
+SANTE INFANTILE,,,,
+Vaccination,25,,Couverture vaccinale contre la tuberculose ,"91,4 %"
+,26,,Couverture vaccinale contre la polio ,"77,4 %"
+,27,,"Couverture vaccinale contre la diphtérie, la coqueluche et le tétanos","76,5 %"
+,28,15,Couverture vaccinale contre la rougeole,"70,3 %"
+,31,,Enfants complètement vaccinés ,"60,5 %"
+,30,,Couverture vaccinale contre la fièvre jaune ,"70,8 %"
+,,,,
+,,,,
+Toxoide Tétanique,32,,Protection contre le tétanos néonatal,"75,0 %"
+Soins de santé,33,,Utilisation de la thérapie de réhydratation par voie orale (TRO),"23,3 %"
+,34,,Traitement à domicile de la diarrhée,"36,3 %"
+,35,,TRO reçu ou apport d’aliments liquides et poursuite,"42,4 %"
+,,,de l’alimentation,
+,23,,Consultations pour les enfants suspectés de pneumonie,"38,5 %"
+,22,,Traitement antibiotique des enfants suspectés de pneumonie,"31,4 %"
+Utilisation,24,29,Combustibles solides,"93,9 %"
+de combustibles solides,,,,
+Paludisme,36,,Disponibilité de moustiquaires imprégnées d’insecticide (MII) dans les ménages,"23,3 %"
+,37,22,Enfants de moins de 5 ans dormant sous moustiquaire imprégnée d’insecticide,"9,6 %"
+,38,,Enfants de moins de 5 ans dormant sous moustiquaire ,"18,0 %"
+,39,22,Traitement antipaludéen des enfants de moins de 5 ans ,"41,0 %"
+,40,,Traitement préventif du paludisme (chez la femme enceinte) ,"1,3 %"
+,,,,
+,,,,
+Source et coûts,96,,Source d’approvisionnement (de sources publiques),
+,Numéro d’indicateur MICS,Numéro d’indicateur OMD,,
+Rubrique,,,Indicateur,Valeur
+d’approvisionne-,,,Moustiquaire imprégnée d’insecticide ,"45,6 %"
+,,,Antipaludéens ,"52,7 %"
+,,,Antibiotiques ,"72,9 %"
+,,,Sel de réhydratation orale ,"77,5 %"
+,97,,Coût d’approvisionnement (coût moyen) ,
+,,,Moustiquaires imprégnées d’insecticide ,
+,,,Sources publiques Sources privées,
+,,,Sources publiques ,"1500,0 FCFA"
+,,,Sources privées ,"1500,0 FCFA"
+ment,,,Antipaludéens ,
+,,,Sources publiques ,"500,0 FCFA"
+,,,Sources privées ,"433,0 FCFA"
+,,,Sel de réhydratation orale ,
+,,,Sources publiques ,"100,0 FCFA"
+,,,Sources privées ,"100,0 FCFA"
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+ENVIRONNEMENT,,,,
+Eau et,11,30,Utilisation de sources améliorées d’eau de boisson,"77,3 %"
+Assainissement,13,,Traitement de l’eau,"3,3 %"
+,12,31,Utilisation de sanitaires améliorés,"36,9 %"
+,14,,Evacuation des excréta des enfants,"17,4 %"
+Bail assuré et,93,,Bail assuré,"49,9 %"
+durabilité de l’habitat,94,,Durabilité du logement,"0,5 %"
+,95,32,Taudis,"68,9 %"
+SANTE DE LA REPRODUCTION,,,,
+Contraception,21,19c,Prévalence contraceptive,"17,4 %"
+et besoins non satisfaits,98,,Besoins de planification familiale non satisfaits,"31,1 %"
+,99,,Demande de planification familiale satisfaite,"35,9 %"
+Santé de la,20,,Soins prénatals,"85,0 %"
+,44,,Contenu des soins prénatals ,"86,3"
+,,,Prélèvement de sang ,"34,5 %"
+,,,Prise de la tension ,"82,8 %"
+mère et de l’enfant,,,Prélèvement d’urine ,"73,7 %"
+,,,Mesure du poids ,"85,3 %"
+,4,17,Assistance pendant l’accouchement par un personnel qualifié ,"53,5 %"
+,5,,Accouchement dans un centre qualifié ,"50,5 %"
+,,,,
+,,,,
+,,,,
+DEVELOPPEMENT DE L’ENFANT,,,,
+Développement,46,,Soutien à l’apprentissage,"11,7 %"
+de l’enfant,47,Soutien à l’apprentissage par le père,"23,7 %",
+EDUCATION,,,,
+Education,52,,Fréquentation préscolaire ,"2,2 %"
+,53,,Prédisposition pour la scolarisation ,"1,4 %"
+,54,,Taux net d’admission au CP1 ,"38,7 %"
+,55,6,Taux net de scolarisation au primaire ,"46,2 %"
+,56,,Taux net de scolarisation au secondaire ,"15,8 %"
+,57,7,Enfants atteignant la 5ème année ,"91,3 %"
+,58,,Taux de transition au secondaire ,"53,8 %"
+,59,7b,Taux d’achèvement du primaire ,"16,9 %"
+,61,9,Indice de parité genre ,
+,,,Ecole primaire ,"0,90 ratio"
+,,,Ecole secondaire ,"0,91 ratio"
+,,,,
+,,,,
+,,,,
+,Numéro Numéro,,,
+Rubrique,d’indicateur d’indicateur Indicateur MICS OMD,Valeur,,
+Alphabétisation,60,8,Taux d’alphabétisation des jeunes femmes de 15-24 ans ,"25,0 %"
+PROTECTION DE L’ENFANT,,,,
+Enregistrement des naissances,62,,Enregistrement des naissances,"63,7 %"
+Discipline de l’enfant,74,,Discipline de l’enfant,
+,,,Punition psychologique/physique,83.3%
+Mariage précoce et,67,,Mariage avant l’âge de 15 ans ,"3,9 %"
+,,,Mariage avant l’âge de 18 ans ,"52,0 %"
+,68,,Jeunes femmes de 15-19 ans actuellement mariées ou en union,"23,5 %"
+,70,,Polygamie ,"49,1 %"
+,69,,Différence d’âge de 10 ans et plus entre les époux ,
+polygamie,,,Femmes âgées de 15-19 ans ,"24,5 %"
+,,,Femmes âgées de 20-24 ans ,"27,7 %"
+,,,,
+,,,,
+,,,,
+,,,,
+Mutilations,66,,Approbation de la pratique des mutilations génitales féminines,"11,1 %"
+,,,,
+,63,,Prévalence de mutilations génitales féminines,"72,5 %"
+,,,,
+,64,,Prévalence de formes extrêmes de mutilations génitales féminines,"3,4 %"
+,65,,Prévalence de mutilations génitales féminines chez les filles,"24,7 %"
+Génitales,,,,
+Féminines,,,,
+Prévalence de,100,,Attitudes vis-à-vis de la violence conjugale,"71,4 %"
+Mutilations,,,,
+génitales,,,,
+féminines (MGF),,,,
+,,,,
+,,,,
+Violence domestique,,,,
+,,,,
+"VIH/SIDA, COMPORTEMENT SEXUEL, ET ENFANTS ORPHELINS ET VULNERABLES",,,,
+Connaissance et,82,19b,Connaissance exhaustive de la prévention de la transmission du VIH chez les jeunes ,"16,2 %"
+,89,,Connaissance de la transmission mère-enfant du VIH ,"55,5 %"
+,86,,Attitude à l’égard des personnes atteintes du VIH/Sida ,"6,7 %"
+,87,,Femmes connaissant un lieu où faire le dépistage du VIH ,"39,9 %"
+comportements,88,,Femmes ayant subi le test de dépistage du VIH ,"11,4 %"
+vis-à-vis du VIH,90,,Couverture du Counselling pour la prévention de la transmission mère-enfant du VIH ,"38,8 %"
+,91,,Test de dépistage du VIH/Sida lors des Consultations Post-natales (CPN) ,"7,2 %"
+,,,,
+,,,,
+,,,,
+,,,,
+Comportement,84,,Age au premier rapport sexuel,"5,9 %"
+sexuel,92,,Age des partenaires sexuels,"23,7 %"
+,83,19a,Utilisation de préservatifs avec les partenaires non réguliers,"63,7 %"
+,85,,Rapport sexuel à risque élevé durant l’année passé,"29,7 %"
+Soutien aux,75,,Prévalence d’orphelins,"7,4 %"
+enfants orphelins et,78,,Condition d’accueil des enfants (enfants de moins de 18 ans ne vivant pas avec un parent biologique),"10,5 %"
+vulnérables,76,,Prévalence d’enfants vulnérables,"9,0 %"
+,77,20,Scolarisation des orphelins par rapport aux non orphelins,"0,71 ratio"
+,81,,Soutien extérieur aux enfants orphelins et rendus vulnérables par le VIH/Sida,"7,0 %"
+,79,,Malnutrition des enfants orphelins et rendus vulnérables par le VIH/Sida,
+,,,Insuffisance pondérale ,"1,08 ratio"
+,,,Retard de croissance ,"1,07 ratio"
+,,,Emaciation ,"1,09 ratio"
+,80,,Sexualité précoce des enfants orphelins et rendus vulnérables par le VIH/Sida ,"1,19 ratio"
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,

@@ -1,0 +1,140 @@
+0,1,2,3,4,5
+Rubrique,Numéro Indicateur MICS,Numéro indicateur OMD,Indicateur,Valeur,
+MORTALITÉ DES ENFANTS,,,,,
+Mortalité des enfants,1,13,Taux de mortalité infanto-juvénile,223,pour mille
+2,14,Taux de mortalité infantile,138,pour mille,
+NUTRITION,,,,,
+Statut nutritionnel,6,4,Prévalence de l’insuffisance pondérale modérée,"19,4",Pour cent
+6,4,Prévalence de l’insuffisance pondérale sévère,"4,0",Pour cent,
+7,,Prévalence du retard de croissance modéré,"40,9",Pour cent,
+8,,Prévalence de la déperdition,"19,5",Pour cent,
+Allaitement maternel,45,,Allaitement commencé à temps,"22,6",Pour cent
+15,,Taux d’allaitement exclusif (0-3 mois),"21,4",Pour cent,
+15,,Taux d’allaitement exclusif (< 6 mois),"16,1",Pour cent,
+16,,Taux d’allaitement continu,,,
+à 12-15 mois,"92,8",Pour cent,,,
+à 20-23 mois,"61,4",Pour cent,,,
+17,,Taux d’alimentation complémentaire commencé à temps,"35,2",Pour cent,
+18,,Fréquence de l’alimentation complémentaire,"28,6",Pour cent,
+19,,Enfants bien nourris,"21,9",Pour cent,
+Iodation du sel,41,,Consommation de sel iodé,"0,9",Pour cent
+Vitamine A,42,,Supplémentation en vitamine A (enfants : moins 5 ans),"58,6",Pour cent
+43,,Supplémentation en vitamine A (femmes : accouchées),"57,4",Pour cent,
+Faible poids à la naissance,9,,Nourrissons ayant un faible poids à la naissance,"23,9",Pour cent
+10,,Enfants pesés à la naissance,"41,5",Pour cent,
+SANTÉ DE L’ENFANT,,,,,
+Vaccination,25,,Couverture vaccinale contre la tuberculose,"88,9",Pour cent
+26,,Couverture vaccinale contre la poliomyélite,"64,1",Pour cent,
+27,,Couverture vaccinale contre la DTCoq,"62,8",Pour cent,
+28,15,Couverture vaccinale contre la rougeole,"75,5",Pour cent,
+31,,Enfants entièrement vaccinés,"39,9",Pour cent,
+29,,Couverture vaccinale contre l’hépatite B,N/A,Pour cent,
+30,,Couverture vaccinale contre la fièvre jaune,N/A,Pour cent,
+Toxoïde tétanique,32,,Protection contre le tétanos néonatal,"68,2",Pour cent
+,33,,Utilisation de la thérapie de réhydratation par voie orale (TRO),"46,3",Pour cent
+34,,Prise en charge à domicile de la diarrhée,"11,0",Pour cent,
+Rubrique,Numéro Indicateur MICS,Numéro indicateur OMD,Indicateur,Valeur,
+Prise en charge des maladies,35,,"TRO reçu ou augmentation des fluides, et poursuite de l’alimentation","25,3",Pour cent
+23,,Recherche de soins pour les cas de pneumonie présumée,"4,3",Pour cent,
+22,,Traitement aux antibiotiques d’une pneumonie présumée,"41,9",Pour cent,
+Utilisation de combustibles solides,24,29,Combustibles solides,"98,4",Pour cent
+Paludisme,36,,Disponibilité de moustiquaires imprégnées (MI) par ménage,"43,6",Pour cent
+37,22,Enfants de moins de 5 ans dormant sous une MI,"39,0",Pour cent,
+38,,Enfants de moins de 5 ans dormant sous une moustiquaire,"73,2",Pour cent,
+39,22,Traitement antipaludéen (enfants de moins de 5 ans),"27,2",Pour cent,
+40,,Traitement préventif intermittent du paludisme (femmes enceintes),"7,4",Pour cent,
+Source et coût d’approvisionnement,96,,Source d’approvisionnement (sources publiques),,
+,,Moustiquaires imprégnées,"29,3",Pour cent,
+,,Antipaludéens,"54,8",Pour cent,
+,,Antibiotiques,"54,9",Pour cent,
+,,Sels de réhydratation orale,"77,4",Pour cent,
+97,,Coût d’approvisionnement (coût médian),,,
+,,Moustiquaires imprégnées,,,
+sources publiques,1000,[FCFA],,,
+,,sources privées,4945,[FCFA],
+,,Antipaludéens,,,
+sources publiques,1500,[FCFA],,,
+,,sources privées,2000,[FCFA],
+,,Antibiotiques,,,
+sources publiques,1782,[FCFA],,,
+,,sources privées,3000,[FCFA],
+,,Sels de réhydratation orale,,,
+sources publiques,1000,[FCFA],,,
+,,sources privées,2376,[FCFA],
+ENVIRONNEMENT,,,,,
+Eau et assainissement,11,30,Utilisation de sources d’eau potable améliorées,"59,9",pour cent
+13,,Traitement de l’eau,"4,5",pour cent,
+12,31,Utilisation d’installations sanitaires améliorées,"11,4",pour cent,
+14,,Élimination des excréments infantiles,"35,4",pour cent,
+Bail assuré et Durabilité de l’habitat,93,,Bail assuré,NA,pour cent
+94,,Durabilité de l’habitat,NA,pour cent,
+95,32,Taudis,NA,pour cent,
+SANTÉ DE LA REPRODUCTION,,,,,
+,21,19c,Prévalence des contraceptifs,"10,3",pour cent
+Rubrique,Numéro Indicateur MICS,Numéro indicateur OMD,Indicateur,Valeur,
+Contraception et besoins à couvrir,98,,Besoins à couvrir en matière de planning familial,"25,0",pour cent
+99,,Demande couverte en matière de planning familial,"29,1",pour cent,
+Santé maternelle et néonatale,20,,Soins prénatals,"77,9",pour cent
+44,,Contenu des soins prénatals,"88,8",pour cent,
+4,17,Assistance par un personnel qualifié,"39,0",pour cent,
+5,,Accouchements dans un établissement spécialisé,"35,4",pour cent,
+Mortalité maternelle,3,16,Taux de mortalité maternelle,405,pour 100 000
+DÉVELOPPEMENT DE L’ENFANT,,,,,
+Développement de l’enfant,46,,Soutien pour les études,"6,1",pour cent
+47,,Soutien paternel pour les études,"18,6",pour cent,
+48,,Soutien pour les études : livres pour enfants,NA,pour cent,
+49,,Soutien pour les études : autres livres,NA,pour cent,
+50,,Soutien pour les études : matériel ludique,NA,pour cent,
+51,,Tuteur mineur,NA,pour cent,
+ÉDUCATION,,,,,
+Éducation,52,,Fréquentation du préscolaire,"9,9",pour cent
+53,,Prédisposition pour la scolarisation,"15,1",pour cent,
+54,,Taux d’entrée net au cycle primaire,"28,5",pour cent,
+55,6,Taux de fréquentation net du cycle primaire,"53,7",pour cent,
+56,,Taux de fréquentation net du cycle secondaire,"7,7",pour cent,
+57,7,Enfants atteignant le CM2,"79,7",pour cent,
+58,,Taux de passage au cycle secondaire,"18,9",pour cent,
+59,7b,Taux d’achèvement des études primaires,"4,1",pour cent,
+61,9,Indice de parité des sexes,,,
+école primaire,"0,97",ratio,,,
+école secondaire,"0,88",ratio,,,
+Alphabétisation,60,8,Taux d’alphabétisation chez les adultes,"28,6",pour cent
+PROTECTION DE L’ENFANT,,,,,
+Enregistrement des naissances,62,,Enregistrement des naissances,"38,9",pour cent
+Travail des enfants,71,,Travail des enfants,"39,2",pour cent
+72,,Élèves travailleurs,"37,0",pour cent,
+73,,Travailleurs élèves,"53,7",pour cent,
+Punitions de l’enfant,74,,Punitions de l’enfant,"80,0",pour cent
+Toute punition psychologique/physique,,,,,
+Rubrique,Numéro Indicateur MICS,Numéro indicateur OMD,Indicateur,Valeur,
+Mariage précoce et polygamie,67,,Mariage avant 15 ans,"7,3",pour cent
+Mariage avant 18 ans,"27,3",pour cent,,,
+68,,Jeunes femmes de 15-19 ans mariées/en union,"21,7",pour cent,
+70,,Polygamie,"48,8",pour cent,
+69,,Différence d’âges entre conjoints (femmes de 15-19 ans),"51,2",pour cent,
+,,,Différence d’âges entre conjoints (femmes de 20- 24 ans),"48,0",pour cent
+Excision/mutilation génitale féminine (E/MGF),66,,Approbation de l’E/MGF,"27,9",pour cent
+63,,Prévalence de l’E/MGF,"44,5",pour cent,
+64,,Prévalence d’une forme extrême d’E/MGF,"3,2",pour cent,
+65,,Prévalence de l’E/MGF chez les filles,"35,0",pour cent,
+Violence domestique,100,,Attitudes face à la violence domestique,"51,5",pour cent
+Handicap,101,,Enfants handicapés,NA,pour cent
+"VIH/SIDA, COMPORTEMENT SEXUEL, ENFANTS ORPHELINS ET VULNÉRABLES",,,,,
+Connaissances et comportements face au VIH/SIDA,82,19b,Connaissances générales sur la prévention du VIH chez les jeunes,"15,8",pour cent
+89,,Connaissances sur la transmission mère-enfant du VIH,"39,5",pour cent,
+86,,Attitude face aux porteurs du VIH/SIDA,"75,2",pour cent,
+87,,Femmes connaissant les centres de dépistage du VIH,"17,3",pour cent,
+88,,Femmes ayant subi le test de dépistage du VIH,"6,0",pour cent,
+90,,Prise en charge psychologique pour la prévention de la transmission mère-enfant du VIH,"40,6",pour cent,
+91,,Dépistage pour la prévention de la transmission mère- enfant du VIH,"7,1",pour cent,
+Comportement sexuel,84,,Âge lors du premier rapport sexuel chez les jeunes (15 à 19 ans),"21,8",pour cent
+92,,Différence d’âges entre partenaires sexuels,"26,7",pour cent,
+83,19a,Utilisation de préservatifs avec les partenaires occasionnels,"38,8",pour cent,
+85,,Rapports sexuels à haut risque au cours de l’année écoulée,"60,6",pour cent,
+Soutien aux enfants orphelins et vulnérables,75,,Prévalence d’orphelins,"11,3",pour cent
+78,,Conditions d’accueil des enfants,"18,9",pour cent,
+76,,Prévalence d’enfants vulnérables,"10,0",pour cent,
+77,20,Fréquentation scolaire comparative orphelins/non- orphelins,0.97,Ratio,
+81,,Soutien extérieur aux enfants rendus orphelins ou vulnérables par le VIH/SIDA,"7,5",pour cent,
+79,,Malnutrition chez les enfants rendus orphelins ou vulnérables par le VIH/SIDA,"1,09",Ratio,
+80,,Rapports sexuels précoces chez les enfants rendus orphelins ou vulnérables par le VIH/SIDA,"1,03",Ratio,

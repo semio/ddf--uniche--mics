@@ -1,0 +1,102 @@
+0,1,2,3,4
+Topic,MICS Indica- tor Number,MDG Indicator Number,Indicator,Value
+CHILD MORTALITY,,,,
+Child mortality,1.1,4.1,Under-five mortality rate,69 per thousand
+1.2,4.2,Infant mortality rate,47 per thousand,
+NUTRITION,,,,
+Nutritional status,2.1a,1.8,Underweight prevalence,12.7 percent
+,2.1b,,Moderate and Severe (- 2 SD) Severe (- 3 SD),3.2 percent
+2.2a,,Stunting prevalence,33.5 percent,
+2.2b,,Moderate and Severe (- 2 SD) Severe (- 3 SD),13.3 percent,
+2.3a,,Wasting prevalence,5.9 percent,
+2.3b,,Moderate and Severe (- 2 SD) Severe (- 3 SD),2.0 percent,
+Breastfeeding and infant feeding,2.4,,Children ever breastfed,98.9 percent
+2.5,,Early initiation of breastfeeding,59.0 percent,
+2.6,,Exclusive breastfeeding under 6 months,48.7 percent,
+2.7,,Continued breastfeeding at 1 year,92.7 percent,
+2.8,,Continued breastfeeding at 2 years,65.7 percent,
+2.9,,Predominant breastfeeding under 6 months,66.8 percent,
+2.10,,Duration of breastfeeding (Median),24.2 months,
+2.11,,Bottle feeding,11.5 percent,
+2.12,,"Introduction of solid, semi-solid or soft foods",66.7 percent,
+2.13,,Minimum meal frequency,62.6 percent,
+2.14,,Age-appropriate breastfeeding,66.0 percent,
+2.15,,Milk feeding frequency for non-breastfed children,36.3 percent,
+Low birth weight,2.18,,Low-birthweight infants,9.9 percent
+2.19,,Infants weighed at birth,72.2 percent,
+CHILD HEALTH,,,,
+Tetanus toxoid,3.7,,Neonatal tetanus protection,73.0 percent
+Care of illness,3.8,,Oral rehydration therapy with continued feeding,61.6 percent
+3.9,,Care seeking for suspected pneumonia,74.2 percent,
+3.10,,Antibiotic treatment of suspected pneumonia,48.7 percent,
+Solid fuel use,3.11,,Solid fuels,39.5 percent
+WATER AND SANITATION,,,,
+Water and sanitation,4.1,7.8,Use of improved drinking water sources,96.1 percent
+4.2,,Water treatment,55.8 percent,
+4.3,7.9,Use of improved sanitation facilities (not shared),58.4 percent,
+4.4,,Safe disposal of child’s faeces,57.5 percent,
+Handwashing,4.5,,Place for handwashing (Water and soap are available),80.9 percent
+4.6,,Availability of soap,99.4 percent,
+Topic,MICS Indica- tor Number,MDG Indica- tor Number,Indicator,Value
+REPRODUCTIVE HEALTH,,,,
+Contraception and unmet need,5.1,5.4,Adolescent fertility rate,59 per thousand
+5.2,,Early childbearing,15.3 percent,
+5.3,5.3,Contraceptive prevalence rate,65.6 percent,
+5.4,5.6,Unmet need,11.7 percent,
+Maternal and newborn health,5.5a,5.5,Antenatal care coverage,97.3 percent
+,5.5b,,At least once by skilled personnel At least four times by any provider,77.3 percent
+5.6,,Content of antenatal care,87.9 percent,
+5.7,5.2,Skilled attendant at delivery,64.5 percent,
+5.8,,Institutional deliveries,63.1 percent,
+5.9,,Caesarean section,12.4 percent,
+CHILD DEVELOPMENT,,,,
+Child development,6.1,,Support for learning,54.2 percent
+6.2,,Father’s support for learning,51.3 percent,
+6.3,,Learning materials: children’s books,6.4 percent,
+6.4,,Learning materials: playthings,51.5 percent,
+6.5,,Inadequate care,14.2 percent,
+6.6,,Early child development index,71.5 percent,
+6.7,,Attendance to early childhood education,9.5 percent,
+EDUCATION,,,,
+Literacy and education,7.1,2.3,Literacy rate among young women,56.5 percent
+7.2,,School readiness,1.4 percent,
+7.3,,Net intake rate in primary education,68.1 percent,
+7.4,2.1,Primary school net attendance rate (adjusted),91.9 percent,
+7.5,,Secondary school net attendance rate (adjusted),55.0 percent,
+7.6,2.2,Children reaching last grade of primary,93.6 percent,
+7.7,,Primary completion rate,90.1 percent,
+7.8,,Transition rate to secondary school,88.7 percent,
+7.9,,Gender parity index (primary school),1.02 ratio,
+7.10,,Gender parity index (secondary school),1.03 ratio,
+CHILD PROTECTION,,,,
+Birth registration,8.1,,Birth registration,99.9 percent
+Child labour,8.2,,Child labour,18.4 percent
+8.3,,School attendance among child labourers,86.5 percent,
+8.4,,Child labour among students,18.8 percent,
+Early marriage and po- lygamy,8.6,,Marriage before age 15,6.7 percent
+8.7,,Marriage before age 18,30.8 percent,
+8.8,,Young women age 15-19 currently married or in union,15.2 percent,
+8.9,,Polygamy,5.0 percent,
+8.10a,,Spousal age difference,11.9 percent,
+8.10b,,Women age 15-19,13.3 percent,
+,,Women age 20-24,,
+Domestic violence,8.14,,Attitudes towards domestic violence,68.4 percent
+Topic,MICS Indica- tor Number,MDG Indica- tor Number,Indicator,Value
+"HIV/AIDS, SEXUAL BEHAVIOUR, AND ORPHANED AND VULNERABLE CHILDREN",,,,
+HIV/AIDS knowledge and attitudes,9.1,,Comprehensive knowledge about HIV prevention,17.5 percent
+9.2,6.3,Comprehensive knowledge about HIV prevention among young people,21.0 percent,
+9.3,,Knowledge of mother- to-child transmission of HIV,56.2 percent,
+9.4,,Accepting attitude towards people with HIV,27.9 percent,
+9.5,,Women who know where to be tested for HIV,54.5 percent,
+9.6,,Women who have been tested for HIV and know the results,9.8 percent,
+9.7,,Sexually active young women who have been tested for HIV and know the results,13.3 percent,
+9.8,,HIV counselling during antenatal care,53.9 percent,
+9.9,,HIV testing during antenatal care,46.9 percent,
+Sexual behaviour,9.10,,Young women who have never had sex,96.4 percent
+9.11,,Sex before age 15 among young women,3.7 percent,
+9.13,,Sex with multiple partners,0.3 percent,
+9.14,,Condom use during sex with multiple partners,20.5 percent,
+9.15,,Sex with non-regular partners,1.4 percent,
+9.16,6.2,Condon use with non-regular partners,61.6 percent,
+Orphaned children,9.17,,Children’s living arrangements (Not living with biological parents),7.4 percent
+9.18,,Prevalence of children with at least one parent dead,5.4 percent,

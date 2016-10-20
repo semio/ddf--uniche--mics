@@ -1,0 +1,71 @@
+0,1,2,3,4,5,6
+TopIC,MICS INDICATor,MDG,INDICATor,VAlUe IN 2000,VAlUe IN 2006,UNIT
+,NUMber,lINkAGe,,,,
+CHIlD MorTAlITY,,,,,,
+Child mortality,1,13,Under-five mortality rate,72.01,47.0,per
+,,,,,,thousand
+2,14,Infant mortality rate,54.01,37.0,per,
+,,,,,thousand,
+NUTrITIoN,,,,,,
+Nutritional status,6,4,Underweight prevalence,13.6,12.4,percent
+7,,Stunting prevalence,10.8,13.7,percent,
+8,,Wasting prevalence,10.6,7.6,percent,
+Breastfeeding,45,,Timely initiation of breastfeeding (within 1 hour),NA,43.1,percent
+15,,Exclusive breastfeeding rate (under 6 months),15.32,21.4,percent,
+Low birth weight,9,,Low birth weight infants,11.2,18.9,percent
+CHIlD HeAlTH,,,,,,
+Immunization,25,,Tuberculosis immunization coverage,97.33,96.0,percent
+28,15,MMR immunization coverage,91.74,89.7,percent,
+Care of illness,33,,Use of oral rehydration therapy (ORT),69.35,51.7,percent
+23,,Care seeking for suspected pneumonia,77.6,64.1,percent,
+Malaria,38,,Under-fives sleeping under mosquito nets,6.5,69.7,percent
+eNVIroNMeNT,,,,,,
+Water and Sanitation,11,30,Use of improved drinking water sources,83.3,91.2,percent
+13,,Water treatment,NA,49.8,percent,
+12,31,Use of improved sanitation facilities,NA,97.5,percent,
+Solid fuel use,24,29,Wood and charcoal use,NA,10.6,percent
+reproDUCTIVe HeAlTH,,,,,,
+Contraception and unmet need,21,19c,Prevalence of contraceptive use,37.56,34.2,percent
+98,,Unmet need for family planning,NA,32.4,percent,
+99,,Demand satisfied for family planning,NA,51.4,percent,
+Maternal and newborn health,20,,Antenatal care (at least once),80.97,81.4,percent
+4,17,Skilled attendant at delivery,85.67,83.3,percent,
+5,,Institutional deliveries,NA,82.6,percent,
+TopIC,MICS INDICATor,MDG,INDICATor,VAlUe IN 2000,VAlUe IN 2006,UNIT
+,NUMber,lINkAGe,,,,
+CHILD DEVELOPMENT,,,,,,
+Child development,46,,Support for learning (4 or more activities),NA,82.3,percent
+47,,Father’s support for learning,NA,51.2,percent,
+48,,Support for learning: children’s books,NA,54.4,percent,
+49,,Support for learning: non-children’s books,NA,55.4,percent,
+50,,Support for learning: materials for play,NA,40.0,percent,
+51,,Non-adult care (without adult supervision),NA,11.3,percent,
+EDUCATION9,,,,,,
+Education,52,,Pre-school enrolment,35.1,49.2,percent
+53,,School readiness,NA,65.0,percent,
+54,,Net intake rate in primary education,NA,78.7,percent,
+55,6,Net primary school enrolment rate,97.7,96.2,percent,
+56,,Net secondary school enrolment rate,NA,69.4,percent,
+57,7,Children reaching grade five,97.0,96.8,percent,
+58,,Transition rate to secondary school,NA,67.0,percent,
+59,7b,Primary completion rate,NA,71.4,percent,
+61,9,Gender parity index,,,,
+primary school,1.1,1.0,ratio,,,
+secondary school,NA,1.1,ratio,,,
+CHILD PROTECTION,,,,,,
+Birth registration,62,,Birth registration,96.5,93.3,percent
+Child labour,71,,Child labour,27.0,16.4,percent
+Child discipline,74,,Any psychological/physical punishment,NA,73.8,percent
+Support to orphaned children,75,,Prevalence of orphans,5.1,5.9,percent
+78,,Children living without a biological parent,8.5,10.2,percent,
+Early marriage,68,,Young women aged 15-19 currently married/ in union,NA,14.4,percent
+Domestic violence,100,,Attitudes of acceptance towards domestic violence,NA,17.9,percent
+HIV/AIDS,,,,,,
+HIV/AIDS,82,19b,Comprehensive knowledge about HIV prevention among young people (15-24 years),53.1,50.3,percent
+knowledge and attitudes,,,,,,
+89,,Knowledge of mother-to-child transmission of HIV,42.3,57.7,percent,
+86,,Non-discriminatory attitude towards people with HIV/AIDS,39.2,35.8,percent,
+87,,Women who know where to be tested for HIV,69.0,80.6,percent,
+88,,Women who have been tested for HIV,15.7,31.8,percent,
+90,,Counselling coverage for the prevention of mother-to-child transmission of HIV,NA,67.0,percent,
+91,,Testing coverage for the prevention of mother-to-child transmission of HIV,NA,55.8,percent,

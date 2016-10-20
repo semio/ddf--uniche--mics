@@ -1,0 +1,404 @@
+0,1,2,3,4,5
+Mortalité de la petite enfance,,,,,
+Indicateur MICS,,,,Description,ValeurA
+,1.1,,Quotient de mortalité néonatale,Probabilité de décéder dans le premier mois de vie,28
+,1.2,OMD 4.2,Quotient de mortalité Infantile,Probabilité de décéder entre la naissance et le premier anniversaire,60
+,1.3,,Quotient de mortalité post-néonatale,Différence entre les quotients de mortalité infantile et néonatale,32
+,1.4,,Quotient de mortalité juvénile,Probabilité de décéder entre le premier et le cinquième anniversaire,46
+,1.5,OMD 4.1,Quotient de mortalité infanto-juvénile,Probabilité de décéder entre la naissance et le cinquième anniversaire,103
+A La valeur de l’indicateur s’exprime pour 1 000 naissances vivantes et fait référence à la période de 5 ans avant l’enquête,,,,,
+Etat Nutritionneli,,,,,
+Indicateur MICS,,,,Description,Valeur
+,,,Prévalence de l’insuffisance,Pourcentage d’enfants de moins de 5 ans qui se situent,
+,,,pondérale,,
+,2.1a,OMD 1.8,Modérée et sévère (-2 SD),(a) en-dessous de moins 2 écarts-type (modéré et sévère),"14,8"
+,2.1b,,Sévère (-3 SD),(b) en-dessous de moins 3 écarts-type (sévère),"4,2"
+,,,,,
+,,,,,
+,,,,,
+,,,,de la médiane poids-pour-âge du standard de l’OMS,
+,,,Prévalence du retard de croissance,Pourcentage d’enfants de moins de 5 ans qui se situent,
+,2.2a,,Modérée et sévère (-2 SD),(a) en-dessous de moins 2 écarts-type (modéré et sévère),"31,7"
+,2.2b,,Sévère (-3 SD),(b) en-dessous de moins 3 écarts-type (sévère),"12,9"
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,2.3a,,Prévalence de l’émaciation,Pourcentage d’enfants de moins de 5 ans qui se situent,
+,,,Modérée et sévère (-2 SD),(a) en-dessous de moins 2 écarts-type (modéré et sévère),"5,2"
+,,,Sévère (-3 SD),(b) en-dessous de moins 3 écarts-type (sévère),"1,3"
+,2.3b,,,,
+,,,,,
+,,,,,
+,2.3c,,Prévalence de l’obésité,Pourcentage d’enfants de moins de 5 ans qui se situent au-dessus de 2 écarts-type par rapport à la médiane poids-pour-taille du standard de l’OMS,"6,7"
+Allaitement et alimentation des enfants,,,,,
+Indicateur,,,,Valeur,
+MICS Indicateur,,,,,
+,2.5,,Enfants allaités,"Pourcentage de femmes qui ont eu une naissance vivante dans les 2 ans précédant l’enquête et qui ont allaité leur dernier enfant né vivant, à n’importe quel moment","95,8"
+,2.6,,Initiation précoce de,Pourcentage de femmes qui ont eu une naissance vivante dans les 2 dernières années qui ont allaité leur dernier nouveau-né dans la première heure après la naissance,"31,2"
+l’allaitement,,,,,
+,2.7,,Allaitement exclusif des moins de 6 mois,Pourcentage de nourrissons de moins de 6 mois qui sont exclusivement allaitésii,"28,2"
+,2.8,,Allaitement prédominant des moins de 6 mois,Pourcentage de nourrissons de moins de 6 mois qui ont reçu l’allaitement maternel comme source prédominante d’alimentation durant le jour précédentiii,"69,8"
+,2.9,,Allaitement continu à 1 an,Pourcentage d’enfants de 12-15 mois qui ont été allaités durant le jour précédent,"70,3"
+,2.1,,Allaitement continu à 2 ans,Pourcentage d’enfants de 20-23 mois qui ont été allaités durant le jour précédent,"18,5"
+,2.11,,Durée médiane de,Age en mois où 50 pour cent d’enfants de 0-35 mois n’ont,"16,8"
+l’allaitement,,,,,
+,2.12,,Allaitement approprié selon,Pourcentage d’enfants de 0-23 mois qui ont été nourris de façon adéquateivle jour précédent,"49,3"
+l’âge,,,,,
+,2.13,,Introduction d’aliments,"Pourcentage de nourrissons de 6-8 mois qui ont reçu des aliments solides, semi-solides ou mous pendant le jour précédent","82,7"
+"solides, semi-solides ou mous",,,,,
+,2.14,,Fréquence des repas lactés pour les enfants non allaités,Pourcentage d’enfants de 6-23 mois non allaités qui ont reçu au moins 2 repas lactés durant le jour précédent,"22,7"
+,2.15,,Fréquence minimum des repas,"Pourcentage d’enfants de 6-23 mois qui ont reçu des aliments solides, semi-solides ou mous (plus des repas lactés pour les enfants non-allaités) le nombre minimum de foisvou plus durant le jour précédent","59,4"
+,2.16,,Diversité minimum alimentaire,Pourcentage d’enfants de 6-23 mois qui ont reçu des aliments,"32,9"
+,,,,,
+,2.17a,,Régime alimentaire minimum,Pourcentage d’enfants de 6-23 mois allaités qui ont reçu au moins la diversité alimentaire minimum et la fréquence minimum des repas durant le jour précédent,"20,9"
+,2.17b,,acceptable,"Pourcentage d’enfants de 6-23 mois non allaités qui ont reçu au moins 2 repas lactés et qui ont reçu la diversité alimentaire minimum, lait non inclus et la fréquence minimum des repas durant le jour précédent","9,3"
+,2.18,,Alimentation au biberon,Pourcentage d’enfants de 0-23 mois qui ont pris un biberon durant le jour précédent,"14,0"
+Iodation du sel,,,,,
+Indicateur MICS,,,,Description,Valeur
+,2.19,,,Consommation de sel iodé,Pourcentage de ménages avec du sel testé à 15 parts par
+,,,,million ou plus d’iodate,
+Faibles poids à la naissance,,,,,
+Indicateur,,,,Valeur,
+MICS Indicateur,,,,,
+,2.2,,Nourrissons de faible poids à la naissance,Pourcentage de naissances vivantes les plus récentes dans les 2 dernières années qui pèsent moins de 2 500 g à la naissance,"9,0"
+,2.21,,Nourrissons pesés à la naissance,Pourcentage de naissances vivantes les plus récentes dans les 2 dernières années qui ont été pesées à la naissance,"61,5"
+Vaccinations,,,,,
+Indicateur MICS,,,,Description,Valeur
+,3.1,,Couverture vaccinale de la tuberculose,Pourcentage d’enfants de 12-23 mois qui ont reçu le vaccin du BCG avant leur premier anniversaire,"91,2"
+,3.2,,Couverture vaccinale de la Polio,Pourcentage d’enfants de 12-23 mois qui ont reçu la troisième dose du vaccin contre la Polio (Polio3) avant leur premier anniversaire,"84,5"
+,3.3,,Couverture vaccinale de,Pourcentage d’enfants de 12-23 mois qui ont reçu la,"79,6"
+,3.5,,"la Diphtérie, Tétanos et","troisième dose du vaccin Pentavalent (DTCoq3, Hep3 et","79,6"
+,3.6,,"Coqueluche (DTCoq),",Hib3) avant leur premier anniversaire,"79,6"
+Hépatite B (Hep) et,,,,,
+Haemophilus Influenza,,,,,
+de type B (Hib),,,,,
+,3.4,OMD 4.3,Couverture vaccinale de la rougeole,Pourcentage d’enfants de 12-23 mois qui ont reçu le vaccin contre la rougeole avant leur premier anniversaire,"79,9"
+,3.S1vii,,Couverture vaccinale de la Pneumonie,Pourcentage d’enfants de 12-23 mois qui ont reçu la troisième dose du vaccin Pneumo (Pneumo3) avant leur premier anniversaire,"78,9"
+,3.7,,Couverture vaccinale de la fièvre jaune,Pourcentage d’enfants de 12-23 mois qui ont reçu le vaccin contre la fièvre jaune avant leur premier anniversaire,"79,6"
+,3.8,,Couverture vaccinale complète,Pourcentage d’enfants de 12-23 mois qui ont reçu toutesviiiles vaccinations recommandées par le programme national de vaccination avant leur premier anniversaire,"64,4"
+Vaccination anti-tétanique,,,,,
+Indicateur,,,,Valeur,
+MICS Indicateur,,,,,
+,3.9,,Protection contre le tétanos néonatal,Pourcentage de femmes de 15-49 ans avec une naissance vivante dans les 2 dernières années qui ont reçu au moins deux doses de vaccin antitétanique dans l’intervalle de temps approprié avant la naissance la plus récente,"73,9"
+Diarrhée,,,,,
+Indicateur,,,,Valeur,
+MICS Indicateur,,,,,
+- Enfants avec diarrhée,,,,"20,0",
+,3.1,,Recherche de soins pour la diarrhée,Pourcentage d’enfants de moins de 5 ans avec diarrhée dans les 2 dernières semaines pour qui des conseils ou un traitement ont été recherchés auprès d’une structure/ personnel de santé,"25,2"
+,3.11,,Traitement de la diarrhée,Pourcentage d’enfants de moins de 5 ans avec diarrhée,"5,2"
+avec solution de,,,,,
+réhydratation orale (SRO),,,,,
+et zinc,,,,,
+,3.12,,Traitement de la diarrhée avec thérapie de réhydratation orale (TRO) et alimentation continue,"Pourcentage d’enfants de moins de 5 ans qui ont eu la diarrhée dans les 2 dernières semaines qui ont reçu une TRO (sachet de SRO, liquides SRO pré emballés, liquides- maison recommandés ou plus de liquides) et qui ont continué à être alimentés durant l’épisode de diarrhée","39,3"
+Symptômes d’Infection Respiratoire Aigüe (IRA),,,,,
+Indicateur,,,,Valeur,
+MICS Indicateur,,,,,
+,-,,Enfants avec symptômes,Pourcentage d’enfants de moins de 5 ans avec symptômes,"4,0"
+,,,d’IRA,d’IRA dans les 2 dernières semaines,
+,3.13,,Recherche de soins pour enfants avec symptômes d’IRA,Pourcentage d’enfants de moins de 5 ans avec symptômes d’IRA dans les 2 dernières semaines pour qui des conseils ou un traitement ont été recherchés auprès d’une structure/ personnel de santé,"28,1"
+,3.14,,Traitement antibiotique pour enfants avec symptômes d’IRA,Pourcentage d’enfants de moins de 5 ans avec symptômes d’IRA dans les 2 dernières semaines qui ont reçu des antibiotiques,"40,7"
+Utilisation de combustible solide,,,,,
+Indicateur,,,,Valeur,
+MICS Indicateur,,,,,
+,3.15,,Utilisation de combustible solide pour cuisine,Pourcentage de membres de ménages dans les ménages qui utilisent un combustible solide comme source première d’énergie domestique pour cuisiner,"80,4"
+Paludisme /Fièvre,,,,,
+Indicateur,,,,Valeur,
+MICS Indicateur,,,,,
+,-,,Enfants avec fièvre,Pourcentage d’enfants de moins de 5 ans avec fièvre dans,"25,6"
+,,,,,
+,,,Disponibilité de Moustiquaires Imprégnées d’Insecticide (MII) dans,Pourcentage de ménages avec :,
+,3.16a,,,(a) au moins une MII,"70,9"
+,3.16b,,,(b) au moins une MII pour chaque deux personnes,"37,4"
+,,,,,
+les ménagesix,,,,,
+,3.18,OMD 6.7, Enfants de moins de 5 ans dormant sous MII,Pourcentage d’enfants de moins de 5 ans qui ont dormi,"54,8"
+,,,,,
+,3.19,,Population dormant sous MII,Pourcentage de membres des ménages qui ont dormi sous MII la nuit précédente,"47,5"
+,3.2,,Recherche de soins pour la fièvre,Pourcentage d’enfants de moins de 5 ans avec fièvre dans les 2 dernières semaines pour qui des conseils ou un traitement ont été recherchés auprès d’une structure/ personnel de santé,"32,9"
+,3.21,,Utilisation des tests de diagnostic de paludisme,Pourcentage d’enfants de moins de 5 ans avec fièvre dans les 2 dernières semaines et qui ont eu un test de paludisme au doigt ou au talon,"15,9"
+,3.22,OMD 6.8,Traitement antipaludéen des antipaludéen des enfants de moins de 5 ans,Pourcentage d’enfants de moins de 5 ans avec fièvre dans les 2 dernières semaines qui ont reçu n’importe quel traitement antipaludéen,"38,2"
+,,,,,
+,,,,,
+,,,,,
+,3.23,,Traitement à base d’Artémisinine Combinée (ACT) parmi les enfants qui ont reçu un traitement antipaludéen,Pourcentage d’enfants de moins de 5 ans qui ont eu de la fièvre dans les 2 dernières semaines qui ont eu reçu une ACT (ou autre traitement de première ligne en accord avec la politique nationale),"15,1"
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,3.24,,Femmes enceintes dormant sous MII,Pourcentage de femmes enceintes qui ont dormi sous MII la nuit précédente,"52,3"
+,3.25,,Traitement préventif intermittent contre le paludisme durant la grossesse,"Nombre de femmes 15-49 ans qui ont reçu 3 doses ou plus de SP/Fansidar, dont au moins une a été reçue lors d’une visite prénatale, durant leur dernière grossesse ayant abouti à une naissance vivante dans les 2 dernières années","26,0"
+Eau et assainissement,,,,,
+Indicateur MICS,,,,Description,Valeur
+,4.1,OMD 7.8,Utilisation de sources d’eau de boisson améliorées,Pourcentage de membres de ménages utilisant des sources d’eau de boisson améliorées,"72,9"
+,,,,,
+,4.2,,Traitement de l’eau,Pourcentage de membres des ménages dans les ménages utilisant de l’eau de sources non améliorées qui utilisent une méthode de traitement appropriée,"10,9"
+,4.3,OMD 7.9,Utilisation de toilettes améliorées,Pourcentage de membres des ménages utilisant des toilettes améliorées qui ne sont pas partagées,"34,9"
+,4.4,,Evacuation hygiénique des,Pourcentage d’enfants de 0-2 ans dont les dernières selles ont été évacuées de façon hygiénique,"70,6"
+excréments d’enfants,,,,,
+,4.5,,Lieu de lavage des mains,Pourcentage de ménages qui ont un lieu spécifique pour le lavage des mains dans lequel il y a de l’eau et du savon ou tout autre produit pour se laver,"14,9"
+,4.6,,Disponibilité de savon ou de tout autre produit pour se laver,Pourcentage de ménages qui ont du savon ou tout autre produit pour se laver,"82,3"
+Contraception et besoins non satisfaits,,,,,
+Indicateur MICS,,,,Description,Valeur
+,-,,Indice Synthétique de Fécondité (ISF),Indice Synthétique de FéconditéA des femmes de 15-49 ans,"4,9"
+,5.1,OMD 5.4,Taux de fécondité des adolescentes,Taux de fécondité par âge spécifique A des femmes de 15-19 ans,119
+,5.2,,Fécondité précoce,Pourcentage de femmes de 20-24 ans qui ont eu au moins,"27,5"
+,,,,une naissance vivante avant l’âge de 18 ans,
+,5.3,OMD 5.3,Taux de prévalence de la contraception,Pourcentage de femmes de 15-49 ans actuellement mariées ou en union qui utilisent (ou dont le partenaire utilise) une méthode de contraception (traditionnelle ou moderne),"34,4"
+,5.4,OMD 5.6,Besoins non-satisfaits,Pourcentage de femmes de 15-49 ans actuellement mariées ou en union qui sont fécondes et veulent espacer leurs naissances ou limiter le nombre d’enfants et qui n’utilisent pas actuellement une méthode de contraception,"18,0"
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+Indicateur MICS,,,,Description,Valeur
+,,OMD 5.5,,Couverture des soins prénatals,Pourcentage de femmes de 15-49 ans avec une naissance
+,,,,vivante dans les 2 dernières années qui ont été suivies,
+,,,,durant leur dernière grossesse ayant abouti à une,
+,,,,naissance vivante :,
+,5.5a,,,(a) au moins une fois par un personnel de santé qualifié,"82,8"
+,5.5b,,,(b) au moins 4 fois par n’importe quel prestataire de santé,"58,8"
+,5.6,,Contenu des soins prénatals,"Pourcentage de femmes de 15-49 ans avec une naissance vivante dans les 2 dernières années qui ont eu une prise de tension, ont donné des échantillons d’urine et de sang durant leur dernière grossesse qui a abouti à une naissance vivante","72,8"
+,5.7,OMD 5.2,Assistance qualifiée durant l’accouchement,Pourcentage de femmes de 15-49 ans avec une naissance vivante dans les 2 dernières années qui ont été assistées durant l’accouchement de la plus récente naissance vivante par du personnel de santé qualifié,"64,7"
+,5.8,,Accouchement en centre de santé,Pourcentage de femmes de 15-49 ans dont la plus récente naissance vivante au cours des 2 dernières années a été accouchée dans un centre de santé,"61,3"
+,5.9,,Accouchement par césarienne,Pourcentage de femmes de 15-49 ans dont la plus récente naissance vivante au cours des 2 dernières années a été accouchée par césarienne,"2,4"
+Consultations de santé post-natales,,,,,
+Indicateur,,,,,
+MICS Indicateur Description,,,,,
+,5.1,,Séjour post-partum dans          , Pourcentage de femmes de 15-49 ans qui sont restées dans une structure de santé une structure de santé 12 heures ou plus après,"72,6"
+l’accouchement de leur plus récente naissance vivante des,,,,,
+,,,,,
+,5.11,,Consultation de santé post-,Pourcentage de dernières naissances vivantes dans les 2 natale du nouveau-né dernières années qui ont eu une consultation de santé,"68,5"
+post-natale dans la structure de santé ou à la maison juste après l’accouchement ou une consultation de santé post- natale dans les 2 jours après la naissance,,,,,
+,5.12,,Consultation de santé post-   ,  Pourcentage de femmes de 15-49 ans qui ont eu une natale de la mère consultation de santé dans la structure de santé ou à la,"65,0"
+maison juste après l’accouchement ou une consultation de santé dans les 2 jours après l’accouchement de leur plus récente naissance vivante des 2 dernières années,,,,,
+Développement de l’enfant,,,,,
+Indicateur,,,,Valeur,
+MICS Indicateur,,,,,
+,6.1,,Fréquentation du préscolaire,Pourcentage d’enfants de 36-59 mois qui fréquentent un,"27,6"
+,,,,,
+,6.2,,Soutien à l’apprentissage,Pourcentage d’enfants de 36-59 mois avec qui un adulte s’est engagé dans 4 ou plus activités de promotion d’apprentissage et de préparation scolaire dans les 3 derniers jours,"44,3"
+,6.3,,Soutien paternel à,Pourcentage d’enfants de 36-59 mois dont le père biologique s’est engagé dans 4 ou plus activités de promotion d’apprentissage et de préparation scolaire dans les 3 derniers jours,"3,7"
+l’apprentissage,,,,,
+,6.4,,Soutien maternel à,Pourcentage d’enfants de 36-59 mois dont la mère biologique s’est engagée dans 4 ou plus activités de promotion d’apprentissage et de préparation scolaire dans les 3 derniers jours,"13,5"
+l’apprentissage,,,,,
+,6.5,,Disponibilité de livres,Pourcentage d’enfants de moins de 5 ans qui ont au moins,"4,0"
+d’enfants,,,,,
+,6.6,,Disponibilité de jouets,Pourcentage d’enfants de moins de 5 ans qui jouent avec,"52,5"
+,,,,,
+,6.7,,Garde inadéquate,Pourcentage d’enfants de moins de 5 ans laissés seuls ou sous la garde d’un autre enfant de moins de 10 ans durant plus d’1 heure au moins une fois dans la semaine précédente,"34,4"
+,6.8,,Indice de développement de la petite enfance,"Pourcentage d’enfants de 36-59 mois qui sont sur la bonne voie de développement dans au moins trois des quatre domaines suivants : lecture -calcul, physique, socio-affectif, apprentissage","61,2"
+Alphabétisation et éducationx,,,,,
+Indicateur MICS,,,,Description,Valeur
+,7.1,OMD 2.3,Taux d’alphabétisation des jeunes,Pourcentage de jeunes de 15-24 ans capables de lire une phrase courte et simple sur la vie quotidienne ou qui sont allées à l’école secondaire ou plus.,
+,,,,Femmes,"67,9"
+,,,,) Hommes,"82,6"
+,7.2,,Préparation à l’école,Pourcentage d’enfants en 1ère année d’étude primaire qui sont allés au préscolaire l’année scolaire précédente,"33,0"
+,7.3,,Taux net d’admission à l’école primaire,Pourcentage d’enfants en âge d’aller à l’école primaire qui sont entrés en première année de l’école primaire,"56,9"
+,7.4,OMD 2.1,Taux net de fréquentation du primaire (ajusté)),Pourcentage d’enfants ayant l’âge d’entrer au cycle primaire,"85,4"
+,,,,qui fréquentent une école primaire ou secondaire,
+,7.5,,Taux net de,Pourcentage d’enfants ayant l’âge d’entrer au cycle secondaire,"52,7"
+fréquentation du secondaire (ajusté),,,,,
+,7.6,OMD 2.2,Enfants atteignant la dernière classe du primaire,Proportion d’enfants commençant la 1ère année d’étude du,"93,2"
+,,,,primaire et finissant par atteindre la dernière année de ce cycle,
+,7.7,,Taux d’achèvement du,Nombre d’enfants fréquentant la dernière année de l’école primaire (redoublants exclus) divisé par le nombre d’enfants en âge de compléter le niveau primaire (âge approprié à la dernière classe du niveau primaire),"81,0"
+primaire,,,,,
+,7.8,,Taux de transition à,Nombre d'enfants fréquentant la dernière année de l’école primaire durant l'année scolaire précédente qui sont dans la première année du secondaire au cours de l'année scolaire en cours divisé par le nombre d'enfants fréquentant la dernière année de l'école primaire durant l'année scolaire précédente,"77,8"
+l’école secondaire,,,,,
+,7.9,OMD 3.1,Indice de parité entre les sexes (niveau primaire),Ratio net de fréquentation du primaire (ajusté) des filles divisé par le ratio net de fréquentation du primaire (ajusté) des garçons,"0,96"
+,7.1,OMD 3.1,Indice de parité entre les sexes (niveau secondaire),Ratio net de fréquentation du secondaire (ajusté) des filles divisé par le ratio net de fréquentation du secondaire (ajusté) des garçons,"0,92"
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+Indicateur,,,,Valeur,
+MICS Indicateur,,,,,
+,8.1,,Enregistrement des naissances,Pourcentage d’enfants de moins de 5 ans dont la naissance a été reportée comme enregistrée,"66,1"
+Travail des enfants,,,,,
+Indicateur,,,,Valeur,
+MICS Indicateur,,,,,
+,8.2,,Travail des enfants,Pourcentage d’enfants de 5-17 ans qui sont impliqués dans le travail des enfantsxi,"47,0"
+Discipline des enfants,,,,,
+Indicateur,,,,Valeur,
+MICS Indicateur,,,,,
+,8.3,,Discipline violente,Pourcentage d’enfants de 1-14 ans qui ont subi une agression psychologique ou un châtiment corporel durant le mois dernier,"85,0"
+Mariage précoce et polygamie,,,,,
+Indicateur MICS,,,,Description,Valeur
+,8.4,,Mariage avant 15 ans,Pourcentage de personnes de 15-49 ans qui ont été,
+,,,,mariées ou en union avant l’âge de 15 ans,
+,,,,(a) Femmes,"11,4"
+,,,,(b) Hommes,"1,0"
+,8.5,,Mariage avant 18 ans,Pourcentage de personnes de 20-49 ans qui ont été,
+,,,,mariées ou en union avant l’âge de 18 ans,
+,,,,(a) Femmes,"36,0"
+,,,,(b) Hommes,"5,4"
+,8.6,,Jeunes de 15-19 ans , Pourcentage de jeunes de 15-19 ans qui sont mariés ou en actuellement mariés ou en union,
+,,,,union (a) Femmes,"22,3"
+,,,,(b) Hommes,"1,3"
+,8.7,,Polygamie,Pourcentage de personnes de 15-49 ans qui sont dans une,
+,,,,union polygame,
+,,,,(a) Femmes,"24,1"
+,,,,(b) Hommes,"13,8"
+,8.8a,,Différence d’âge entre,Pourcentage de jeunes femmes qui sont mariées ou en,
+,8.8b,,conjoint,"union et dont le conjoint est de 10 ans ou plus, plus âgé",
+,,,,qu’elles,
+,,,,"(a) parmi les femmes de 15-19 ans,","42,5"
+,,,,(b) parmi les femmes de 20-24 ans,"39,3"
+Attitudes vis-à-vis de la violence domestique,,,,,
+Indicateur,,,,Valeur,
+MICS Indicateur,,,,,
+,8.12,,Attitudes vis-à-vis de la,Pourcentage de personnes de 15-49 ans qui estiment qu’il,
+,,,violence domestique,est justifié qu’un mari frappe ou batte sa femme au moins,
+,,,,"dans les circonstances suivantes : (1) elle sort sans le lui dire,",
+,,,,"(2) elle néglige les enfants, (3) elle se dispute avec lui, (4) elle",
+,,,,"refuse d’avoir des rapports sexuels avec lui, (5) elle brûle la",
+,,,,nourriture,
+,,,,(a) Femmes,"36,1"
+,,,,(b) Hommes,"39,0"
+Arrangement de vie des enfants,,,,,
+Indicateur,,,,Valeur,
+MICS Indicateur,,,,,
+,8.13,,Arrangement de vie des enfants,Pourcentage d’enfants de 0-17 ans qui ne vivent avec aucun de leurs parents biologiques,"16,1"
+,8.14,,Prévalence d’enfants dont un ou les deux parents sont décédés,Pourcentage d’enfants de 0-17 ans dont un ou les deux parents biologiques sont décédés,"9,9"
+,8.15,,Enfants dont au moins un,Pourcentage d’enfants 0-17 ans dont au moins un des,"1,0"
+des parents vit à l’étranger,,,,,
+Connaissances et attitudes vis-à-vis du VIH/SIDA,,,,,
+Indicateur,,,,Valeur,
+MICS Indicateur,,,,,
+,-,,Connaissance du SIDA,Pourcentage de personnes de 15-49 ans qui ont entendu,
+,,,,parler du SIDA,
+,,,,(a) Femmes,"95,6"
+,,,,(b) Hommes,"98,8"
+,9.1,OMD 6.3 Connaissance de la,None,Pourcentage de jeunes de 15-24 ans qui identifient,
+,,,prévention du VIH parmi,correctement les moyens de prévenir la transmission,
+,,,les jeunes,sexuelle du VIHxii et qui rejettent les principales idées,
+,,,,fausses sur la transmission du VIHxiii,
+,,,,(a) Femmes,"32,0"
+,,,,(b) Hommes,"41,2"
+,9.2,,Connaissance de la,Pourcentage de personnes de 15-49 ans qui identifient,
+,,,transmission mère-enfant,correctement tous les trois moyensxiv de transmission mère-,
+,,,du VIH,enfant du VIH,
+,,,,(a) Femmes,"50,0"
+,,,,(b) Hommes,"43,5"
+,9.3,,Attitudes d’acceptation à,Pourcentage de personnes de 15-49 ans exprimant leur,
+,,,l’égard des personnes,acceptation à toutes les 4 questionsxv vis-à-vis des,
+,,,vivant avec le VIH,personnes vivant avec le VIH,
+,,,,(a) Femmes,"14,2"
+,,,,(b) Hommes,"18,1"
+Test VIH,,,,,
+Indicateur,,,,Valeur,
+MICS Indicateur,,,,,
+,9.4,,Personnes qui,Pourcentage de personnes de 15-49 ans qui déclarent connaitre,
+,,,connaissent un lieu où,un lieu où se faire tester pour le VIH,
+,,,se faire tester pour le,(a) Femmes,"83,4"
+,,,VIH,(b) Hommes,"87,6"
+,9.5,,Personnes qui ont été testées pour le VIH et qui connaissent le résultat,Pourcentage de personnes de 15-49 ans qui ont eu un test de dépistage du VIH durant les 12 derniers mois et qui connaissent leur résultat,
+,,,,Femmes,"25,1"
+,,,,) Hommes,"22,5"
+,9.6,,Jeunes sexuellement,Pourcentage de jeunes de 15-24 ans qui ont eu des rapports,
+,,,actifs qui ont été,"sexuels dans les 12 derniers mois, ont eu un test de VIH durant",
+,,,testés pour le VIH et,les 12 derniers mois et qui connaissent leur résultat,
+,,,qui connaissent le,(a) Femmes,"30,7"
+,,,résultat,(b) Hommes,"22,5"
+,9.7,,Conseils sur le VIH pendant les visites prénatales,Pourcentage de femmes de 15-49 ans qui ont eu une naissance vivante dans les 2 dernières années et ont eu des consultations prénatales durant la grossesse de leur naissance la plus récente et qui rapportent avoir reçu du counseling sur le VIH pendant les consultations prénatales,"50,6"
+,9.8,,Test de VIH pendant les visites prénatales,Pourcentage de Femmes de 15-49 ans qui ont eu une naissance vivante dans les 2 dernières années et ont eu des consultations prénatales durant la grossesse de leur naissance la plus récente qui rapportent qu’on leur a proposé et qu’elles ont accepté un test de dépistage VIH pendant leurs consultations prénatales et qui ont reçu leur résultat,"56,4"
+Comportement sexuel,,,,,
+Indicateur,,,,Valeur,
+MICS Indicateur,,,,,
+,9.9,,Jeunes qui n’ont jamais eu de relations sexuelles,Pourcentage de jeunes de 15-24 ans jamais mariés ou en union,
+,,,,qui n’ont jamais eu de relations sexuelles,
+,,,,Femmes,"51,8"
+,,,,) Hommes,"44,8"
+,9.1,,Relations sexuelles avant 15 ans chez les jeunes,Pourcentage de jeunes de 15-24 ans qui ont eu des relations sexuelles avant 15 ans,
+,,,,Femmes,"16,0"
+,,,,) Hommes,"9,3"
+,9.11,,Différence d’âges entre,Pourcentage de femmes de 15-24 ans qui ont eu des relations sexuelles dans les 12 derniers mois avec un partenaire de 10 ans ou plus leur ainé,"29,7"
+partenaires sexuels,,,,,
+,9.12,,Partenaires sexuels multiples,Pourcentage de personnes de 15-49 qui ont eu des rapports,
+,,,,sexuels avec plus d’un partenaire dans les 12 derniers mois,
+,,,,Femmes,"5,1"
+,,,,) Hommes,"25,7"
+,9.13,,Utilisation de condom lors du dernier rapport sexuel parmi les personnes qui ont de multiples partenaires,Pourcentage de personnes de 15-49 ans qui rapportent avoir eu des rapports sexuels avec plus d’un partenaire dans les 12 derniers mois et rapportent également qu’un condom a été utilisé lors du dernier rapport sexuel,
+,,,,Femmes,"43,1"
+,,,,) Hommes,"49,5"
+,9.14,,Rapports sexuels avec partenaires non réguliers,Pourcentage de jeunes de 15-24 ans sexuellement actifs qui ont eu des rapports sexuels dans les 12 derniers mois avec un partenaire autre que le conjoint ou le/la partenaire cohabitant,
+,,,,Femmes,"29,6"
+,,,,) Hommes,"44,7"
+Comportement sexuel,,,,,
+Indicateur,,,,Valeur,
+MICS Indicateur,,,,,
+,9.15,6.2,Utilisation de condom,"Pourcentage de jeunes de 15-24 ans qui rapportent avoir utilisé un condom durant le dernier rapport sexuel avec un partenaire autre que le conjoint ou le partenaire cohabitant, dans les 12 derniers mois",
+,,,avec partenaires non réguliers,Femmes,"61,5"
+,,,,) Hommes,"79,2"
+Orphelins,,,,,
+Indicateur,,,,,
+MICS Indicateur Description Valeur,,,,,
+,9.16,6.4,Ratio de fréquentation,Proportion qui fréquente l’école parmi les enfants de 10-14 ans dont les 2 parents sont vivants et qui vivent avec un ou les deux parents," 0,86"
+,,,,,
+Accès aux mass media,,,,,
+Indicateur,,,,,
+MICS Indicateur Description Valeur,,,,,
+,10.1,,"Exposition aux mass media Pourcentage de personnes de 15-49 ans qui, au moins une",,
+,,,Femmes," 5,7",
+,,,) Hommes," 15,3",
+"fois par semaine, lisent un journal ou un magazine, écoutent la radio et regardent la télévision",,,,,
+Utilisation des technologies d’information/communication,,,,,
+Indicateur,,,,Valeur,
+MICS Indicateur,,,,,
+,10.2,,Utilisation d’ordinateurs,Pourcentage de jeunes de 15-24 ans qui ont utilisé un,
+,,,,ordinateur durant les 12 derniers mois,
+,,,,(a) Femmes,"32,8"
+,,,,(b) Hommes,"47,5"
+,10.3,,Utilisation d’Internet,Pourcentage de jeunes de 15-24 ans qui ont utilisé Internet,
+,,,,durant les 12 derniers mois,
+,,,,(a) Femmes,"18,9"
+,,,,(b) Hommes,"39,0"
+Bien-être subjectif,,,,,
+Indicateur,,,,Valeur,
+MICS Indicateur,,,,,
+,11.1,,Satisfaction de vie,Pourcentage de jeunes de 15-24 ans qui sont très satisfaits,
+,,,,ou satisfaits de leur vie en général,
+,,,,(a) Femmes,"79,8"
+,,,,(b) Hommes,"79,3"
+,11.2,,Bonheur,Pourcentage de jeunes de 15-24 ans qui sont très heureux,
+,,,,ou heureux de leur vie en général,
+,,,,(a) Femmes,"82,4"
+,,,,(b) Hommes,"79,8"
+,11.3,,Perception d’une vie,Pourcentage de jeunes de 15-24 ans qui pensent que leur vie s’est améliorée durant la dernière année et qui s’attendent à ce que leur vie soit meilleure dans un an,
+meilleure,,,,Femmes,"58,7"
+,,,,) Hommes,"61,1"
+Consommation d’alcool,,,,,
+Indicateur,,,,Valeur,
+MICS Indicateur,,,,,
+,12.3,,Consommation d’alcool,Pourcentage de personnes de 15-49 ans qui ont bu au,
+,,,,moins une boisson alcoolisée n’importe quand durant le,
+,,,,mois dernier,
+,,,,(a) Femmes,"10,4"
+,,,,(b) Hommes,"20,6"
+,12.4,,Consommation d’alcool,Pourcentage de personnes de 15-49 ans qui ont bu au,
+,,,avant 15 ans,moins un breuvage alcoolisé avant l’âge de 15 ans,
+,,,,(a) Femmes,"33,0"
+,,,,(b) Hommes,"52,2"

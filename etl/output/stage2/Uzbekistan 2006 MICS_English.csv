@@ -1,0 +1,114 @@
+0,1,2,3,4,5
+Topic,"MICS
+Indicator Number","MDG
+Indicator Number",Indicator,Value,
+CHILD MORTALITY,,,,,
+Child mortality,1,13,Under- ve mortality rate,57,per thousand
+2,14,Infant mortality rate,48,per thousand,
+NUTRITION,,,,,
+Nutritional status,6,4,Underweight prevalence,5.1,percent
+7,,Stunting prevalence,14.6,percent,
+8,,Wasting prevalence,3.3,percent,
+Breastfeeding,45,,Timely initiation of breastfeeding,67.1,percent
+15,,Exclusive breastfeeding rate,,,
+less than 6 months old,26.4,percent,,,
+less than 4 months old,36.9,percent,,,
+16,,Continued breastfeeding rate,,,
+at 12–15 months,78.3,percent,,,
+at 20–23 months,37.9,percent,,,
+17,,Timely complementary feeding rate,45.2,percent,
+18,,Frequency of complementary feeding,28.5,percent,
+19,,Adequately fed infants,27.6,percent,
+Salt iodization,41,,Iodized salt consumption,53.1,percent
+Vitamin A,42,,Vitamin A supplementation (under- ves),72.0,percent
+Low birth weight,9,,Low birth weight infants,4.8,percent
+10,,Infants weighed at birth,99.2,percent,
+CHILD HEALTH,,,,,
+Immunization,25,,Tuberculosis immunization coverage,99.2,percent
+26,,Polio immunization coverage,86.8,percent,
+27,,DPT immunization coverage,90.4,percent,
+28,15,Measles immunization coverage,96.0,percent,
+31,,Fully immunized children,81.1,percent,
+29,,Hepatitis B immunization coverage,86.5,percent,
+Care of illness,33,,Use of oral rehydration therapy (ORT),78.8,percent
+34,,Home management of diarrhoea,16.6,percent,
+35,,"Received ORT or increased uids, and continued feeding",28.1,percent,
+23,,Care seeking for suspected pneumonia,67.7,percent,
+22,,Antibiotic treatment of suspected pneumonia,55.7,percent,
+Solid fuel use,24,29,Solid fuels,15.7,percent
+Source and cost of supplies,96,,Source of supplies (from public sources),,
+Antibiotics,12.3,percent,,,
+97,,Cost of supplies (median costs),,,
+Antibiotics,,,,,
+(public sources),—,UZS,,,
+(private sources),1000,UZS,,,
+Oral rehydration salts,,,,,
+(public sources),—,UZS,,,
+(private sources),200,UZS,,,
+Topic,"MICS
+Indicator Number","MDG
+Indicator Number",Indicator,Value,
+ENVIRONMENT,,,,,
+Water and Sanitation,11,30,Use of improved drinking water sources,89.6,percent
+13,,Water treatment,98.7,percent,
+12,31,Use of improved sanitation facilities,99.4,percent,
+14,,Disposal of child’s faeces,58.6,percent,
+REPRODUCTIVE HEALTH,,,,,
+Contraception and unmet need,21,19c,Contraceptive prevalence,64.9,percent
+98,,Unmet need for family planning,7.8,percent,
+99,,Demand satis ed for family planning,89.3,percent,
+Maternal and new- born health,20,,Antenatal care,99.0,percent
+44,,Content of antenatal care,99.1,percent,
+,,Blood test taken,97.7,percent,
+,,Blood pressure measured,97.7,percent,
+,,Urine specimen taken,97.6,percent,
+,,Weight measured,89.8,percent,
+4,17,Skilled attendant at delivery,99.9,percent,
+5,,Institutional deliveries,97.3,percent,
+Maternal mortality,3,16,Maternal mortality ratio,28,"per 100,000"
+CHILD DEVELOPMENT,,,,,
+Child development,46,,Support for learning,71.3,percent
+47,,Father’s support for learning,46.9,percent,
+48,,Support for learning: children’s books,42.5,percent,
+49,,Support for learning: non-children’s books,77.8,percent,
+50,,Support for learning: materials for play,32.3,percent,
+51,,Non-adult care,5.0,percent,
+EDUCATION,,,,,
+Education Literacy,52,,Pre-school attendance,19.7,percent
+53,,School readiness,26.9,percent,
+54,,Net intake rate in primary education,88.9,percent,
+55,6,Net primary school attendance rate,95.8,percent,
+56,,Net secondary school attendance rate,93.1,percent,
+57,7,Children reaching grade ve,99.5,percent,
+58,,Transition rate to secondary school,100.0,percent,
+59,7b,Primary completion rate,96.6,percent,
+61,9,Gender parity index,,,
+primary school,1.00,ratio,,,
+secondary school,0.98,ratio,,,
+60,8,Adult literacy rate,100.0,percent,
+CHILD PROTECTION,,,,,
+Birth registration,62,,Birth registration,99.9,percent
+Child labour,71,,Child labour,2.0,percent
+72,,Labourer students,93.3,percent,
+73,,Student labourers,2.2,percent,
+Topic,"MICS
+Indicator Number","MDG
+Indicator Number",Indicator,Value,
+Early marriage,67,,Marriage before age 15,0.3,percent
+Marriage before age 18,12.5,percent,,,
+68,,Young women aged 15–19 currently married/ in union,4.9,percent,
+Disability,101,,Child disability,2.0,percent
+Orphaned children,75,,Prevalence of orphans,4.1,percent
+78,,Children’s living arrangements,1.9,percent,
+HIV/AIDS AND SEXUAL BEHAVIOUR,,,,,
+HIV/AIDS knowl- edge and attitudes,82,19b,Comprehensive knowledge about HIV prevention among young people,35.3,percent
+89,,Knowledge of mother-to-child transmission of HIV,73.4,percent,
+86,,Attitude towards people with HIV/AIDS,2.7,percent,
+87,,Women who know where to be tested for HIV,54.5,percent,
+88,,Women who have been tested for HIV,32.8,percent,
+90,,Counselling coverage for the prevention of mother-to-child transmission of HIV,69.3,percent,
+91,,Testing coverage for the prevention of mother-to-child trans- mission of HIV,65.4,percent,
+Sexual behaviour,84,,Age at rst sex among young people,—,percent
+92,,Age-mixing among sexual partners,2.8,percent,
+83,19a,Condom use with non-regular partners,60.5,percent,
+85,,Higher risk sex in the last year,3.6,percent,

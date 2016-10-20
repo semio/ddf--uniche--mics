@@ -1,0 +1,99 @@
+0,1,2,3,4,5
+MICS,MDG,,Value,,
+Topic     Indicator Number,Indicator Indicator Number,,,,
+CHILD MORTALITY,,,,,
+Child mortality,1,13,Under-five mortality rate Infant mortality rate,31,per thousand per thousand
+,2,14,,26,
+NUTRITION,,,,,
+Breastfeeding,45,,Timely initiation of breastfeeding Exclusive breastfeeding rate Continued breastfeeding rate,63,Percent
+,,,at 12-15 months,,
+,,,at 20-23 months,,
+,,,Timely complementary feeding rate Frequency of complementary feeding Adequately fed infants,,
+,15,15,Percent,,
+,16,,,,
+,,49,Percent Percent,,
+,,24,,,
+,17,36,Percent,,
+,18,15,Percent,,
+,19,15,Percent,,
+Low birth,9,,Low birth weight infants,12,Percent
+weight,10,Infants weighed at birth,97,Percent,
+CHILD HEALTH,,,,,
+Immunization,25,,Tuberculosis immunization coverage,94,Percent
+,26,,Polio immunization coverage,80,Percent
+,27,,DPT immunization coverage,82,Percent
+,28,15,Measles immunization coverage,87,Percent
+,31,,Fully immunized children,63,Percent
+Tetanus toxoid,32,,Neonatal tetanus protection,65,Percent
+Care of illness,35,,"Received ORT or increased fluids, and continued",39,
+,,feeding,,Percent,
+,23,Care seeking for suspected pneumonia,75,Percent,
+,22,Antibiotic treatment of suspected pneumonia,52,Percent,
+ENVIRONMENT,,,,,
+Water and,11,30,Use of improved drinking water sources,94,percent
+Sanitation,13,,Water treatment,53,percent
+,12,31,Use of improved sanitation facilities,97,percent
+,14,,Disposal of child's faeces,36,percent
+REPRODUCTIVE HEALTH,,,,,
+Maternal and,20,,Antenatal care,91,percent
+newborn health,44,,Content of antenatal care,99,percent
+,4,17,Skilled attendant at delivery,97,percent
+,5,,Institutional deliveries,94,percent
+CHILD DEVELOPMENT,,,,,
+Child,46,,Support for learning,86,percent
+development,47,,Father's support for learning,41,percent
+,48,,Support for learning: children’s books,57,percent
+,49,,Support for learning: non-children’s books,87,percent
+,50,,Support for learning: materials for play,49,percent
+,51,,Non-adult care,4,percent
+Topic,MICS,MDG,,Value,
+,Indicator Number,Indicator Indicator Number,,,
+EDUCATION,,,,,
+Education,52,,Pre-school attendance School readiness,86,percent
+,,,Net intake rate in primary education Net primary school attendance rate Net secondary school attendance rate Children reaching grade five Transition rate to secondary school Primary completion rate,,
+,,,Gender parity index,,
+,,,primary school secondary school,,
+,53,,100,percent,
+,54,,89,percent,
+,55,6,97,percent,
+,56,,89,percent,
+,57,7,99,percent,
+,58,,97,percent,
+,59,7b,82,percent,
+,61,9,,,
+,,,1.00,ratio,
+,,,1.04,ratio,
+Literacy,60,8,Adult literacy rate,98,percent
+CHILD PROTECTION,,,,,
+Birth registration,62,,Birth registration,89,percent
+Child labour,71,,Child labour,6,percent
+,72,Labourer students,98,percent,
+,73,Student labourers,6,percent,
+Child discipline,74,,Child discipline,87,percent
+,,,Any psychological/physical punishment,,
+Early marriage,67,,Marriage before age 15,1.2,percent
+,,Marriage before age 18,10,percent,
+,68,Young women aged 15-19 currently married/in,5,percent,
+,,union,,,
+,69,Spousal age difference,,,
+,,20-24 years,25,percent,
+Domestic violence,100,,Attitudes towards domestic violence,6,percent
+Disability,101,,Child disability,15,percent
+Topic,MICS,MDG,,Value,
+,Indicator Number,Indicator Indicator Number,,,
+"HIV/AIDS, SEXUAL BEHAVIOUR, AND ORPHANED AND VULNERABLE CHILDREN",,,,,
+HIV/AIDS,82,19b,Comprehensive knowledge about HIV prevention,58,percent
+knowledge and,,,among young people,,
+attitudes,89,,Knowledge of mother- to-child transmission of HIV,59,percent
+,86,,Attitude towards people with HIV/AIDS,20,percent
+,87,,Women who know where to be tested for HIV,89,percent
+,88,,Women who have been tested for HIV,49,percent
+,90,,Counselling coverage for the prevention of mother-,83,percent
+,,,to-child transmission of HIV,,
+,91,,Testing coverage for the prevention of mother-to-,84,percent
+,,,child transmission of HIV,,
+Support to,75,,Prevalence of orphans,5,percent
+orphaned and vulnerable children,78,Children’s living arrangements Prevalence of vulnerable children,14,percent percent percent,
+,76,External support to children orphaned and made,7,,
+,81,,15,,
+,,vulnerable by HIV/AIDS,,,

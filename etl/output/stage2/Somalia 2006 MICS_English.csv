@@ -1,0 +1,106 @@
+0,1,2,3,4,5
+Topic,MICS,MDG,Indicator,,Value
+,Indicator Number,Indicator Number,,,
+CHILD MORTALITY,,,,,
+Child mortality,1,13,Under-five mortality rate,135,per thousand
+,2,14,Infant mortality rate,86,per thousand
+NUTRITION,,,,,
+Nutritional status,6,4,Underweight prevalence,36,Percent
+,7,,Stunting prevalence,38,Percent
+,8,,Wasting prevalence,11,Percent
+Breastfeeding,45,,Timely initiation of breastfeeding,26,Percent
+,15,,Exclusive breastfeeding rate,13,Percent
+,16,,Continued breastfeeding rate,,
+,,,at 12-15 months,,
+,,,at 20-23 months,,
+,,50,Percent Percent,,
+,,35,,,
+,17,,Timely complementary feeding rate,15,Percent
+,18,,Frequency of complementary feeding,12,Percent
+,19,,Adequately fed infants,11,Percent
+Salt iodization,41,,Iodized salt consumption,1.2,Percent
+Vitamin A,42,,Vitamin A supplementation (under-fives),24,Percent
+,43,,Vitamin A supplementation (post-partum mothers),9,Percent
+Low birth weight,10,,Infants weighed at birth,5,Percent
+CHILD HEALTH,,,,,
+Immunization,25,,Tuberculosis immunization coverage,26,Percent
+,26,,Polio immunization coverage,35,Percent
+,27,,DPT immunization coverage,12,Percent
+,28,15,Measles immunization coverage,19,Percent
+,31,,Fully immunized children,5,Percent
+Tetanus toxoid,32,,Neonatal tetanus protection,26,Percent
+Care of illness,33,,Use of oral rehydration therapy (ORT),21,Percent
+,34,,Home management of diarrhoea,2,Percent
+,35,,"Received ORT or increased fluids, and continued feeding",7,
+,,,,,Percent
+,23,,Care seeking for suspected pneumonia,13,Percent
+,22,,Antibiotic treatment of suspected pneumonia,32,Percent
+Solid fuel use,24,29,Solid fuels,100,Percent
+Malaria,36,,Household availability of insecticide-treated nets (ITNs),12,Percent
+,37,22,Under-fives sleeping under insecticide-treated nets,11,Percent
+,38,,Under-fives sleeping under mosquito nets,18,Percent
+,39,22,Antimalarial treatment (under-fives),3,Percent
+,40,,Intermittent preventive malaria treatment (pregnant women),1,Percent
+ENVIRONMENT,,,,,
+Water and Sanitation,11,30,Use of improved drinking water sources,29,percent
+13,,Water treatment,22,percent,
+,12,31,Use of improved sanitation facilities,37,percent
+,14,,Disposal of child’s faeces,35,percent
+REPRODUCTIVE HEALTH,,,,,
+Contraception and unmet need,21,19c,Contraceptive prevalence,15,percent
+Topic,MICS,MDG,Indicator,,Value
+,Indicator Number,Indicator Number,,,
+,20,,Antenatal care,26,percent
+Maternal and newborn health,44,,Content of antenatal care: Blood test taken,,
+,,,Blood pressure measured Urine Specimen taken Weight measured,,
+,14,percent percent percent percent,,,
+,21,,,,
+,9,,,,
+,22,,,,
+,4,17,Skilled attendant at delivery,33,Percent
+,5,,Institutional deliveries,9,percent
+Maternal mortality,3,16,Maternal mortality ratio,1044,"per 100,000"
+Fertility,,,Total Fertility Rate,6.7,rate
+CHILD DEVELOPMENT,,,,,
+Child development,46,,Support for learning,65,percent
+,47,,Father’s support for learning,39,percent
+EDUCATION,,,,,
+Education,52,,Pre-school attendance,2,percent
+,54,,Net intake rate in primary education,9,percent
+,55,6,Net primary school attendance rate,23,percent
+,56,,Net secondary school attendance rate,7,percent
+,57,7,Children reaching grade five,92,percent
+,59,7b,Primary completion rate,4,percent
+,61,9,Gender parity index: primary school,0.8,ratio
+,,,secondary school,0.5,ratio
+Literacy,60,8,Adult literacy rate,25,percent
+CHILD PROTECTION,,,,,
+Birth registration,62,,Birth registration,3,percent
+Child labour,71,,Child labour,49,percent
+,72,,Labourer students,44,percent
+,73,,Student labourers,44,percent
+Early marriage and polygyny,67,,Marriage before age 15 Marriage before age 18,8,percent percent
+,,,,46,
+,68,,Young women aged 15-19 currently married/in union,25,percent
+,70,,Polygyny,23,percent
+,69,,Spousal age difference (10 years) Women age 15-19,,
+,,,Women age 20-24,,
+,,31,percent,,
+,,30,percent,,
+Female genital mutilation/,66,,Approval for FGM/C,65,percent
+cutting,,,,,
+63,,Prevalence of female genital mutilation/cutting (FGM/C),98,percent,
+64,,Prevalence of extreme form of FGM/C,77,percent,
+,65,,FGM/C prevalence among daughters,46,percent
+Domestic violence,100,,Attitudes towards domestic violence,76,percent
+Orphaned children,75,,Prevalence of orphans,10,percent
+,78,,Children’s living arrangements,9,percent
+,77,20,School attendance of orphans versus non-orphans,0.9,ratio
+,79,,Malnutrition among children orphaned and made vulnerable by HIV/AIDS,1.1,ratio
+HIV/AIDS,,,,,
+HIV/AIDS,82,19b,Comprehensive knowledge about HIV prevention among young people,4,percent
+knowledge and attitudes,,,,,
+89,,Knowledge of mother- to-child transmission of HIV,38,percent,
+,86,,Attitude towards people with HIV/AIDS,5,percent
+,87,,Women who know where to be tested for HIV,16,percent
+,88,,Women who have been tested for HIV,3,percent
