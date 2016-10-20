@@ -1,0 +1,225 @@
+na_values = 'N/A', 'NA'
+
+'El Salvador 2014 MICS KFR_Spanish.html': 3, 35
+'Guinea-Bissau 2014 MICS KFR_Portuguese.html': 4, 38
+'Guyana 2014 MICS_English.html': 6, 24
+'Kazakhstan 2015 MICS KFR_English.html': 3, 32
+'Kenya (Bungoma County) 2013-14 MICS_English.html': 3, 19
+'Kenya (Kakamega County) 2013-14 MICS_English.html': 3, 19
+'Kenya (Turkana County) 2013-14 MICS_English.html': 3, 20
+'Kosovo (UNSCR 1244) (Roma, Ashkali, and Egyptians) 2013-14 MICS Summary_English.html': 3, 20
+'Kosovo (UNSCR 1244) 2013-14 MICS Summary Report_English.html': 3, 20
+'Kyrgyzstan 2014 MICS_English.html': false
+'Mali 2015 MICS Key Findings Report_French.html': 4, 38
+'Mongolia 2013-14 MICS-SISS_English.html': 3, 21 false
+'Nepal 2014 MICS_English.html': 6, 21
+'Oman 2014 MICS KFR_English.html': 3, 28
+'Pakistan (Punjab) 2014 MICS_English.html': 3, 12
+'Pakistan (Sindh) 2014 MICS_English.html': 3, 18
+'Pakistan 2014 MICS (Sindh) KFR_English.html': 6, 38
+'Sao Tome and Principe 2014 MICS_English.html': 3, 24
+'Serbia (National and Roma Settlements) 2014 MICS_English.html': 5, 17
+'State of Palestine 2014 MICS_English.html': 8, 24 false
+'Sudan 2014 MICS_English.html': 3, 13
+'Swaziland 2014 MICS KFR_English.html': 3, 36
+'Turkmenistan 2015-16 MICS KFR_English.html': 3, 29
+'Zimbabwe 2014 MICS_English.html': 3, 22
+
+'Algeria 2012-13 MICS_French.html': 0, 2
+'Bangladesh 2012-13 MICS_English.html': 6, 18, 2015
+'Egypt (Sub-national) 2013-14 MICS_English.html': 3, 8, 2015 ext
+'Kenya (Bungoma County) 2013-14 MICS_English.html': 3, 19, 2015 ext
+'Kenya (Kakamega County) 2013-14 MICS_English.html': 3, 19, 2015 ext
+'Kenya (Turkana County) 2013-14 MICS_English.html': 3, 20, 2015
+
+'Kosovo (UNSCR 1244) (Roma, Ashkali, and Egyptians) 2013-14 MICS Summary_English.html': 3, 20, 2015
+'Kosovo (UNSCR 1244) 2013-14 MICS Summary Report_English.html': 3, 20, 2015
+'Madagascar (South) 2012 MICS_French.html': 0,3,2012
+'Malawi 2013-14 MICS (MDG Endline Survey)_English.html': 3, 18, 2015
+'Moldova 2012 MICS_English.html': 0,3, 2012
+
+
+'Montenegro (Roma Settlements) 2013 MICS KFR_English.html': 6, 35, 2015
+'Montenegro 2013 MICS KFR_English.html': 6, 35 ,2015
+
+'Panama 2013 MICS KFR_Spanish.html': 4, 31, 2015
+
+'Uruguay 2012-13 MICS_Spanish.html': 0,2, 2012
+'Bhutan 2010 MICS_English.html': 0, 2, 2012
+
+'Chad 2010 MICS_French' 0, 3, 2010
+'Gambia 2010 MICS_English.csv': 1, 11, 2012
+
+'Ghana (Accra) 2010-11 MICS_English.html': 0,3 , 2010
+'Guinea-Bissau 2010 MICS_Portuguese.html': 0,1, 2010
+
+'Kazakhstan 2010-11 MICS_English.html': 0, 4, 2010
+'MICS4_Final_Togo_Fr_2010.html': 0,6,2010
+
+'Mongolia 2010 MICS_English.html': 0,5,2010
+'Myanmar 2009-10 MICS_English.html': 0, 1, 2012
+
+'Nepal (Mid and Far Western Regions) 2010 MICS_English.html': 0, 2, 2012
+
+'Sierra Leone 2010 MICS_English': 0,3,2010
+'South Sudan 2010 MICS_English.html': 0,1 2012
+
+'Kenya (Mombasa Informal Settlements) 2009 MICS_English.html': 0, 2, 2009
+
+
+'Korea DPR 2009 MICS_English.html': 0, 1, 2009
+'Nigeria 2007 MICS_English.html': 0, 3, 2007
+
+'Vanuatu 2007 MICS_English.html': 0, 1, 2007
+'Bosnia and Herzegovina 2006 MICS_English.html': 8, 12, 2007
+'Burkina Faso 2006 MICS_French.html': 0,2,2007
+
+'Cameroon 2006 MICS_French.html': 0, 2,2007
+
+
+
+'Djibouti 2006 MICS_French.html'0, 2, 2007
+'Gambia 2005-06 MICS_English.html': 0, 3, 2007
+'Ghana 2006 MICS_English.html': 0, 3,2007
+
+'Guinea-Bissau 2006 MICS_French.html':0,3,2007
+
+'Guyana 2006-07 MICS_English.html':0,1,2007
+
+'Iraq 2006 MICS_English.html':0,7,2007
+'Kazakhstan 2006 MICS_English.html': 2, 14
+'Kyrgyzstan 2005-06 MICS_English.html': 0,2
+'Lao PDR 2006 MICS_English.html': 0, 2
+
+'Lebanon (Palestinians) 2006 MICS_English.html': 0,4,2007
+'Malawi 2006 MICS_English.html': 4, 9,2007
+
+'Montenegro 2005-06 MICS_English.html': 0,2,2007
+'Sao Tome and Principe 2006 MICS_English.html': 0,4,2007
+
+'Serbia 2005-06 MICS_English.html': 0, 14
+'Somalia 2006 MICS_English.html': 0,1 
+
+'Suriname 2006 MICS_English.html': 0,2
+'Syrian Arab Republic (Palestinians) 2006 MICS_English.html': 0,2
+'Syrian Arab Republic 2006 MICS_English.html': 0, 1
+
+
+
+'Thailand 2005-06 MICS_English.html': 0,2
+'Togo 2006 MICS_French.html': 0,2
+'Trinidad and Tobago 2006 MICS_English.html':0,2
+'Yemen 2006 MICS_English.html':0,2
+'Belarus 2005 MICS_English.html':0,2
+'Burundi 2005 MICS_French.html': 0,7
+
+'Georgia 2005 MICS_English.html': 0,1
+'Jamaica 2005 MICS_English.html': 0,2
+'Kyrgyzstan 2005-06 MICS_English.html': 0,2
+'Macedonia 2005 MICS_English.html': 0,1
+
+'MICS3_Albania_FinalReport_2005_Eng.html':0,1
+'MICS3_SierraLeone_FinalReport_2005_Eng.html': 0,2
+
+'Mongolia 2005 MICS_English.html': 3,5
+
+'Belarus 2012 MICS_English.html':0,4
+
+
+'Bosnia and Herzegovina (Roma Settlements) 2011-12 MICS_English.html':0,6
+'State of Palestine 2010 MICS_English.html':0,2
+'Tunisia 2011-12 MICS_French.html': 0,2
+
+
+
+
+
+
+'Vanuatu 2007 MICS_English.html': 0,1
+'Mongolia (Khuvsgul Aimag) 2012 MICS_English.html': 1, 5
+
+'Uzbekistan 2006 MICS_English': 0,2
+'Ghana 2011 MICS_English.html': 9,17
+'Qatar 2012 MICS_English.html':0,2
+'Serbia (National and Roma Settlements) 2014 MICS_English.html': 5,16
+
+'Viet Nam 2013-14 MICS_English.html': 3, 15
+'State of Palestine 2014 MICS_English.html': 8,24
+
+'Somalia (Northeast Zone) 2011 MICS_English.html': 0,3
+
+'Burkina Faso 2006 MICS_French.html':0,2
+'Macedonia (National and Roma Settlements) 2011 MICS_English.html':0,2
+
+'Dominican Republic 2014 MICS_Spanish.html':2,16
+'Swaziland 2010 MICS_English.html':0,3
+'Kyrgyzstan 2014 MICS_English.html':2,6
+
+'Central African Republic 2006 MICS_French.html':0,1
+'Somalia (Somaliland) 2011 MICS_English.html':0,3
+'Mauritania 2011 MICS_French.html': 0,2
+
+'Iraq 2011 MICS_English.html':0,2
+'MICS4_Togo_Final_Annexes.html':29,30
+'Nigeria 2011 MICS_English.html': 0,2
+
+'Serbia 2010 MICS_English.html': 11,18
+'Serbia (Roma Settlements) 2010 MICS_English.html': 11,18
+
+'Central African Republic 2010 MICS_French.html': 0,10
+'Afghanistan 2010-11 MICS_English.html': 0,2
+
+'Kenya (Nyanza Province) 2011 MICS_English.html':0,7
+'Iraq 2006 MICS_English.html':0,6
+'Jamaica 2011 MICS_English.html': 0,2
+'Chad 2010 MICS_French.html': 0,4
+
+'Mongolia (Nalaikh District) 2012 MICS_English.html': 0,9
+
+'Lao 2012 MICS_English.html':0,4
+'Kenya (Eastern Province)_2008_Mwingi_Report.html': 0,1
+
+'Barbados 2012 MICS_English.html':0,2
+
+'Indonesia (Selected Districts of West Papua) 2011 MICS_English.html':0,3
+
+'Turkmenistan 2006 MICS_English.html':0,1
+
+'Montenegro (National and Roma Settlements) 2013 MICS_English.html': 10,26
+'Pakistan (Balochistan) 2010 MICS_English.html': 0,6
+'Belize 2011 MICS_English.html': 0,1
+'Bosnia and Herzegovina 2011-12 MICS_English.html':0,6
+
+'Lebanon (Palestinians) 2011 MICS_English_.html'： 2,3
+'Suriname 2010 MICS_English.html': 0,3
+
+'Ukraine 2012 MICS_English.html':0,3
+
+'Thailand 2012 MICS_English.html': 6,16
+'Costa Rica 2011 MICS_Spanish.html': 0,2
+
+'Viet Nam 2011 MICS_English.html':0,2
+
+'Zimbabwe 2009 MICS_English.html': 3,8
+'Indonesia (Selected Districts of Papua) 2011 MICS_English.html': 0,3 
+
+'Cuba 2011 MICS_Spanish.html': 0,1
+
+'Benin 2014 MICS KFR_French.html’: 3,44
+'Tajikistan 2005 MICS_English.html’: 0,11
+
+'Congo 2014-15 MICS KFR_French.html’: 6,18
+'MICS4_Pakistan_Punjab_2011_Final_Report.html’: 0,2
+
+'Cameroon 2014 MICS KFR_French.html’:6,40
+'Kenya (Bungoma County) 2013-14 MICS_English.html’:3,19
+
+"Cote d'Ivoire 2006 MICS_French.html”: 0,2
+'Argentina 2011-12 MICS_Spanish.html’: 0,0
+'Saint Lucia 2012 MICS_English.html’: 0,2
+
+'Ghana (District) 2007 MICS_English.html’:3,12
+'Ghana 2006 MICS_English.html’: 0,3
+
+'Cuba 2014 MICS_Spanish.html’: 2,11
+
